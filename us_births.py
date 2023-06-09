@@ -14,98 +14,100 @@ ed_level_list = df['Education Level of Mother'].unique().tolist()
 state_list = df['State'].unique().tolist()
 #--------------------------------------------------------------------------------------------------
 
-app.layout = html.Div([
+app.layout = html.Div(
+    style = {'background-color': 'lightblue'},
+    children = [
 
-    html.H1("US Births From 2016 - 2021", style = {'text-align': 'center'}),
+        html.H1("US Births From 2016 - 2021", style = {'text-align': 'center'}),
 
-    html.Div(
+        html.Div(
+            style = {'display': 'flex', 'flex-direction': 'row', 'background-color': 'blue', 'height': '900px'},
+            children = [
 
-        style = {'width': '30%'},
-        children = [
+                html.Div(
+                    style = {'padding': 10, 'flex': '20%', 'background-color': 'red', 'height': '500px'},
+                    children = [
 
-            html.H2("Select Year Option", style = {'text-align': 'center'}),
+                        html.Label("Select Year Range"),
+                        dcc.RangeSlider(
+                            id = 'year-selected',
+                            min = 2016, 
+                            max = 2021, 
+                            step = 1, 
+                            marks = {
+                                2016: '2016',
+                                2017: '2017',
+                                2018: '2018',
+                                2019: '2019',
+                                2020: '2020',
+                                2021: '2021'
+                            },
+                            value = [2016, 2021],
+                            tooltip = {'placement': 'bottom', 'always_visible': True}),
 
-            dcc.Dropdown(options = ['Single Year', 'Year Range'], id = 'year-option', searchable = False, style = {'text-align': 'center', 'fontSize': '20px',
-                                                                                                                    'padding': '20px'}),                                                                                                       
-            html.H2(id = 'year-option-selected', style = {'text-align': 'center'}),
+                        html.Br(),
+                        html.Label("Select Education Level"),
+                        dcc.Dropdown(options = ed_level_list, id = 'ed-level-selected', value = ed_level_list[0], searchable = False, style = {'whiteSpace': 'normal', 'wordWrap': 'break-word'}),
 
-            html.Div(id = 'slider-or-dropdown'),
+                        html.Br(),
+                        html.Label("Select State"),
+                        dcc.Dropdown(options = state_list, id = 'state-selected', value = state_list[0], searchable = False, style = {'whiteSpace': 'normal', 'wordWrap': 'break-word'})
 
-            html.H2("Select Education Level", style = {'text-align': 'center'}),
+                ]), # html.Div ---- Sliders/DropsBoxes/Headings
 
-            dcc.Dropdown(options = ed_level_list, id = 'ed-level-selected', searchable = False, style = {'text-align': 'center', 'fontSize': '20px',
-                                                                              'padding': '20px', 'whiteSpace': 'normal', 'wordWrap': 'break-word'}),
+                html.Div(
 
-            html.H2("Select State", style = {'text-align': 'center'}),
+                    style = {'padding': 10, 'flex': '80%', 'background-color': 'green', 'height': '700px'},
+                    children = [
 
-            dcc.Dropdown(options = state_list, id = 'state-selected', searchable = False, style = {'text-align': 'center', 'fontSize': '20px',
-                                                                              'padding': '20px', 'whiteSpace': 'normal', 'wordWrap': 'break-word'})
+                        dcc.Graph(id = 'bar-graph')
+                        
 
-
-
-
+                ]) # html.Div ---- Sliders/DropsBoxes/Headings
 
 
-    ]) # html.Div(
+        ])
+
+        
+
 
     
 
 ]) # app.layout = html.Div([
 
 
-@app.callback(
-    Output('year-option-selected', 'children'),
-    [Input('year-option', 'value')] 
-)
-
-def year_selected_heading(year_option):
-    if year_option == 'Single Year':
-        title = 'Select Single year'
-        return title
     
-    elif year_option == 'Year Range':
-        title = 'Select Year Range'
-        return title
-
-
-
-
-
 
 
 
 @app.callback(
-    Output('slider-or-dropdown', 'children'),
-    [Input('year-option', 'value')]
+    Output('bar-graph', 'figure'),
+    [Input('ed-level-selected', 'value'),
+     Input('state-selected', 'value'),
+     Input('year-selected', 'value')]
 )
 
-def render_slider(year_option):
+def render_bar_graph(ed_level_selected, state_selected, year_selected):
 
-    if year_option == 'Single Year':
+    start_range = year_selected[0]
+    end_range = year_selected[1]
+    year_condition = df['Year'].between(start_range, end_range)
+    state_condition = df['State'] == state_selected
+    ed_condition = df['Education Level of Mother'] == ed_level_selected
 
-        return dcc.Dropdown(['2016', '2017', '2018', '2019', '2020', '2021'], '2016', id = 'year_selected', searchable = False, 
-                            style = {'text-align': 'center',
-                                    'fontSize': '20px',
-                                    'padding': '20px'})
+    filtered_df = df[state_condition & year_condition & ed_condition].groupby('Year')['Number of Births'].sum().reset_index()
+
+    fig = px.bar(filtered_df, x = 'Year', y = 'Number of Births')
+
+
+    return fig
     
-    
-    elif year_option == 'Year Range':
-        return dcc.RangeSlider(
-            id = 'year_selected',
-            min = 2016, 
-            max = 2021, 
-            step = 1, 
-            marks = {
-                2016: '2016',
-                2017: '2017',
-                2018: '2018',
-                2019: '2019',
-                2020: '2020',
-                2021: '2021'
-            },
-            value = [2018, 2020],
-            tooltip = {'placement': 'bottom', 'always_visible': True})
-    
+
+        
+
+
+
+
 
 
 
