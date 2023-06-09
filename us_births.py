@@ -2,6 +2,8 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from dash import Dash, dcc, html, Input, Output
+import dash_leaflet as dl
+import json
 
 
 app = Dash(__name__, suppress_callback_exceptions = True)
@@ -10,6 +12,10 @@ app = Dash(__name__, suppress_callback_exceptions = True)
 # Import and clean data (import csv into pandas)
 
 df = pd.read_csv("us_births_2016_2021.csv")
+#states_json = pd.read_json('us-states.json')
+with open('us-states.json') as f:
+    us_states_data = json.load(f)
+
 ed_level_list = df['Education Level of Mother'].unique().tolist()
 state_list = df['State'].unique().tolist()
 #--------------------------------------------------------------------------------------------------
@@ -21,7 +27,7 @@ app.layout = html.Div(
         html.H1("US Births From 2016 - 2021", style = {'text-align': 'center'}),
 
         html.Div(
-            style = {'display': 'flex', 'flex-direction': 'row', 'background-color': 'blue', 'height': '900px'},
+            style = {'display': 'flex', 'flex-direction': 'row', 'background-color': 'blue', 'height': '1200px'},
             children = [
 
                 html.Div(
@@ -57,10 +63,22 @@ app.layout = html.Div(
 
                 html.Div(
 
-                    style = {'padding': 10, 'flex': '80%', 'background-color': 'green', 'height': '700px'},
+                    style = {'padding': 10, 'flex': '80%', 'background-color': 'green', 'height': '860px'},
                     children = [
 
-                        dcc.Graph(id = 'bar-graph')
+                        dcc.Graph(id = 'bar-graph'),
+
+                        html.Br(),
+                        dl.Map([
+                            dl.TileLayer(),
+                            dl.GeoJSON(data = us_states_data, options = {'style': {'color': 'blue'}})
+                        ], style = {'width': '100%', 'height': '600px'}, center = [37.0902, -95.7129], zoom = 4)
+                        
+
+
+
+
+
                         
 
                 ]) # html.Div ---- Sliders/DropsBoxes/Headings
