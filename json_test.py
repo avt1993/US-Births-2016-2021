@@ -17,8 +17,8 @@ app.layout = html.Div([
     html.H1("US States Map"),
     dl.Map([
         dl.TileLayer(),
-        dl.GeoJSON(data=us_states_data, options={'style': {'color': 'blue'}})
-    ], style={'width': '100%', 'height': '600px'}, center=[37.0902, -95.7129], zoom=4),
+        dl.GeoJSON(data = us_states_data, options = {'style': {'color': 'blue'}})
+    ], style = {'width': '100%', 'height': '600px'}, center = [37.0902, -95.7129], zoom = 4),
 ])
 
 # Run the Dash app

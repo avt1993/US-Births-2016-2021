@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 from dash import Dash, dcc, html, Input, Output
 import dash_leaflet as dl
 import json
-
+from dash_extensions.javascript import arrow_function
 
 app = Dash(__name__, suppress_callback_exceptions = True)
 
@@ -12,7 +12,7 @@ app = Dash(__name__, suppress_callback_exceptions = True)
 # Import and clean data (import csv into pandas)
 
 df = pd.read_csv("us_births_2016_2021.csv")
-#states_json = pd.read_json('us-states.json')
+#us_states_data = pd.read_json('us-states.json')
 with open('us-states.json') as f:
     us_states_data = json.load(f)
 
@@ -67,12 +67,23 @@ app.layout = html.Div(
                     children = [
 
                         dcc.Graph(id = 'bar-graph'),
+                        dcc.Graph(id = 'bar-graph2'),
 
                         html.Br(),
-                        dl.Map([
-                            dl.TileLayer(),
-                            dl.GeoJSON(data = us_states_data, options = {'style': {'color': 'blue'}})
-                        ], style = {'width': '100%', 'height': '600px'}, center = [37.0902, -95.7129], zoom = 4)
+                        dl.Map(
+                            style = {'width': '100%', 'height': '600px'},
+                            children = [
+                                dl.TileLayer(),
+                                dl.GeoJSON(data = us_states_data, 
+                                           id = 'state-layer', 
+                                           options = {'style': {'color': 'blue'}},
+                                           hoverStyle = arrow_function(dict(weight = 10, color = '#666', dashArray = '')))
+                                           
+                            ], center = [37.0902, -95.7129], zoom = 4),
+
+                            html.Div(id = 'state_name')
+
+
                         
 
 
@@ -94,12 +105,23 @@ app.layout = html.Div(
 ]) # app.layout = html.Div([
 
 
+
+
+@app.callback(
+        Output("state_name", "children"), 
+        [Input("state-layer", "hover_feature")]
+)
+
+def state_hover(feature):
+    if feature is not None:
+        return f"{feature['properties']['name']}"
     
 
 
 
 @app.callback(
-    Output('bar-graph', 'figure'),
+    [Output('bar-graph', 'figure'),
+    Output('bar-graph2', 'figure')],
     [Input('ed-level-selected', 'value'),
      Input('state-selected', 'value'),
      Input('year-selected', 'value')]
@@ -117,8 +139,28 @@ def render_bar_graph(ed_level_selected, state_selected, year_selected):
 
     fig = px.bar(filtered_df, x = 'Year', y = 'Number of Births')
 
+    df_by_ed_level = df[state_condition & year_condition].groupby('Education Level of Mother')['Number of Births'].sum().reset_index()
+    df_by_ed_level['Formatted Number of Births Value'] = [f'{val:,}' for val in df_by_ed_level['Number of Births']]
+    df_by_ed_level = df_by_ed_level.sort_values(by = 'Number of Births', ascending = False)
 
-    return fig
+
+
+    fig2 = px.bar(df_by_ed_level, x = 'Education Level of Mother', y = 'Number of Births', text = 'Formatted Number of Births Value')
+
+    fig2.update_layout(
+        title = ('Total Births by Education Level of Mother in ' + state_selected),
+        xaxis_title = "",
+        yaxis_title = False,
+        yaxis_visible = False,
+        xaxis_visible = True,
+        plot_bgcolor = 'rgba(0,0,0,0)',  # Set the plot background color to transparent
+        #paper_bgcolor = 'rgba(0,0,0,0)',  # Set the paper background color to transparent
+    )
+    fig2.update_traces(textposition = "outside", cliponaxis = False)
+
+
+
+    return fig, fig2
     
 
         
