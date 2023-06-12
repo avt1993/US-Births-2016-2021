@@ -12,12 +12,14 @@ app = Dash(__name__, suppress_callback_exceptions = True)
 # Import and clean data (import csv into pandas)
 
 df = pd.read_csv("us_births_2016_2021.csv")
-#us_states_data = pd.read_json('us-states.json')
+map_df = pd.read_csv("us_births_2016_2021_updated.csv")
+
 with open('us-states.json') as f:
-    us_states_data = json.load(f)
+    us_states_GEOJSON = json.load(f)
 
 ed_level_list = df['Education Level of Mother'].unique().tolist()
 state_list = df['State'].unique().tolist()
+
 #--------------------------------------------------------------------------------------------------
 
 app.layout = html.Div(
@@ -48,7 +50,7 @@ app.layout = html.Div(
                                 2020: '2020',
                                 2021: '2021'
                             },
-                            value = [2016, 2021],
+                            value = [2016, 2016],
                             tooltip = {'placement': 'bottom', 'always_visible': True}),
 
                         html.Br(),
@@ -66,29 +68,28 @@ app.layout = html.Div(
                     style = {'padding': 10, 'flex': '80%', 'background-color': 'green', 'height': '860px'},
                     children = [
 
+                        dcc.Graph(id = 'map'),
                         dcc.Graph(id = 'bar-graph'),
                         dcc.Graph(id = 'bar-graph2'),
+
+
 
                         html.Br(),
                         dl.Map(
                             style = {'width': '100%', 'height': '600px'},
                             children = [
                                 dl.TileLayer(),
-                                dl.GeoJSON(data = us_states_data, 
+                                dl.GeoJSON(data = us_states_GEOJSON, 
                                            id = 'state-layer', 
                                            options = {'style': {'color': 'blue'}},
                                            hoverStyle = arrow_function(dict(weight = 10, color = '#666', dashArray = '')))
                                            
                             ], center = [37.0902, -95.7129], zoom = 4),
 
-                            html.Div(id = 'state_name')
 
+                            
 
-                        
-
-
-
-
+                    
 
                         
 
@@ -160,12 +161,60 @@ def render_bar_graph(ed_level_selected, state_selected, year_selected):
 
 
 
+
     return fig, fig2
     
 
+    
+@app.callback(
+    Output('map', 'figure'),
+    [Input('year-selected', 'value'),
+     Input('ed-level-selected', 'value')]
+)
+
+def update_map(year_selected, ed_level_selected):
+
+
+    if year_selected[0] == year_selected[1]:
+        year_chosen = year_selected[0]
+
+        merged_df = map_df[(map_df['Year'] == year_chosen) & (map_df['Education Level of Mother'] == ed_level_selected)].reset_index()
+
+    else:
+        total_births_by_state_and_year = df[(df['Year'].between(year_selected[0],year_selected[1]))].groupby(['State', 'State Abbreviation', 'Year'])['Number of Births'].sum().reset_index(name = 'Total Births in State')
+        df_by_ed_level_usa = df[(df['Year'].between(year_selected[0],year_selected[1])) & (df['Education Level of Mother'] == ed_level_selected)].groupby(['State', 'State Abbreviation', 'Year', 'Education Level of Mother'])['Number of Births'].sum().reset_index()
+        merged_df = df_by_ed_level_usa.merge(total_births_by_state_and_year, on = ['State', 'State Abbreviation', 'Year'], suffixes = ('_by ed level', '_by state'))
+        merged_df = merged_df.groupby(['State', 'State Abbreviation'])['Number of Births', 'Total Births in State'].sum().reset_index()
+        merged_df['Percentage of Births by State'] = ((merged_df['Number of Births'] / merged_df['Total Births in State']) * 100).round(2)
+
+
         
 
+    layout = dict(
+        width = 1200,     
+        height=800  # Set the height of the map in pixels
+    
+    )
 
+    map_fig = go.Figure(
+        data = go.Choropleth(
+        locations = merged_df['State Abbreviation'], # Spatial coordinates
+        z = merged_df['Percentage of Births by State'].astype(float), # Data to be color-coded
+        locationmode = 'USA-states', # set of locations match entries in `locations`
+        colorscale = 'Reds',
+        colorbar_title = "Percentage",
+        ),
+        layout = layout
+
+    )
+
+  
+    map_fig.update_layout(
+        title_text = ('Percentage of Births by Education Level - ' + '(' + ed_level_selected + ')'),
+        geo_scope = 'usa' # limite map scope to USA
+    )
+
+    return map_fig
 
 
 
