@@ -1,0 +1,2697 @@
+,State,State Abbreviation,Education Level of Mother,Year,Number of Births,Total Births in State,Average Age of Mother (years),Political Party Governing
+0,Alabama,AL,9th > 12th Grade,2016,7093,59151,24.0,R
+1,Alabama,AL,> 8th Grade,2016,2240,59151,27.7,R
+2,Alabama,AL,Associate Degree,2016,4687,59151,28.95,R
+3,Alabama,AL,Bahcelor's Degree,2016,9098,59151,30.3,R
+4,Alabama,AL,Doctorate,2016,998,59151,32.95,R
+5,Alabama,AL,High School Grad,2016,18061,59151,25.3,R
+6,Alabama,AL,Master's Degree,2016,3884,59151,32.1,R
+7,Alabama,AL,Some College Credit,2016,12969,59151,26.7,R
+8,Alabama,AL,Unknown,2016,121,59151,27.45,R
+9,Alabama,AL,9th > 12th Grade,2017,6628,58941,24.15,R
+10,Alabama,AL,> 8th Grade,2017,1990,58941,27.6,R
+11,Alabama,AL,Associate Degree,2017,4857,58941,28.9,R
+12,Alabama,AL,Bahcelor's Degree,2017,8959,58941,30.45,R
+13,Alabama,AL,Doctorate,2017,1139,58941,33.05,R
+14,Alabama,AL,High School Grad,2017,18365,58941,25.4,R
+15,Alabama,AL,Master's Degree,2017,3821,58941,31.95,R
+16,Alabama,AL,Some College Credit,2017,13035,58941,26.85,R
+17,Alabama,AL,Unknown,2017,147,58941,27.35,R
+18,Alabama,AL,9th > 12th Grade,2018,6169,57761,24.3,R
+19,Alabama,AL,> 8th Grade,2018,1856,57761,27.9,R
+20,Alabama,AL,Associate Degree,2018,5034,57761,28.95,R
+21,Alabama,AL,Bahcelor's Degree,2018,8833,57761,30.45,R
+22,Alabama,AL,Doctorate,2018,1101,57761,33.25,R
+23,Alabama,AL,High School Grad,2018,18306,57761,25.5,R
+24,Alabama,AL,Master's Degree,2018,3857,57761,31.95,R
+25,Alabama,AL,Some College Credit,2018,12493,57761,27.0,R
+26,Alabama,AL,Unknown,2018,112,57761,27.25,R
+27,Alabama,AL,9th > 12th Grade,2019,5855,58615,24.45,R
+28,Alabama,AL,> 8th Grade,2019,2350,58615,27.85,R
+29,Alabama,AL,Associate Degree,2019,5017,58615,28.95,R
+30,Alabama,AL,Bahcelor's Degree,2019,8892,58615,30.45,R
+31,Alabama,AL,Doctorate,2019,1056,58615,33.15,R
+32,Alabama,AL,High School Grad,2019,18887,58615,25.55,R
+33,Alabama,AL,Master's Degree,2019,3915,58615,32.0,R
+34,Alabama,AL,Some College Credit,2019,12545,58615,27.1,R
+35,Alabama,AL,Unknown,2019,98,58615,27.7,R
+36,Alabama,AL,9th > 12th Grade,2020,5612,57647,24.65,R
+37,Alabama,AL,> 8th Grade,2020,2294,57647,27.5,R
+38,Alabama,AL,Associate Degree,2020,5096,57647,29.15,R
+39,Alabama,AL,Bahcelor's Degree,2020,8850,57647,30.45,R
+40,Alabama,AL,Doctorate,2020,1121,57647,33.25,R
+41,Alabama,AL,High School Grad,2020,19011,57647,25.65,R
+42,Alabama,AL,Master's Degree,2020,4076,57647,32.0,R
+43,Alabama,AL,Some College Credit,2020,11508,57647,27.3,R
+44,Alabama,AL,Unknown,2020,79,57647,30.0,R
+45,Alabama,AL,9th > 12th Grade,2021,5240,58054,24.45,R
+46,Alabama,AL,> 8th Grade,2021,2386,58054,27.75,R
+47,Alabama,AL,Associate Degree,2021,5039,58054,29.1,R
+48,Alabama,AL,Bahcelor's Degree,2021,9266,58054,30.45,R
+49,Alabama,AL,Doctorate,2021,1220,58054,33.15,R
+50,Alabama,AL,High School Grad,2021,19165,58054,25.8,R
+51,Alabama,AL,Master's Degree,2021,4421,58054,31.85,R
+52,Alabama,AL,Some College Credit,2021,11255,58054,27.5,R
+53,Alabama,AL,Unknown,2021,62,58054,27.65,R
+54,Alaska,AK,9th > 12th Grade,2016,1050,11209,24.4,I
+55,Alaska,AK,> 8th Grade,2016,76,11209,28.2,I
+56,Alaska,AK,Associate Degree,2016,906,11209,29.55,I
+57,Alaska,AK,Bahcelor's Degree,2016,1848,11209,31.0,I
+58,Alaska,AK,Doctorate,2016,187,11209,33.95,I
+59,Alaska,AK,High School Grad,2016,3346,11209,26.15,I
+60,Alaska,AK,Master's Degree,2016,719,11209,32.95,I
+61,Alaska,AK,Some College Credit,2016,2911,11209,27.9,I
+62,Alaska,AK,Unknown,2016,166,11209,29.5,I
+63,Alaska,AK,9th > 12th Grade,2017,942,10445,24.3,I
+64,Alaska,AK,> 8th Grade,2017,88,10445,28.1,I
+65,Alaska,AK,Associate Degree,2017,844,10445,29.9,I
+66,Alaska,AK,Bahcelor's Degree,2017,1722,10445,31.35,I
+67,Alaska,AK,Doctorate,2017,185,10445,34.2,I
+68,Alaska,AK,High School Grad,2017,3097,10445,26.55,I
+69,Alaska,AK,Master's Degree,2017,688,10445,33.4,I
+70,Alaska,AK,Some College Credit,2017,2723,10445,27.95,I
+71,Alaska,AK,Unknown,2017,156,10445,29.2,I
+72,Alaska,AK,9th > 12th Grade,2018,880,10086,24.9,I
+73,Alaska,AK,> 8th Grade,2018,63,10086,28.45,I
+74,Alaska,AK,Associate Degree,2018,838,10086,30.05,I
+75,Alaska,AK,Bahcelor's Degree,2018,1737,10086,31.35,I
+76,Alaska,AK,Doctorate,2018,209,10086,34.15,I
+77,Alaska,AK,High School Grad,2018,3021,10086,26.5,I
+78,Alaska,AK,Master's Degree,2018,643,10086,33.3,I
+79,Alaska,AK,Some College Credit,2018,2556,10086,28.25,I
+80,Alaska,AK,Unknown,2018,139,10086,29.2,I
+81,Alaska,AK,9th > 12th Grade,2019,830,9822,25.15,R
+82,Alaska,AK,> 8th Grade,2019,68,9822,29.8,R
+83,Alaska,AK,Associate Degree,2019,776,9822,30.15,R
+84,Alaska,AK,Bahcelor's Degree,2019,1675,9822,31.6,R
+85,Alaska,AK,Doctorate,2019,221,9822,34.5,R
+86,Alaska,AK,High School Grad,2019,3001,9822,26.75,R
+87,Alaska,AK,Master's Degree,2019,636,9822,33.3,R
+88,Alaska,AK,Some College Credit,2019,2446,9822,28.25,R
+89,Alaska,AK,Unknown,2019,169,9822,29.0,R
+90,Alaska,AK,9th > 12th Grade,2020,735,9469,25.9,R
+91,Alaska,AK,> 8th Grade,2020,53,9469,29.05,R
+92,Alaska,AK,Associate Degree,2020,813,9469,30.25,R
+93,Alaska,AK,Bahcelor's Degree,2020,1579,9469,31.4,R
+94,Alaska,AK,Doctorate,2020,230,9469,34.35,R
+95,Alaska,AK,High School Grad,2020,2994,9469,26.7,R
+96,Alaska,AK,Master's Degree,2020,612,9469,33.25,R
+97,Alaska,AK,Some College Credit,2020,2300,9469,28.4,R
+98,Alaska,AK,Unknown,2020,153,9469,28.6,R
+99,Alaska,AK,9th > 12th Grade,2021,712,9367,24.85,R
+100,Alaska,AK,> 8th Grade,2021,60,9367,29.35,R
+101,Alaska,AK,Associate Degree,2021,752,9367,30.4,R
+102,Alaska,AK,Bahcelor's Degree,2021,1697,9367,31.55,R
+103,Alaska,AK,Doctorate,2021,219,9367,34.15,R
+104,Alaska,AK,High School Grad,2021,2848,9367,26.8,R
+105,Alaska,AK,Master's Degree,2021,654,9367,33.7,R
+106,Alaska,AK,Some College Credit,2021,2257,9367,28.4,R
+107,Alaska,AK,Unknown,2021,168,9367,29.3,R
+108,Arizona,AZ,9th > 12th Grade,2016,12352,84520,24.85,R
+109,Arizona,AZ,> 8th Grade,2016,2751,84520,29.6,R
+110,Arizona,AZ,Associate Degree,2016,7173,84520,29.45,R
+111,Arizona,AZ,Bahcelor's Degree,2016,13799,84520,31.1,R
+112,Arizona,AZ,Doctorate,2016,1534,84520,33.55,R
+113,Arizona,AZ,High School Grad,2016,21291,84520,26.2,R
+114,Arizona,AZ,Master's Degree,2016,4984,84520,32.75,R
+115,Arizona,AZ,Some College Credit,2016,20085,84520,27.65,R
+116,Arizona,AZ,Unknown,2016,551,84520,27.9,R
+117,Arizona,AZ,9th > 12th Grade,2017,11557,81872,24.9,R
+118,Arizona,AZ,> 8th Grade,2017,2517,81872,29.65,R
+119,Arizona,AZ,Associate Degree,2017,6756,81872,29.8,R
+120,Arizona,AZ,Bahcelor's Degree,2017,13019,81872,31.2,R
+121,Arizona,AZ,Doctorate,2017,1594,81872,33.6,R
+122,Arizona,AZ,High School Grad,2017,21492,81872,26.35,R
+123,Arizona,AZ,Master's Degree,2017,5141,81872,32.8,R
+124,Arizona,AZ,Some College Credit,2017,19218,81872,27.85,R
+125,Arizona,AZ,Unknown,2017,578,81872,28.75,R
+126,Arizona,AZ,9th > 12th Grade,2018,11102,80723,25.0,R
+127,Arizona,AZ,> 8th Grade,2018,2394,80723,29.5,R
+128,Arizona,AZ,Associate Degree,2018,6887,80723,29.75,R
+129,Arizona,AZ,Bahcelor's Degree,2018,13326,80723,31.2,R
+130,Arizona,AZ,Doctorate,2018,1575,80723,33.9,R
+131,Arizona,AZ,High School Grad,2018,21303,80723,26.5,R
+132,Arizona,AZ,Master's Degree,2018,5111,80723,32.85,R
+133,Arizona,AZ,Some College Credit,2018,18661,80723,28.05,R
+134,Arizona,AZ,Unknown,2018,364,80723,28.55,R
+135,Arizona,AZ,9th > 12th Grade,2019,10350,79375,25.1,R
+136,Arizona,AZ,> 8th Grade,2019,2247,79375,29.7,R
+137,Arizona,AZ,Associate Degree,2019,6803,79375,29.85,R
+138,Arizona,AZ,Bahcelor's Degree,2019,13466,79375,31.2,R
+139,Arizona,AZ,Doctorate,2019,1556,79375,34.05,R
+140,Arizona,AZ,High School Grad,2019,21293,79375,26.6,R
+141,Arizona,AZ,Master's Degree,2019,5073,79375,32.9,R
+142,Arizona,AZ,Some College Credit,2019,18249,79375,28.2,R
+143,Arizona,AZ,Unknown,2019,338,79375,28.75,R
+144,Arizona,AZ,9th > 12th Grade,2020,9553,76947,25.2,R
+145,Arizona,AZ,> 8th Grade,2020,1958,76947,29.5,R
+146,Arizona,AZ,Associate Degree,2020,6703,76947,29.95,R
+147,Arizona,AZ,Bahcelor's Degree,2020,13262,76947,31.25,R
+148,Arizona,AZ,Doctorate,2020,1641,76947,33.95,R
+149,Arizona,AZ,High School Grad,2020,20860,76947,26.7,R
+150,Arizona,AZ,Master's Degree,2020,5026,76947,32.85,R
+151,Arizona,AZ,Some College Credit,2020,17562,76947,28.4,R
+152,Arizona,AZ,Unknown,2020,382,76947,29.2,R
+153,Arizona,AZ,9th > 12th Grade,2021,9065,77916,25.3,R
+154,Arizona,AZ,> 8th Grade,2021,1838,77916,29.4,R
+155,Arizona,AZ,Associate Degree,2021,6807,77916,30.0,R
+156,Arizona,AZ,Bahcelor's Degree,2021,14283,77916,31.2,R
+157,Arizona,AZ,Doctorate,2021,1700,77916,34.2,R
+158,Arizona,AZ,High School Grad,2021,21459,77916,26.9,R
+159,Arizona,AZ,Master's Degree,2021,5313,77916,32.8,R
+160,Arizona,AZ,Some College Credit,2021,17105,77916,28.55,R
+161,Arizona,AZ,Unknown,2021,346,77916,28.95,R
+162,Arkansas,AR,9th > 12th Grade,2016,4724,38274,23.9,R
+163,Arkansas,AR,> 8th Grade,2016,928,38274,29.4,R
+164,Arkansas,AR,Associate Degree,2016,2807,38274,28.4,R
+165,Arkansas,AR,Bahcelor's Degree,2016,5530,38274,29.9,R
+166,Arkansas,AR,Doctorate,2016,534,38274,32.55,R
+167,Arkansas,AR,High School Grad,2016,12394,38274,25.1,R
+168,Arkansas,AR,Master's Degree,2016,1961,38274,31.35,R
+169,Arkansas,AR,Some College Credit,2016,9164,38274,26.5,R
+170,Arkansas,AR,Unknown,2016,232,38274,27.0,R
+171,Arkansas,AR,9th > 12th Grade,2017,4575,37520,24.1,R
+172,Arkansas,AR,> 8th Grade,2017,872,37520,28.85,R
+173,Arkansas,AR,Associate Degree,2017,2723,37520,28.45,R
+174,Arkansas,AR,Bahcelor's Degree,2017,5356,37520,29.95,R
+175,Arkansas,AR,Doctorate,2017,495,37520,32.4,R
+176,Arkansas,AR,High School Grad,2017,12520,37520,25.25,R
+177,Arkansas,AR,Master's Degree,2017,1948,37520,31.6,R
+178,Arkansas,AR,Some College Credit,2017,8834,37520,26.65,R
+179,Arkansas,AR,Unknown,2017,197,37520,27.65,R
+180,Arkansas,AR,9th > 12th Grade,2018,4301,37018,24.2,R
+181,Arkansas,AR,> 8th Grade,2018,860,37018,29.6,R
+182,Arkansas,AR,Associate Degree,2018,2978,37018,28.4,R
+183,Arkansas,AR,Bahcelor's Degree,2018,5291,37018,30.05,R
+184,Arkansas,AR,Doctorate,2018,579,37018,32.5,R
+185,Arkansas,AR,High School Grad,2018,11959,37018,25.2,R
+186,Arkansas,AR,Master's Degree,2018,2187,37018,31.8,R
+187,Arkansas,AR,Some College Credit,2018,8566,37018,26.75,R
+188,Arkansas,AR,Unknown,2018,297,37018,27.7,R
+189,Arkansas,AR,9th > 12th Grade,2019,3964,36564,24.2,R
+190,Arkansas,AR,> 8th Grade,2019,799,36564,29.4,R
+191,Arkansas,AR,Associate Degree,2019,2889,36564,28.5,R
+192,Arkansas,AR,Bahcelor's Degree,2019,5265,36564,30.05,R
+193,Arkansas,AR,Doctorate,2019,549,36564,32.85,R
+194,Arkansas,AR,High School Grad,2019,12227,36564,25.3,R
+195,Arkansas,AR,Master's Degree,2019,2244,36564,31.55,R
+196,Arkansas,AR,Some College Credit,2019,8350,36564,26.9,R
+197,Arkansas,AR,Unknown,2019,277,36564,26.85,R
+198,Arkansas,AR,9th > 12th Grade,2020,3672,35251,24.25,R
+199,Arkansas,AR,> 8th Grade,2020,823,35251,29.4,R
+200,Arkansas,AR,Associate Degree,2020,2940,35251,28.6,R
+201,Arkansas,AR,Bahcelor's Degree,2020,5200,35251,30.05,R
+202,Arkansas,AR,Doctorate,2020,597,35251,32.65,R
+203,Arkansas,AR,High School Grad,2020,11853,35251,25.4,R
+204,Arkansas,AR,Master's Degree,2020,2185,35251,31.55,R
+205,Arkansas,AR,Some College Credit,2020,7666,35251,27.05,R
+206,Arkansas,AR,Unknown,2020,315,35251,26.7,R
+207,Arkansas,AR,9th > 12th Grade,2021,3507,35965,24.5,R
+208,Arkansas,AR,> 8th Grade,2021,784,35965,29.25,R
+209,Arkansas,AR,Associate Degree,2021,3057,35965,28.7,R
+210,Arkansas,AR,Bahcelor's Degree,2021,5540,35965,30.0,R
+211,Arkansas,AR,Doctorate,2021,688,35965,32.9,R
+212,Arkansas,AR,High School Grad,2021,12079,35965,25.45,R
+213,Arkansas,AR,Master's Degree,2021,2512,35965,31.7,R
+214,Arkansas,AR,Some College Credit,2021,7419,35965,27.05,R
+215,Arkansas,AR,Unknown,2021,379,35965,28.3,R
+216,California,CA,9th > 12th Grade,2016,48019,488827,26.6,D
+217,California,CA,> 8th Grade,2016,20226,488827,31.4,D
+218,California,CA,Associate Degree,2016,31795,488827,30.45,D
+219,California,CA,Bahcelor's Degree,2016,94066,488827,32.25,D
+220,California,CA,Doctorate,2016,13783,488827,34.65,D
+221,California,CA,High School Grad,2016,117402,488827,27.1,D
+222,California,CA,Master's Degree,2016,41680,488827,33.4,D
+223,California,CA,Some College Credit,2016,96498,488827,28.4,D
+224,California,CA,Unknown,2016,25358,488827,30.6,D
+225,California,CA,9th > 12th Grade,2017,43176,471658,26.95,D
+226,California,CA,> 8th Grade,2017,18261,471658,31.35,D
+227,California,CA,Associate Degree,2017,30847,471658,30.55,D
+228,California,CA,Bahcelor's Degree,2017,94168,471658,32.4,D
+229,California,CA,Doctorate,2017,13703,471658,34.75,D
+230,California,CA,High School Grad,2017,112979,471658,27.2,D
+231,California,CA,Master's Degree,2017,41456,471658,33.55,D
+232,California,CA,Some College Credit,2017,93242,471658,28.6,D
+233,California,CA,Unknown,2017,23826,471658,30.95,D
+234,California,CA,9th > 12th Grade,2018,38844,454920,27.2,D
+235,California,CA,> 8th Grade,2018,16717,454920,31.35,D
+236,California,CA,Associate Degree,2018,29872,454920,30.7,D
+237,California,CA,Bahcelor's Degree,2018,92001,454920,32.5,D
+238,California,CA,Doctorate,2018,13912,454920,34.8,D
+239,California,CA,High School Grad,2018,108536,454920,27.4,D
+240,California,CA,Master's Degree,2018,41821,454920,33.65,D
+241,California,CA,Some College Credit,2018,88705,454920,28.8,D
+242,California,CA,Unknown,2018,24512,454920,31.05,D
+243,California,CA,9th > 12th Grade,2019,35283,446479,27.4,D
+244,California,CA,> 8th Grade,2019,14910,446479,31.2,D
+245,California,CA,Associate Degree,2019,29852,446479,30.75,D
+246,California,CA,Bahcelor's Degree,2019,91537,446479,32.55,D
+247,California,CA,Doctorate,2019,14070,446479,34.85,D
+248,California,CA,High School Grad,2019,105388,446479,27.5,D
+249,California,CA,Master's Degree,2019,42057,446479,33.7,D
+250,California,CA,Some College Credit,2019,85435,446479,28.95,D
+251,California,CA,Unknown,2019,27947,446479,31.15,D
+252,California,CA,9th > 12th Grade,2020,31227,420259,27.55,D
+253,California,CA,> 8th Grade,2020,13407,420259,31.25,D
+254,California,CA,Associate Degree,2020,28365,420259,30.8,D
+255,California,CA,Bahcelor's Degree,2020,86356,420259,32.6,D
+256,California,CA,Doctorate,2020,13535,420259,34.9,D
+257,California,CA,High School Grad,2020,99814,420259,27.65,D
+258,California,CA,Master's Degree,2020,40136,420259,33.8,D
+259,California,CA,Some College Credit,2020,78868,420259,29.1,D
+260,California,CA,Unknown,2020,28551,420259,31.05,D
+261,California,CA,9th > 12th Grade,2021,27491,420608,27.65,D
+262,California,CA,> 8th Grade,2021,12510,420608,31.0,D
+263,California,CA,Associate Degree,2021,28866,420608,30.85,D
+264,California,CA,Bahcelor's Degree,2021,88077,420608,32.65,D
+265,California,CA,Doctorate,2021,14585,420608,35.05,D
+266,California,CA,High School Grad,2021,99304,420608,27.75,D
+267,California,CA,Master's Degree,2021,41662,420608,33.85,D
+268,California,CA,Some College Credit,2021,76913,420608,29.3,D
+269,California,CA,Unknown,2021,31200,420608,31.05,D
+270,Colorado,CO,9th > 12th Grade,2016,6082,66613,25.05,D
+271,Colorado,CO,> 8th Grade,2016,1646,66613,30.55,D
+272,Colorado,CO,Associate Degree,2016,5378,66613,29.8,D
+273,Colorado,CO,Bahcelor's Degree,2016,16426,66613,31.65,D
+274,Colorado,CO,Doctorate,2016,2011,66613,34.15,D
+275,Colorado,CO,High School Grad,2016,13208,66613,26.35,D
+276,Colorado,CO,Master's Degree,2016,6976,66613,33.25,D
+277,Colorado,CO,Some College Credit,2016,14136,66613,27.85,D
+278,Colorado,CO,Unknown,2016,750,66613,29.7,D
+279,Colorado,CO,9th > 12th Grade,2017,5716,64382,25.3,D
+280,Colorado,CO,> 8th Grade,2017,1647,64382,30.55,D
+281,Colorado,CO,Associate Degree,2017,5223,64382,29.9,D
+282,Colorado,CO,Bahcelor's Degree,2017,15743,64382,31.8,D
+283,Colorado,CO,Doctorate,2017,2022,64382,34.3,D
+284,Colorado,CO,High School Grad,2017,12697,64382,26.25,D
+285,Colorado,CO,Master's Degree,2017,7057,64382,33.35,D
+286,Colorado,CO,Some College Credit,2017,13381,64382,28.0,D
+287,Colorado,CO,Unknown,2017,896,64382,29.65,D
+288,Colorado,CO,9th > 12th Grade,2018,5291,62885,25.35,D
+289,Colorado,CO,> 8th Grade,2018,1465,62885,30.55,D
+290,Colorado,CO,Associate Degree,2018,4914,62885,30.15,D
+291,Colorado,CO,Bahcelor's Degree,2018,15574,62885,31.85,D
+292,Colorado,CO,Doctorate,2018,2050,62885,34.4,D
+293,Colorado,CO,High School Grad,2018,12506,62885,26.5,D
+294,Colorado,CO,Master's Degree,2018,7031,62885,33.4,D
+295,Colorado,CO,Some College Credit,2018,13177,62885,28.1,D
+296,Colorado,CO,Unknown,2018,877,62885,29.55,D
+297,Colorado,CO,9th > 12th Grade,2019,5144,62869,25.45,D
+298,Colorado,CO,> 8th Grade,2019,1504,62869,30.35,D
+299,Colorado,CO,Associate Degree,2019,4991,62869,30.15,D
+300,Colorado,CO,Bahcelor's Degree,2019,15825,62869,32.0,D
+301,Colorado,CO,Doctorate,2019,2105,62869,34.5,D
+302,Colorado,CO,High School Grad,2019,12598,62869,26.45,D
+303,Colorado,CO,Master's Degree,2019,7217,62869,33.5,D
+304,Colorado,CO,Some College Credit,2019,12669,62869,28.25,D
+305,Colorado,CO,Unknown,2019,816,62869,29.7,D
+306,Colorado,CO,9th > 12th Grade,2020,4809,61494,25.5,D
+307,Colorado,CO,> 8th Grade,2020,1503,61494,30.35,D
+308,Colorado,CO,Associate Degree,2020,4758,61494,30.15,D
+309,Colorado,CO,Bahcelor's Degree,2020,15758,61494,32.0,D
+310,Colorado,CO,Doctorate,2020,2150,61494,34.45,D
+311,Colorado,CO,High School Grad,2020,12544,61494,26.6,D
+312,Colorado,CO,Master's Degree,2020,7337,61494,33.45,D
+313,Colorado,CO,Some College Credit,2020,12034,61494,28.45,D
+314,Colorado,CO,Unknown,2020,601,61494,29.65,D
+315,Colorado,CO,9th > 12th Grade,2021,4567,62949,25.45,D
+316,Colorado,CO,> 8th Grade,2021,1377,62949,30.0,D
+317,Colorado,CO,Associate Degree,2021,4722,62949,30.05,D
+318,Colorado,CO,Bahcelor's Degree,2021,16975,62949,32.25,D
+319,Colorado,CO,Doctorate,2021,2357,62949,34.5,D
+320,Colorado,CO,High School Grad,2021,12443,62949,26.7,D
+321,Colorado,CO,Master's Degree,2021,7864,62949,33.65,D
+322,Colorado,CO,Some College Credit,2021,11943,62949,28.55,D
+323,Colorado,CO,Unknown,2021,701,62949,29.95,D
+324,Connecticut,CT,9th > 12th Grade,2016,2805,36015,26.15,D
+325,Connecticut,CT,> 8th Grade,2016,812,36015,29.95,D
+326,Connecticut,CT,Associate Degree,2016,3188,36015,30.5,D
+327,Connecticut,CT,Bahcelor's Degree,2016,8460,36015,32.15,D
+328,Connecticut,CT,Doctorate,2016,1414,36015,34.25,D
+329,Connecticut,CT,High School Grad,2016,6688,36015,27.65,D
+330,Connecticut,CT,Master's Degree,2016,6110,36015,33.05,D
+331,Connecticut,CT,Some College Credit,2016,6422,36015,28.7,D
+332,Connecticut,CT,Unknown,2016,116,36015,31.45,D
+333,Connecticut,CT,9th > 12th Grade,2017,2732,35221,26.15,D
+334,Connecticut,CT,> 8th Grade,2017,842,35221,30.45,D
+335,Connecticut,CT,Associate Degree,2017,3162,35221,30.75,D
+336,Connecticut,CT,Bahcelor's Degree,2017,8226,35221,32.2,D
+337,Connecticut,CT,Doctorate,2017,1444,35221,34.3,D
+338,Connecticut,CT,High School Grad,2017,6390,35221,27.6,D
+339,Connecticut,CT,Master's Degree,2017,5961,35221,33.2,D
+340,Connecticut,CT,Some College Credit,2017,6371,35221,28.9,D
+341,Connecticut,CT,Unknown,2017,93,35221,30.3,D
+342,Connecticut,CT,9th > 12th Grade,2018,2484,34725,26.3,D
+343,Connecticut,CT,> 8th Grade,2018,766,34725,31.0,D
+344,Connecticut,CT,Associate Degree,2018,3126,34725,30.7,D
+345,Connecticut,CT,Bahcelor's Degree,2018,8200,34725,32.25,D
+346,Connecticut,CT,Doctorate,2018,1456,34725,34.25,D
+347,Connecticut,CT,High School Grad,2018,6587,34725,27.9,D
+348,Connecticut,CT,Master's Degree,2018,5961,34725,33.25,D
+349,Connecticut,CT,Some College Credit,2018,6078,34725,28.9,D
+350,Connecticut,CT,Unknown,2018,67,34725,29.0,D
+351,Connecticut,CT,9th > 12th Grade,2019,2393,34258,26.45,D
+352,Connecticut,CT,> 8th Grade,2019,729,34258,30.65,D
+353,Connecticut,CT,Associate Degree,2019,3142,34258,30.9,D
+354,Connecticut,CT,Bahcelor's Degree,2019,8101,34258,32.35,D
+355,Connecticut,CT,Doctorate,2019,1508,34258,34.3,D
+356,Connecticut,CT,High School Grad,2019,6437,34258,27.95,D
+357,Connecticut,CT,Master's Degree,2019,5936,34258,33.35,D
+358,Connecticut,CT,Some College Credit,2019,5946,34258,29.1,D
+359,Connecticut,CT,Unknown,2019,66,34258,28.25,D
+360,Connecticut,CT,9th > 12th Grade,2020,2297,33460,26.6,D
+361,Connecticut,CT,> 8th Grade,2020,780,33460,30.95,D
+362,Connecticut,CT,Associate Degree,2020,2894,33460,30.8,D
+363,Connecticut,CT,Bahcelor's Degree,2020,8042,33460,32.45,D
+364,Connecticut,CT,Doctorate,2020,1465,33460,34.45,D
+365,Connecticut,CT,High School Grad,2020,6570,33460,27.95,D
+366,Connecticut,CT,Master's Degree,2020,5830,33460,33.4,D
+367,Connecticut,CT,Some College Credit,2020,5525,33460,29.25,D
+368,Connecticut,CT,Unknown,2020,57,33460,30.1,D
+369,Connecticut,CT,9th > 12th Grade,2021,2256,35670,26.6,D
+370,Connecticut,CT,> 8th Grade,2021,823,35670,30.5,D
+371,Connecticut,CT,Associate Degree,2021,2959,35670,31.15,D
+372,Connecticut,CT,Bahcelor's Degree,2021,9074,35670,32.6,D
+373,Connecticut,CT,Doctorate,2021,1586,35670,34.35,D
+374,Connecticut,CT,High School Grad,2021,6563,35670,27.95,D
+375,Connecticut,CT,Master's Degree,2021,6590,35670,33.55,D
+376,Connecticut,CT,Some College Credit,2021,5778,35670,29.6,D
+377,Connecticut,CT,Unknown,2021,41,35670,29.9,D
+378,Delaware,DE,9th > 12th Grade,2016,1089,10992,24.95,D
+379,Delaware,DE,> 8th Grade,2016,573,10992,29.1,D
+380,Delaware,DE,Associate Degree,2016,732,10992,30.2,D
+381,Delaware,DE,Bahcelor's Degree,2016,2056,10992,31.2,D
+382,Delaware,DE,Doctorate,2016,296,10992,33.8,D
+383,Delaware,DE,High School Grad,2016,2959,10992,26.6,D
+384,Delaware,DE,Master's Degree,2016,1140,10992,32.35,D
+385,Delaware,DE,Some College Credit,2016,2088,10992,27.8,D
+386,Delaware,DE,Unknown,2016,59,10992,28.5,D
+387,Delaware,DE,9th > 12th Grade,2017,1043,10855,25.05,D
+388,Delaware,DE,> 8th Grade,2017,537,10855,29.1,D
+389,Delaware,DE,Associate Degree,2017,778,10855,29.85,D
+390,Delaware,DE,Bahcelor's Degree,2017,1944,10855,31.25,D
+391,Delaware,DE,Doctorate,2017,238,10855,33.45,D
+392,Delaware,DE,High School Grad,2017,2916,10855,26.75,D
+393,Delaware,DE,Master's Degree,2017,1202,10855,32.35,D
+394,Delaware,DE,Some College Credit,2017,2151,10855,28.15,D
+395,Delaware,DE,Unknown,2017,46,10855,28.85,D
+396,Delaware,DE,9th > 12th Grade,2018,1048,10621,25.45,D
+397,Delaware,DE,> 8th Grade,2018,461,10621,29.55,D
+398,Delaware,DE,Associate Degree,2018,740,10621,30.5,D
+399,Delaware,DE,Bahcelor's Degree,2018,1959,10621,31.45,D
+400,Delaware,DE,Doctorate,2018,253,10621,33.8,D
+401,Delaware,DE,High School Grad,2018,2824,10621,26.8,D
+402,Delaware,DE,Master's Degree,2018,1144,10621,32.75,D
+403,Delaware,DE,Some College Credit,2018,2127,10621,28.2,D
+404,Delaware,DE,Unknown,2018,65,10621,28.2,D
+405,Delaware,DE,9th > 12th Grade,2019,923,10562,25.55,D
+406,Delaware,DE,> 8th Grade,2019,474,10562,29.85,D
+407,Delaware,DE,Associate Degree,2019,750,10562,30.35,D
+408,Delaware,DE,Bahcelor's Degree,2019,2009,10562,31.5,D
+409,Delaware,DE,Doctorate,2019,286,10562,33.45,D
+410,Delaware,DE,High School Grad,2019,2874,10562,26.95,D
+411,Delaware,DE,Master's Degree,2019,1165,10562,32.7,D
+412,Delaware,DE,Some College Credit,2019,1997,10562,28.4,D
+413,Delaware,DE,Unknown,2019,84,10562,28.7,D
+414,Delaware,DE,9th > 12th Grade,2020,844,10392,25.9,D
+415,Delaware,DE,> 8th Grade,2020,509,10392,29.35,D
+416,Delaware,DE,Associate Degree,2020,746,10392,30.5,D
+417,Delaware,DE,Bahcelor's Degree,2020,1856,10392,31.55,D
+418,Delaware,DE,Doctorate,2020,268,10392,34.25,D
+419,Delaware,DE,High School Grad,2020,2802,10392,26.95,D
+420,Delaware,DE,Master's Degree,2020,1138,10392,32.75,D
+421,Delaware,DE,Some College Credit,2020,2016,10392,28.7,D
+422,Delaware,DE,Unknown,2020,213,10392,30.25,D
+423,Delaware,DE,9th > 12th Grade,2021,795,10482,25.85,D
+424,Delaware,DE,> 8th Grade,2021,515,10482,28.4,D
+425,Delaware,DE,Associate Degree,2021,805,10482,30.4,D
+426,Delaware,DE,Bahcelor's Degree,2021,2078,10482,31.65,D
+427,Delaware,DE,Doctorate,2021,244,10482,33.95,D
+428,Delaware,DE,High School Grad,2021,2753,10482,27.05,D
+429,Delaware,DE,Master's Degree,2021,1219,10482,33.1,D
+430,Delaware,DE,Some College Credit,2021,1818,10482,28.7,D
+431,Delaware,DE,Unknown,2021,255,10482,29.45,D
+432,Florida,FL,9th > 12th Grade,2016,20862,225022,25.0,R
+433,Florida,FL,> 8th Grade,2016,6695,225022,28.7,R
+434,Florida,FL,Associate Degree,2016,22599,225022,29.9,R
+435,Florida,FL,Bahcelor's Degree,2016,39955,225022,31.5,R
+436,Florida,FL,Doctorate,2016,4537,225022,33.6,R
+437,Florida,FL,High School Grad,2016,69527,225022,27.0,R
+438,Florida,FL,Master's Degree,2016,15897,225022,32.85,R
+439,Florida,FL,Some College Credit,2016,42571,225022,28.3,R
+440,Florida,FL,Unknown,2016,2379,225022,29.6,R
+441,Florida,FL,9th > 12th Grade,2017,20152,223630,25.2,R
+442,Florida,FL,> 8th Grade,2017,6623,223630,28.65,R
+443,Florida,FL,Associate Degree,2017,22571,223630,30.0,R
+444,Florida,FL,Bahcelor's Degree,2017,40002,223630,31.6,R
+445,Florida,FL,Doctorate,2017,4656,223630,33.75,R
+446,Florida,FL,High School Grad,2017,69578,223630,27.1,R
+447,Florida,FL,Master's Degree,2017,15869,223630,32.95,R
+448,Florida,FL,Some College Credit,2017,41760,223630,28.45,R
+449,Florida,FL,Unknown,2017,2419,223630,29.95,R
+450,Florida,FL,9th > 12th Grade,2018,18922,221542,25.45,R
+451,Florida,FL,> 8th Grade,2018,6404,221542,28.95,R
+452,Florida,FL,Associate Degree,2018,22817,221542,30.15,R
+453,Florida,FL,Bahcelor's Degree,2018,41416,221542,31.7,R
+454,Florida,FL,Doctorate,2018,4887,221542,33.7,R
+455,Florida,FL,High School Grad,2018,67627,221542,27.3,R
+456,Florida,FL,Master's Degree,2018,16318,221542,33.0,R
+457,Florida,FL,Some College Credit,2018,40610,221542,28.6,R
+458,Florida,FL,Unknown,2018,2541,221542,29.15,R
+459,Florida,FL,9th > 12th Grade,2019,17660,220002,25.45,R
+460,Florida,FL,> 8th Grade,2019,6252,220002,28.6,R
+461,Florida,FL,Associate Degree,2019,22586,220002,30.25,R
+462,Florida,FL,Bahcelor's Degree,2019,42240,220002,31.8,R
+463,Florida,FL,Doctorate,2019,5226,220002,33.95,R
+464,Florida,FL,High School Grad,2019,68336,220002,27.35,R
+465,Florida,FL,Master's Degree,2019,16610,220002,33.2,R
+466,Florida,FL,Some College Credit,2019,39055,220002,28.85,R
+467,Florida,FL,Unknown,2019,2037,220002,29.45,R
+468,Florida,FL,9th > 12th Grade,2020,16227,209671,25.55,R
+469,Florida,FL,> 8th Grade,2020,5917,209671,28.65,R
+470,Florida,FL,Associate Degree,2020,21882,209671,30.3,R
+471,Florida,FL,Bahcelor's Degree,2020,41239,209671,31.85,R
+472,Florida,FL,Doctorate,2020,5056,209671,33.95,R
+473,Florida,FL,High School Grad,2020,65185,209671,27.4,R
+474,Florida,FL,Master's Degree,2020,16558,209671,33.25,R
+475,Florida,FL,Some College Credit,2020,35973,209671,28.95,R
+476,Florida,FL,Unknown,2020,1634,209671,29.5,R
+477,Florida,FL,9th > 12th Grade,2021,15340,216260,25.85,R
+478,Florida,FL,> 8th Grade,2021,5867,216260,28.6,R
+479,Florida,FL,Associate Degree,2021,22968,216260,30.4,R
+480,Florida,FL,Bahcelor's Degree,2021,43722,216260,31.9,R
+481,Florida,FL,Doctorate,2021,5555,216260,34.1,R
+482,Florida,FL,High School Grad,2021,66101,216260,27.5,R
+483,Florida,FL,Master's Degree,2021,17835,216260,33.3,R
+484,Florida,FL,Some College Credit,2021,36563,216260,29.25,R
+485,Florida,FL,Unknown,2021,2309,216260,29.85,R
+486,Georgia,GA,9th > 12th Grade,2016,13833,130042,24.35,R
+487,Georgia,GA,> 8th Grade,2016,4894,130042,28.85,R
+488,Georgia,GA,Associate Degree,2016,8666,130042,29.4,R
+489,Georgia,GA,Bahcelor's Degree,2016,26734,130042,31.2,R
+490,Georgia,GA,Doctorate,2016,2133,130042,33.75,R
+491,Georgia,GA,High School Grad,2016,38270,130042,26.05,R
+492,Georgia,GA,Master's Degree,2016,9350,130042,32.7,R
+493,Georgia,GA,Some College Credit,2016,24983,130042,27.45,R
+494,Georgia,GA,Unknown,2016,1179,130042,28.75,R
+495,Georgia,GA,9th > 12th Grade,2017,12620,129243,24.45,R
+496,Georgia,GA,> 8th Grade,2017,4411,129243,29.35,R
+497,Georgia,GA,Associate Degree,2017,8933,129243,29.45,R
+498,Georgia,GA,Bahcelor's Degree,2017,27994,129243,31.3,R
+499,Georgia,GA,Doctorate,2017,2145,129243,33.8,R
+500,Georgia,GA,High School Grad,2017,39389,129243,26.2,R
+501,Georgia,GA,Master's Degree,2017,8654,129243,32.55,R
+502,Georgia,GA,Some College Credit,2017,24268,129243,27.6,R
+503,Georgia,GA,Unknown,2017,829,129243,29.0,R
+504,Georgia,GA,9th > 12th Grade,2018,11878,126172,24.55,R
+505,Georgia,GA,> 8th Grade,2018,4086,126172,28.9,R
+506,Georgia,GA,Associate Degree,2018,9470,126172,29.7,R
+507,Georgia,GA,Bahcelor's Degree,2018,26669,126172,31.4,R
+508,Georgia,GA,Doctorate,2018,2114,126172,34.0,R
+509,Georgia,GA,High School Grad,2018,39741,126172,26.35,R
+510,Georgia,GA,Master's Degree,2018,8745,126172,32.8,R
+511,Georgia,GA,Some College Credit,2018,22893,126172,27.75,R
+512,Georgia,GA,Unknown,2018,576,126172,28.9,R
+513,Georgia,GA,9th > 12th Grade,2019,11851,126371,24.75,R
+514,Georgia,GA,> 8th Grade,2019,4023,126371,28.85,R
+515,Georgia,GA,Associate Degree,2019,9844,126371,29.75,R
+516,Georgia,GA,Bahcelor's Degree,2019,26902,126371,31.4,R
+517,Georgia,GA,Doctorate,2019,2145,126371,34.05,R
+518,Georgia,GA,High School Grad,2019,39582,126371,26.4,R
+519,Georgia,GA,Master's Degree,2019,8609,126371,32.8,R
+520,Georgia,GA,Some College Credit,2019,22718,126371,27.9,R
+521,Georgia,GA,Unknown,2019,697,126371,28.7,R
+522,Georgia,GA,9th > 12th Grade,2020,10885,122473,24.8,R
+523,Georgia,GA,> 8th Grade,2020,3810,122473,29.05,R
+524,Georgia,GA,Associate Degree,2020,9509,122473,29.85,R
+525,Georgia,GA,Bahcelor's Degree,2020,26192,122473,31.4,R
+526,Georgia,GA,Doctorate,2020,2113,122473,34.05,R
+527,Georgia,GA,High School Grad,2020,39675,122473,26.55,R
+528,Georgia,GA,Master's Degree,2020,8730,122473,32.75,R
+529,Georgia,GA,Some College Credit,2020,21146,122473,28.0,R
+530,Georgia,GA,Unknown,2020,413,122473,29.35,R
+531,Georgia,GA,9th > 12th Grade,2021,10174,124073,24.9,R
+532,Georgia,GA,> 8th Grade,2021,3662,124073,29.0,R
+533,Georgia,GA,Associate Degree,2021,9898,124073,29.95,R
+534,Georgia,GA,Bahcelor's Degree,2021,27451,124073,31.5,R
+535,Georgia,GA,Doctorate,2021,2483,124073,34.1,R
+536,Georgia,GA,High School Grad,2021,40316,124073,26.7,R
+537,Georgia,GA,Master's Degree,2021,9675,124073,32.85,R
+538,Georgia,GA,Some College Credit,2021,20086,124073,28.2,R
+539,Georgia,GA,Unknown,2021,328,124073,28.8,R
+540,Hawaii,HI,9th > 12th Grade,2016,2959,18059,26.75,D
+541,Hawaii,HI,> 8th Grade,2016,157,18059,27.7,D
+542,Hawaii,HI,Associate Degree,2016,2298,18059,30.1,D
+543,Hawaii,HI,Bahcelor's Degree,2016,3895,18059,31.8,D
+544,Hawaii,HI,Doctorate,2016,216,18059,34.5,D
+545,Hawaii,HI,High School Grad,2016,3457,18059,26.45,D
+546,Hawaii,HI,Master's Degree,2016,1498,18059,34.05,D
+547,Hawaii,HI,Some College Credit,2016,3476,18059,28.35,D
+548,Hawaii,HI,Unknown,2016,103,18059,29.55,D
+549,Hawaii,HI,9th > 12th Grade,2017,3044,17517,26.45,D
+550,Hawaii,HI,> 8th Grade,2017,149,17517,27.25,D
+551,Hawaii,HI,Associate Degree,2017,2174,17517,30.25,D
+552,Hawaii,HI,Bahcelor's Degree,2017,3800,17517,32.15,D
+553,Hawaii,HI,Doctorate,2017,249,17517,34.6,D
+554,Hawaii,HI,High School Grad,2017,3124,17517,26.75,D
+555,Hawaii,HI,Master's Degree,2017,1471,17517,33.8,D
+556,Hawaii,HI,Some College Credit,2017,3392,17517,28.4,D
+557,Hawaii,HI,Unknown,2017,114,17517,28.95,D
+558,Hawaii,HI,9th > 12th Grade,2018,2858,16972,26.7,D
+559,Hawaii,HI,> 8th Grade,2018,137,16972,27.95,D
+560,Hawaii,HI,Associate Degree,2018,1976,16972,30.6,D
+561,Hawaii,HI,Bahcelor's Degree,2018,3889,16972,32.1,D
+562,Hawaii,HI,Doctorate,2018,248,16972,34.5,D
+563,Hawaii,HI,High School Grad,2018,2907,16972,26.8,D
+564,Hawaii,HI,Master's Degree,2018,1407,16972,34.05,D
+565,Hawaii,HI,Some College Credit,2018,3433,16972,28.75,D
+566,Hawaii,HI,Unknown,2018,117,16972,29.95,D
+567,Hawaii,HI,9th > 12th Grade,2019,2863,16797,26.8,D
+568,Hawaii,HI,> 8th Grade,2019,137,16797,27.95,D
+569,Hawaii,HI,Associate Degree,2019,1681,16797,30.9,D
+570,Hawaii,HI,Bahcelor's Degree,2019,3803,16797,32.25,D
+571,Hawaii,HI,Doctorate,2019,246,16797,34.9,D
+572,Hawaii,HI,High School Grad,2019,2941,16797,26.95,D
+573,Hawaii,HI,Master's Degree,2019,1455,16797,34.1,D
+574,Hawaii,HI,Some College Credit,2019,3518,16797,28.85,D
+575,Hawaii,HI,Unknown,2019,153,16797,28.25,D
+576,Hawaii,HI,9th > 12th Grade,2020,2535,15785,27.25,D
+577,Hawaii,HI,> 8th Grade,2020,116,15785,28.75,D
+578,Hawaii,HI,Associate Degree,2020,1622,15785,30.7,D
+579,Hawaii,HI,Bahcelor's Degree,2020,3698,15785,32.1,D
+580,Hawaii,HI,Doctorate,2020,245,15785,34.75,D
+581,Hawaii,HI,High School Grad,2020,2797,15785,26.85,D
+582,Hawaii,HI,Master's Degree,2020,1388,15785,34.15,D
+583,Hawaii,HI,Some College Credit,2020,3125,15785,28.8,D
+584,Hawaii,HI,Unknown,2020,259,15785,29.8,D
+585,Hawaii,HI,9th > 12th Grade,2021,2354,15620,27.15,D
+586,Hawaii,HI,> 8th Grade,2021,102,15620,29.4,D
+587,Hawaii,HI,Associate Degree,2021,1580,15620,31.05,D
+588,Hawaii,HI,Bahcelor's Degree,2021,3744,15620,32.2,D
+589,Hawaii,HI,Doctorate,2021,296,15620,34.55,D
+590,Hawaii,HI,High School Grad,2021,2719,15620,27.05,D
+591,Hawaii,HI,Master's Degree,2021,1523,15620,34.25,D
+592,Hawaii,HI,Some College Credit,2021,3000,15620,29.4,D
+593,Hawaii,HI,Unknown,2021,302,15620,30.15,D
+594,Idaho,ID,9th > 12th Grade,2016,1963,22482,24.15,R
+595,Idaho,ID,> 8th Grade,2016,539,22482,30.55,R
+596,Idaho,ID,Associate Degree,2016,2321,22482,29.15,R
+597,Idaho,ID,Bahcelor's Degree,2016,4677,22482,30.15,R
+598,Idaho,ID,Doctorate,2016,293,22482,33.3,R
+599,Idaho,ID,High School Grad,2016,5783,22482,25.95,R
+600,Idaho,ID,Master's Degree,2016,1036,22482,32.6,R
+601,Idaho,ID,Some College Credit,2016,5761,22482,27.35,R
+602,Idaho,ID,Unknown,2016,109,22482,29.45,R
+603,Idaho,ID,9th > 12th Grade,2017,1946,22181,24.35,R
+604,Idaho,ID,> 8th Grade,2017,463,22181,30.25,R
+605,Idaho,ID,Associate Degree,2017,2286,22181,28.95,R
+606,Idaho,ID,Bahcelor's Degree,2017,4669,22181,30.25,R
+607,Idaho,ID,Doctorate,2017,318,22181,33.55,R
+608,Idaho,ID,High School Grad,2017,5581,22181,25.95,R
+609,Idaho,ID,Master's Degree,2017,1050,22181,32.6,R
+610,Idaho,ID,Some College Credit,2017,5749,22181,27.65,R
+611,Idaho,ID,Unknown,2017,119,22181,28.1,R
+612,Idaho,ID,9th > 12th Grade,2018,1801,21403,24.5,R
+613,Idaho,ID,> 8th Grade,2018,414,21403,30.45,R
+614,Idaho,ID,Associate Degree,2018,2148,21403,29.2,R
+615,Idaho,ID,Bahcelor's Degree,2018,4673,21403,30.15,R
+616,Idaho,ID,Doctorate,2018,300,21403,33.35,R
+617,Idaho,ID,High School Grad,2018,5430,21403,26.1,R
+618,Idaho,ID,Master's Degree,2018,1059,21403,32.75,R
+619,Idaho,ID,Some College Credit,2018,5476,21403,27.7,R
+620,Idaho,ID,Unknown,2018,102,21403,29.2,R
+621,Idaho,ID,9th > 12th Grade,2019,1804,22063,24.55,R
+622,Idaho,ID,> 8th Grade,2019,449,22063,30.7,R
+623,Idaho,ID,Associate Degree,2019,2259,22063,29.25,R
+624,Idaho,ID,Bahcelor's Degree,2019,4891,22063,30.35,R
+625,Idaho,ID,Doctorate,2019,308,22063,33.45,R
+626,Idaho,ID,High School Grad,2019,5503,22063,26.3,R
+627,Idaho,ID,Master's Degree,2019,1160,22063,32.8,R
+628,Idaho,ID,Some College Credit,2019,5562,22063,27.85,R
+629,Idaho,ID,Unknown,2019,127,22063,28.4,R
+630,Idaho,ID,9th > 12th Grade,2020,1754,21533,24.45,R
+631,Idaho,ID,> 8th Grade,2020,393,21533,30.1,R
+632,Idaho,ID,Associate Degree,2020,2207,21533,29.4,R
+633,Idaho,ID,Bahcelor's Degree,2020,4984,21533,30.45,R
+634,Idaho,ID,Doctorate,2020,315,21533,33.65,R
+635,Idaho,ID,High School Grad,2020,5395,21533,26.35,R
+636,Idaho,ID,Master's Degree,2020,1112,21533,32.5,R
+637,Idaho,ID,Some College Credit,2020,5238,21533,27.85,R
+638,Idaho,ID,Unknown,2020,135,21533,29.0,R
+639,Idaho,ID,9th > 12th Grade,2021,1630,22427,24.65,R
+640,Idaho,ID,> 8th Grade,2021,399,22427,30.9,R
+641,Idaho,ID,Associate Degree,2021,2283,22427,29.3,R
+642,Idaho,ID,Bahcelor's Degree,2021,5345,22427,30.3,R
+643,Idaho,ID,Doctorate,2021,381,22427,33.8,R
+644,Idaho,ID,High School Grad,2021,5443,22427,26.5,R
+645,Idaho,ID,Master's Degree,2021,1306,22427,32.7,R
+646,Idaho,ID,Some College Credit,2021,5436,22427,28.1,R
+647,Idaho,ID,Unknown,2021,204,22427,29.6,R
+648,Illinois,IL,9th > 12th Grade,2016,13870,154445,24.95,R
+649,Illinois,IL,> 8th Grade,2016,3994,154445,30.6,R
+650,Illinois,IL,Associate Degree,2016,12242,154445,29.85,R
+651,Illinois,IL,Bahcelor's Degree,2016,34404,154445,31.5,R
+652,Illinois,IL,Doctorate,2016,4645,154445,33.7,R
+653,Illinois,IL,High School Grad,2016,32925,154445,26.55,R
+654,Illinois,IL,Master's Degree,2016,18838,154445,32.95,R
+655,Illinois,IL,Some College Credit,2016,30457,154445,27.65,R
+656,Illinois,IL,Unknown,2016,3070,154445,29.9,R
+657,Illinois,IL,9th > 12th Grade,2017,12844,149390,25.15,R
+658,Illinois,IL,> 8th Grade,2017,3496,149390,30.75,R
+659,Illinois,IL,Associate Degree,2017,11711,149390,29.95,R
+660,Illinois,IL,Bahcelor's Degree,2017,33544,149390,31.65,R
+661,Illinois,IL,Doctorate,2017,4539,149390,33.8,R
+662,Illinois,IL,High School Grad,2017,32690,149390,26.55,R
+663,Illinois,IL,Master's Degree,2017,18020,149390,33.0,R
+664,Illinois,IL,Some College Credit,2017,29296,149390,27.85,R
+665,Illinois,IL,Unknown,2017,3250,149390,30.05,R
+666,Illinois,IL,9th > 12th Grade,2018,11739,144815,25.35,R
+667,Illinois,IL,> 8th Grade,2018,3162,144815,30.65,R
+668,Illinois,IL,Associate Degree,2018,11547,144815,30.05,R
+669,Illinois,IL,Bahcelor's Degree,2018,33058,144815,31.75,R
+670,Illinois,IL,Doctorate,2018,4588,144815,33.95,R
+671,Illinois,IL,High School Grad,2018,32953,144815,26.75,R
+672,Illinois,IL,Master's Degree,2018,17859,144815,33.15,R
+673,Illinois,IL,Some College Credit,2018,27669,144815,28.1,R
+674,Illinois,IL,Unknown,2018,2240,144815,30.4,R
+675,Illinois,IL,9th > 12th Grade,2019,10453,140128,25.4,D
+676,Illinois,IL,> 8th Grade,2019,2870,140128,30.75,D
+677,Illinois,IL,Associate Degree,2019,11207,140128,30.1,D
+678,Illinois,IL,Bahcelor's Degree,2019,32326,140128,31.85,D
+679,Illinois,IL,Doctorate,2019,4567,140128,34.0,D
+680,Illinois,IL,High School Grad,2019,32421,140128,26.8,D
+681,Illinois,IL,Master's Degree,2019,17746,140128,33.25,D
+682,Illinois,IL,Some College Credit,2019,26752,140128,28.3,D
+683,Illinois,IL,Unknown,2019,1786,140128,30.75,D
+684,Illinois,IL,9th > 12th Grade,2020,9814,133298,25.35,D
+685,Illinois,IL,> 8th Grade,2020,2623,133298,31.1,D
+686,Illinois,IL,Associate Degree,2020,10601,133298,30.15,D
+687,Illinois,IL,Bahcelor's Degree,2020,31283,133298,31.9,D
+688,Illinois,IL,Doctorate,2020,4380,133298,34.05,D
+689,Illinois,IL,High School Grad,2020,30949,133298,26.85,D
+690,Illinois,IL,Master's Degree,2020,16916,133298,33.3,D
+691,Illinois,IL,Some College Credit,2020,24966,133298,28.5,D
+692,Illinois,IL,Unknown,2020,1766,133298,30.8,D
+693,Illinois,IL,9th > 12th Grade,2021,8829,132189,25.55,D
+694,Illinois,IL,> 8th Grade,2021,2443,132189,30.4,D
+695,Illinois,IL,Associate Degree,2021,10754,132189,30.25,D
+696,Illinois,IL,Bahcelor's Degree,2021,32759,132189,32.0,D
+697,Illinois,IL,Doctorate,2021,4824,132189,34.1,D
+698,Illinois,IL,High School Grad,2021,29948,132189,27.05,D
+699,Illinois,IL,Master's Degree,2021,17353,132189,33.4,D
+700,Illinois,IL,Some College Credit,2021,23823,132189,28.7,D
+701,Illinois,IL,Unknown,2021,1456,132189,31.4,D
+702,Indiana,IN,9th > 12th Grade,2016,9134,83091,23.95,R
+703,Indiana,IN,> 8th Grade,2016,3808,83091,28.85,R
+704,Indiana,IN,Associate Degree,2016,7306,83091,29.4,R
+705,Indiana,IN,Bahcelor's Degree,2016,16270,83091,30.5,R
+706,Indiana,IN,Doctorate,2016,1532,83091,33.25,R
+707,Indiana,IN,High School Grad,2016,22764,83091,25.5,R
+708,Indiana,IN,Master's Degree,2016,5104,83091,32.15,R
+709,Indiana,IN,Some College Credit,2016,17037,83091,27.25,R
+710,Indiana,IN,Unknown,2016,136,83091,28.75,R
+711,Indiana,IN,9th > 12th Grade,2017,8779,82170,24.2,R
+712,Indiana,IN,> 8th Grade,2017,3827,82170,28.7,R
+713,Indiana,IN,Associate Degree,2017,7051,82170,29.5,R
+714,Indiana,IN,Bahcelor's Degree,2017,16043,82170,30.5,R
+715,Indiana,IN,Doctorate,2017,1504,82170,33.15,R
+716,Indiana,IN,High School Grad,2017,23165,82170,25.6,R
+717,Indiana,IN,Master's Degree,2017,5014,82170,32.25,R
+718,Indiana,IN,Some College Credit,2017,16650,82170,27.4,R
+719,Indiana,IN,Unknown,2017,137,82170,27.75,R
+720,Indiana,IN,9th > 12th Grade,2018,8453,81646,24.25,R
+721,Indiana,IN,> 8th Grade,2018,3769,81646,28.85,R
+722,Indiana,IN,Associate Degree,2018,6842,81646,29.7,R
+723,Indiana,IN,Bahcelor's Degree,2018,16128,81646,30.6,R
+724,Indiana,IN,Doctorate,2018,1601,81646,33.3,R
+725,Indiana,IN,High School Grad,2018,23558,81646,25.65,R
+726,Indiana,IN,Master's Degree,2018,4975,81646,32.4,R
+727,Indiana,IN,Some College Credit,2018,16215,81646,27.55,R
+728,Indiana,IN,Unknown,2018,105,81646,29.55,R
+729,Indiana,IN,9th > 12th Grade,2019,8309,80859,24.3,R
+730,Indiana,IN,> 8th Grade,2019,3854,80859,28.7,R
+731,Indiana,IN,Associate Degree,2019,6464,80859,29.55,R
+732,Indiana,IN,Bahcelor's Degree,2019,16257,80859,30.55,R
+733,Indiana,IN,Doctorate,2019,1577,80859,33.2,R
+734,Indiana,IN,High School Grad,2019,23993,80859,25.85,R
+735,Indiana,IN,Master's Degree,2019,4916,80859,32.4,R
+736,Indiana,IN,Some College Credit,2019,15388,80859,27.7,R
+737,Indiana,IN,Unknown,2019,101,80859,28.95,R
+738,Indiana,IN,9th > 12th Grade,2020,7629,78616,24.45,R
+739,Indiana,IN,> 8th Grade,2020,3987,78616,28.75,R
+740,Indiana,IN,Associate Degree,2020,6285,78616,29.75,R
+741,Indiana,IN,Bahcelor's Degree,2020,16074,78616,30.55,R
+742,Indiana,IN,Doctorate,2020,1664,78616,33.25,R
+743,Indiana,IN,High School Grad,2020,23434,78616,26.0,R
+744,Indiana,IN,Master's Degree,2020,4964,78616,32.4,R
+745,Indiana,IN,Some College Credit,2020,14462,78616,27.9,R
+746,Indiana,IN,Unknown,2020,117,78616,28.8,R
+747,Indiana,IN,9th > 12th Grade,2021,7363,79946,24.65,R
+748,Indiana,IN,> 8th Grade,2021,3897,79946,28.65,R
+749,Indiana,IN,Associate Degree,2021,6544,79946,29.8,R
+750,Indiana,IN,Bahcelor's Degree,2021,17013,79946,30.65,R
+751,Indiana,IN,Doctorate,2021,1717,79946,33.15,R
+752,Indiana,IN,High School Grad,2021,23268,79946,26.1,R
+753,Indiana,IN,Master's Degree,2021,5391,79946,32.3,R
+754,Indiana,IN,Some College Credit,2021,14538,79946,28.0,R
+755,Indiana,IN,Unknown,2021,215,79946,29.75,R
+756,Iowa,IA,9th > 12th Grade,2016,3098,39403,24.35,R
+757,Iowa,IA,> 8th Grade,2016,1291,39403,30.15,R
+758,Iowa,IA,Associate Degree,2016,5045,39403,29.25,R
+759,Iowa,IA,Bahcelor's Degree,2016,9449,39403,30.3,R
+760,Iowa,IA,Doctorate,2016,1045,39403,32.55,R
+761,Iowa,IA,High School Grad,2016,9447,39403,26.05,R
+762,Iowa,IA,Master's Degree,2016,2999,39403,31.8,R
+763,Iowa,IA,Some College Credit,2016,6957,39403,27.15,R
+764,Iowa,IA,Unknown,2016,72,39403,28.75,R
+765,Iowa,IA,9th > 12th Grade,2017,3067,38430,24.75,R
+766,Iowa,IA,> 8th Grade,2017,1263,38430,30.15,R
+767,Iowa,IA,Associate Degree,2017,4853,38430,29.35,R
+768,Iowa,IA,Bahcelor's Degree,2017,9119,38430,30.45,R
+769,Iowa,IA,Doctorate,2017,1075,38430,32.65,R
+770,Iowa,IA,High School Grad,2017,9406,38430,26.2,R
+771,Iowa,IA,Master's Degree,2017,2982,38430,31.95,R
+772,Iowa,IA,Some College Credit,2017,6607,38430,27.45,R
+773,Iowa,IA,Unknown,2017,58,38430,28.0,R
+774,Iowa,IA,9th > 12th Grade,2018,3091,37785,24.7,R
+775,Iowa,IA,> 8th Grade,2018,1204,37785,30.05,R
+776,Iowa,IA,Associate Degree,2018,4746,37785,29.45,R
+777,Iowa,IA,Bahcelor's Degree,2018,9062,37785,30.4,R
+778,Iowa,IA,Doctorate,2018,1047,37785,32.7,R
+779,Iowa,IA,High School Grad,2018,9172,37785,26.35,R
+780,Iowa,IA,Master's Degree,2018,3036,37785,32.1,R
+781,Iowa,IA,Some College Credit,2018,6349,37785,27.45,R
+782,Iowa,IA,Unknown,2018,78,37785,29.25,R
+783,Iowa,IA,9th > 12th Grade,2019,2802,37649,25.05,R
+784,Iowa,IA,> 8th Grade,2019,1236,37649,29.7,R
+785,Iowa,IA,Associate Degree,2019,4649,37649,29.5,R
+786,Iowa,IA,Bahcelor's Degree,2019,9161,37649,30.55,R
+787,Iowa,IA,Doctorate,2019,1071,37649,32.75,R
+788,Iowa,IA,High School Grad,2019,9289,37649,26.5,R
+789,Iowa,IA,Master's Degree,2019,3092,37649,32.1,R
+790,Iowa,IA,Some College Credit,2019,6263,37649,27.65,R
+791,Iowa,IA,Unknown,2019,86,37649,28.3,R
+792,Iowa,IA,9th > 12th Grade,2020,2829,36114,24.95,R
+793,Iowa,IA,> 8th Grade,2020,1217,36114,29.85,R
+794,Iowa,IA,Associate Degree,2020,4330,36114,29.45,R
+795,Iowa,IA,Bahcelor's Degree,2020,8719,36114,30.5,R
+796,Iowa,IA,Doctorate,2020,1020,36114,32.85,R
+797,Iowa,IA,High School Grad,2020,9088,36114,26.6,R
+798,Iowa,IA,Master's Degree,2020,2984,36114,32.05,R
+799,Iowa,IA,Some College Credit,2020,5855,36114,27.85,R
+800,Iowa,IA,Unknown,2020,72,36114,29.0,R
+801,Iowa,IA,9th > 12th Grade,2021,2767,36835,25.2,R
+802,Iowa,IA,> 8th Grade,2021,1256,36835,29.35,R
+803,Iowa,IA,Associate Degree,2021,4487,36835,29.65,R
+804,Iowa,IA,Bahcelor's Degree,2021,9170,36835,30.6,R
+805,Iowa,IA,Doctorate,2021,1047,36835,32.9,R
+806,Iowa,IA,High School Grad,2021,8971,36835,26.75,R
+807,Iowa,IA,Master's Degree,2021,3262,36835,32.15,R
+808,Iowa,IA,Some College Credit,2021,5809,36835,28.05,R
+809,Iowa,IA,Unknown,2021,66,36835,29.3,R
+810,Kansas,KS,9th > 12th Grade,2016,3627,38053,24.45,R
+811,Kansas,KS,> 8th Grade,2016,1138,38053,29.3,R
+812,Kansas,KS,Associate Degree,2016,3605,38053,28.9,R
+813,Kansas,KS,Bahcelor's Degree,2016,8547,38053,30.55,R
+814,Kansas,KS,Doctorate,2016,920,38053,32.85,R
+815,Kansas,KS,High School Grad,2016,8625,38053,25.5,R
+816,Kansas,KS,Master's Degree,2016,3330,38053,31.95,R
+817,Kansas,KS,Some College Credit,2016,8151,38053,27.05,R
+818,Kansas,KS,Unknown,2016,110,38053,28.5,R
+819,Kansas,KS,9th > 12th Grade,2017,3285,36519,24.6,R
+820,Kansas,KS,> 8th Grade,2017,1047,36519,29.35,R
+821,Kansas,KS,Associate Degree,2017,3478,36519,28.8,R
+822,Kansas,KS,Bahcelor's Degree,2017,8172,36519,30.6,R
+823,Kansas,KS,Doctorate,2017,874,36519,33.1,R
+824,Kansas,KS,High School Grad,2017,8695,36519,25.7,R
+825,Kansas,KS,Master's Degree,2017,3188,36519,32.15,R
+826,Kansas,KS,Some College Credit,2017,7665,36519,27.25,R
+827,Kansas,KS,Unknown,2017,115,36519,29.45,R
+828,Kansas,KS,9th > 12th Grade,2018,3199,36261,24.45,R
+829,Kansas,KS,> 8th Grade,2018,1029,36261,29.45,R
+830,Kansas,KS,Associate Degree,2018,3486,36261,29.0,R
+831,Kansas,KS,Bahcelor's Degree,2018,8249,36261,30.75,R
+832,Kansas,KS,Doctorate,2018,886,36261,32.95,R
+833,Kansas,KS,High School Grad,2018,8832,36261,26.0,R
+834,Kansas,KS,Master's Degree,2018,3096,36261,32.15,R
+835,Kansas,KS,Some College Credit,2018,7350,36261,27.2,R
+836,Kansas,KS,Unknown,2018,134,36261,29.4,R
+837,Kansas,KS,9th > 12th Grade,2019,2984,35395,24.6,R
+838,Kansas,KS,> 8th Grade,2019,1078,35395,29.0,R
+839,Kansas,KS,Associate Degree,2019,3386,35395,29.1,R
+840,Kansas,KS,Bahcelor's Degree,2019,8008,35395,30.7,R
+841,Kansas,KS,Doctorate,2019,907,35395,33.1,R
+842,Kansas,KS,High School Grad,2019,8551,35395,25.9,R
+843,Kansas,KS,Master's Degree,2019,3243,35395,32.5,R
+844,Kansas,KS,Some College Credit,2019,7079,35395,27.45,R
+845,Kansas,KS,Unknown,2019,159,35395,29.4,R
+846,Kansas,KS,9th > 12th Grade,2020,2725,34376,24.85,R
+847,Kansas,KS,> 8th Grade,2020,1024,34376,29.15,R
+848,Kansas,KS,Associate Degree,2020,3230,34376,29.0,R
+849,Kansas,KS,Bahcelor's Degree,2020,7821,34376,30.75,R
+850,Kansas,KS,Doctorate,2020,922,34376,33.15,R
+851,Kansas,KS,High School Grad,2020,8766,34376,25.8,R
+852,Kansas,KS,Master's Degree,2020,3112,34376,32.2,R
+853,Kansas,KS,Some College Credit,2020,6591,34376,27.55,R
+854,Kansas,KS,Unknown,2020,185,34376,29.55,R
+855,Kansas,KS,9th > 12th Grade,2021,2538,34705,24.9,R
+856,Kansas,KS,> 8th Grade,2021,1113,34705,29.1,R
+857,Kansas,KS,Associate Degree,2021,3178,34705,29.3,R
+858,Kansas,KS,Bahcelor's Degree,2021,8368,34705,30.75,R
+859,Kansas,KS,Doctorate,2021,994,34705,32.9,R
+860,Kansas,KS,High School Grad,2021,8961,34705,26.25,R
+861,Kansas,KS,Master's Degree,2021,3171,34705,32.3,R
+862,Kansas,KS,Some College Credit,2021,6177,34705,27.7,R
+863,Kansas,KS,Unknown,2021,205,34705,29.25,R
+864,Kentucky,KY,9th > 12th Grade,2016,5810,55449,23.8,R
+865,Kentucky,KY,> 8th Grade,2016,1882,55449,28.4,R
+866,Kentucky,KY,Associate Degree,2016,4964,55449,28.95,R
+867,Kentucky,KY,Bahcelor's Degree,2016,8549,55449,30.3,R
+868,Kentucky,KY,Doctorate,2016,1217,55449,32.85,R
+869,Kentucky,KY,High School Grad,2016,15424,55449,24.9,R
+870,Kentucky,KY,Master's Degree,2016,4290,55449,31.85,R
+871,Kentucky,KY,Some College Credit,2016,13040,55449,26.7,R
+872,Kentucky,KY,Unknown,2016,273,55449,27.75,R
+873,Kentucky,KY,9th > 12th Grade,2017,5643,54752,23.85,R
+874,Kentucky,KY,> 8th Grade,2017,1796,54752,29.0,R
+875,Kentucky,KY,Associate Degree,2017,5028,54752,28.95,R
+876,Kentucky,KY,Bahcelor's Degree,2017,8371,54752,30.4,R
+877,Kentucky,KY,Doctorate,2017,1120,54752,32.7,R
+878,Kentucky,KY,High School Grad,2017,15683,54752,25.0,R
+879,Kentucky,KY,Master's Degree,2017,4370,54752,31.85,R
+880,Kentucky,KY,Some College Credit,2017,12493,54752,26.75,R
+881,Kentucky,KY,Unknown,2017,248,54752,28.4,R
+882,Kentucky,KY,9th > 12th Grade,2018,5238,53922,24.0,R
+883,Kentucky,KY,> 8th Grade,2018,1859,53922,28.85,R
+884,Kentucky,KY,Associate Degree,2018,4928,53922,28.95,R
+885,Kentucky,KY,Bahcelor's Degree,2018,8173,53922,30.45,R
+886,Kentucky,KY,Doctorate,2018,1141,53922,32.95,R
+887,Kentucky,KY,High School Grad,2018,15922,53922,25.2,R
+888,Kentucky,KY,Master's Degree,2018,4293,53922,31.85,R
+889,Kentucky,KY,Some College Credit,2018,12130,53922,27.0,R
+890,Kentucky,KY,Unknown,2018,238,53922,27.9,R
+891,Kentucky,KY,9th > 12th Grade,2019,4971,53069,24.25,R
+892,Kentucky,KY,> 8th Grade,2019,1880,53069,29.0,R
+893,Kentucky,KY,Associate Degree,2019,4864,53069,29.1,R
+894,Kentucky,KY,Bahcelor's Degree,2019,8226,53069,30.4,R
+895,Kentucky,KY,Doctorate,2019,1094,53069,32.8,R
+896,Kentucky,KY,High School Grad,2019,15908,53069,25.3,R
+897,Kentucky,KY,Master's Degree,2019,4133,53069,31.95,R
+898,Kentucky,KY,Some College Credit,2019,11703,53069,27.1,R
+899,Kentucky,KY,Unknown,2019,290,53069,28.9,R
+900,Kentucky,KY,9th > 12th Grade,2020,4650,51668,24.5,D
+901,Kentucky,KY,> 8th Grade,2020,1912,51668,29.05,D
+902,Kentucky,KY,Associate Degree,2020,4618,51668,29.2,D
+903,Kentucky,KY,Bahcelor's Degree,2020,8044,51668,30.4,D
+904,Kentucky,KY,Doctorate,2020,1110,51668,33.05,D
+905,Kentucky,KY,High School Grad,2020,16102,51668,25.3,D
+906,Kentucky,KY,Master's Degree,2020,4210,51668,32.1,D
+907,Kentucky,KY,Some College Credit,2020,10783,51668,27.3,D
+908,Kentucky,KY,Unknown,2020,239,51668,28.2,D
+909,Kentucky,KY,9th > 12th Grade,2021,4400,52214,24.35,D
+910,Kentucky,KY,> 8th Grade,2021,2078,52214,29.15,D
+911,Kentucky,KY,Associate Degree,2021,4683,52214,29.15,D
+912,Kentucky,KY,Bahcelor's Degree,2021,8683,52214,30.4,D
+913,Kentucky,KY,Doctorate,2021,1180,52214,33.1,D
+914,Kentucky,KY,High School Grad,2021,16117,52214,25.55,D
+915,Kentucky,KY,Master's Degree,2021,4294,52214,31.95,D
+916,Kentucky,KY,Some College Credit,2021,10531,52214,27.4,D
+917,Kentucky,KY,Unknown,2021,248,52214,28.3,D
+918,Louisiana,LA,9th > 12th Grade,2016,8100,63178,24.25,D
+919,Louisiana,LA,> 8th Grade,2016,1775,63178,26.4,D
+920,Louisiana,LA,Associate Degree,2016,4363,63178,29.15,D
+921,Louisiana,LA,Bahcelor's Degree,2016,10422,63178,30.4,D
+922,Louisiana,LA,Doctorate,2016,1172,63178,33.0,D
+923,Louisiana,LA,High School Grad,2016,19923,63178,25.75,D
+924,Louisiana,LA,Master's Degree,2016,3449,63178,32.0,D
+925,Louisiana,LA,Some College Credit,2016,13675,63178,26.95,D
+926,Louisiana,LA,Unknown,2016,299,63178,28.1,D
+927,Louisiana,LA,9th > 12th Grade,2017,7538,61018,24.35,D
+928,Louisiana,LA,> 8th Grade,2017,1648,61018,27.1,D
+929,Louisiana,LA,Associate Degree,2017,4531,61018,29.15,D
+930,Louisiana,LA,Bahcelor's Degree,2017,9881,61018,30.45,D
+931,Louisiana,LA,Doctorate,2017,1172,61018,33.15,D
+932,Louisiana,LA,High School Grad,2017,19503,61018,25.8,D
+933,Louisiana,LA,Master's Degree,2017,3453,61018,32.0,D
+934,Louisiana,LA,Some College Credit,2017,12872,61018,27.1,D
+935,Louisiana,LA,Unknown,2017,420,61018,28.85,D
+936,Louisiana,LA,9th > 12th Grade,2018,7147,59615,24.7,D
+937,Louisiana,LA,> 8th Grade,2018,1635,59615,27.2,D
+938,Louisiana,LA,Associate Degree,2018,4582,59615,29.25,D
+939,Louisiana,LA,Bahcelor's Degree,2018,9747,59615,30.65,D
+940,Louisiana,LA,Doctorate,2018,1196,59615,33.25,D
+941,Louisiana,LA,High School Grad,2018,19315,59615,25.85,D
+942,Louisiana,LA,Master's Degree,2018,3407,59615,32.2,D
+943,Louisiana,LA,Some College Credit,2018,12217,59615,27.2,D
+944,Louisiana,LA,Unknown,2018,369,59615,28.45,D
+945,Louisiana,LA,9th > 12th Grade,2019,6694,58941,24.6,D
+946,Louisiana,LA,> 8th Grade,2019,1655,58941,27.45,D
+947,Louisiana,LA,Associate Degree,2019,4511,58941,29.45,D
+948,Louisiana,LA,Bahcelor's Degree,2019,9556,58941,30.7,D
+949,Louisiana,LA,Doctorate,2019,1186,58941,33.35,D
+950,Louisiana,LA,High School Grad,2019,19859,58941,26.05,D
+951,Louisiana,LA,Master's Degree,2019,3567,58941,32.3,D
+952,Louisiana,LA,Some College Credit,2019,11550,58941,27.35,D
+953,Louisiana,LA,Unknown,2019,363,58941,27.7,D
+954,Louisiana,LA,9th > 12th Grade,2020,6196,57328,24.7,D
+955,Louisiana,LA,> 8th Grade,2020,1616,57328,27.75,D
+956,Louisiana,LA,Associate Degree,2020,4413,57328,29.55,D
+957,Louisiana,LA,Bahcelor's Degree,2020,9416,57328,30.7,D
+958,Louisiana,LA,Doctorate,2020,1207,57328,33.6,D
+959,Louisiana,LA,High School Grad,2020,19770,57328,26.0,D
+960,Louisiana,LA,Master's Degree,2020,3560,57328,32.4,D
+961,Louisiana,LA,Some College Credit,2020,10878,57328,27.55,D
+962,Louisiana,LA,Unknown,2020,272,57328,29.05,D
+963,Louisiana,LA,9th > 12th Grade,2021,6063,57437,24.7,D
+964,Louisiana,LA,> 8th Grade,2021,1550,57437,27.65,D
+965,Louisiana,LA,Associate Degree,2021,4578,57437,29.65,D
+966,Louisiana,LA,Bahcelor's Degree,2021,9591,57437,30.8,D
+967,Louisiana,LA,Doctorate,2021,1252,57437,33.45,D
+968,Louisiana,LA,High School Grad,2021,19762,57437,26.2,D
+969,Louisiana,LA,Master's Degree,2021,3678,57437,32.35,D
+970,Louisiana,LA,Some College Credit,2021,10654,57437,27.7,D
+971,Louisiana,LA,Unknown,2021,309,57437,28.0,D
+972,Maine,ME,9th > 12th Grade,2016,676,12698,23.8,R
+973,Maine,ME,> 8th Grade,2016,162,12698,29.7,R
+974,Maine,ME,Associate Degree,2016,1245,12698,29.65,R
+975,Maine,ME,Bahcelor's Degree,2016,2818,12698,31.1,R
+976,Maine,ME,Doctorate,2016,379,12698,33.3,R
+977,Maine,ME,High School Grad,2016,3531,12698,26.2,R
+978,Maine,ME,Master's Degree,2016,1243,12698,32.75,R
+979,Maine,ME,Some College Credit,2016,2628,12698,27.65,R
+980,Maine,ME,Unknown,2016,16,12698,34.1,R
+981,Maine,ME,9th > 12th Grade,2017,664,12289,24.1,R
+982,Maine,ME,> 8th Grade,2017,204,12289,30.9,R
+983,Maine,ME,Associate Degree,2017,1204,12289,29.7,R
+984,Maine,ME,Bahcelor's Degree,2017,2777,12289,31.25,R
+985,Maine,ME,Doctorate,2017,359,12289,33.45,R
+986,Maine,ME,High School Grad,2017,3329,12289,26.5,R
+987,Maine,ME,Master's Degree,2017,1180,12289,32.8,R
+988,Maine,ME,Some College Credit,2017,2560,12289,27.75,R
+989,Maine,ME,Unknown,2017,12,12289,33.2,R
+990,Maine,ME,9th > 12th Grade,2018,628,12306,24.05,R
+991,Maine,ME,> 8th Grade,2018,191,12306,30.25,R
+992,Maine,ME,Associate Degree,2018,1186,12306,29.7,R
+993,Maine,ME,Bahcelor's Degree,2018,2799,12306,31.35,R
+994,Maine,ME,Doctorate,2018,368,12306,33.65,R
+995,Maine,ME,High School Grad,2018,3303,12306,26.7,R
+996,Maine,ME,Master's Degree,2018,1155,12306,32.95,R
+997,Maine,ME,Some College Credit,2018,2663,12306,28.3,R
+998,Maine,ME,Unknown,2018,13,12306,31.2,R
+999,Maine,ME,9th > 12th Grade,2019,630,11779,24.7,D
+1000,Maine,ME,> 8th Grade,2019,162,11779,30.0,D
+1001,Maine,ME,Associate Degree,2019,1114,11779,29.9,D
+1002,Maine,ME,Bahcelor's Degree,2019,2763,11779,31.5,D
+1003,Maine,ME,Doctorate,2019,387,11779,33.9,D
+1004,Maine,ME,High School Grad,2019,2920,11779,27.0,D
+1005,Maine,ME,Master's Degree,2019,1209,11779,33.15,D
+1006,Maine,ME,Some College Credit,2019,2563,11779,28.3,D
+1007,Maine,ME,Unknown,2019,31,11779,30.1,D
+1008,Maine,ME,9th > 12th Grade,2020,628,11539,24.65,D
+1009,Maine,ME,> 8th Grade,2020,167,11539,30.2,D
+1010,Maine,ME,Associate Degree,2020,982,11539,29.95,D
+1011,Maine,ME,Bahcelor's Degree,2020,2750,11539,31.6,D
+1012,Maine,ME,Doctorate,2020,366,11539,33.95,D
+1013,Maine,ME,High School Grad,2020,2892,11539,26.8,D
+1014,Maine,ME,Master's Degree,2020,1241,11539,33.25,D
+1015,Maine,ME,Some College Credit,2020,2446,11539,28.7,D
+1016,Maine,ME,Unknown,2020,67,11539,32.2,D
+1017,Maine,ME,9th > 12th Grade,2021,603,12006,24.55,D
+1018,Maine,ME,> 8th Grade,2021,194,12006,29.65,D
+1019,Maine,ME,Associate Degree,2021,1094,12006,30.05,D
+1020,Maine,ME,Bahcelor's Degree,2021,3094,12006,31.6,D
+1021,Maine,ME,Doctorate,2021,421,12006,33.9,D
+1022,Maine,ME,High School Grad,2021,2855,12006,27.25,D
+1023,Maine,ME,Master's Degree,2021,1326,12006,33.05,D
+1024,Maine,ME,Some College Credit,2021,2377,12006,28.95,D
+1025,Maine,ME,Unknown,2021,42,12006,31.95,D
+1026,Maryland,MD,9th > 12th Grade,2016,6219,73136,25.7,R
+1027,Maryland,MD,> 8th Grade,2016,3113,73136,29.6,R
+1028,Maryland,MD,Associate Degree,2016,4703,73136,30.55,R
+1029,Maryland,MD,Bahcelor's Degree,2016,15757,73136,31.65,R
+1030,Maryland,MD,Doctorate,2016,3278,73136,34.35,R
+1031,Maryland,MD,High School Grad,2016,14657,73136,26.8,R
+1032,Maryland,MD,Master's Degree,2016,10590,73136,33.1,R
+1033,Maryland,MD,Some College Credit,2016,14412,73136,28.4,R
+1034,Maryland,MD,Unknown,2016,407,73136,30.2,R
+1035,Maryland,MD,9th > 12th Grade,2017,5801,71641,26.05,R
+1036,Maryland,MD,> 8th Grade,2017,3065,71641,29.8,R
+1037,Maryland,MD,Associate Degree,2017,4733,71641,30.6,R
+1038,Maryland,MD,Bahcelor's Degree,2017,15527,71641,31.7,R
+1039,Maryland,MD,Doctorate,2017,3243,71641,34.5,R
+1040,Maryland,MD,High School Grad,2017,14434,71641,27.05,R
+1041,Maryland,MD,Master's Degree,2017,10505,71641,33.25,R
+1042,Maryland,MD,Some College Credit,2017,13924,71641,28.5,R
+1043,Maryland,MD,Unknown,2017,409,71641,29.85,R
+1044,Maryland,MD,9th > 12th Grade,2018,5802,71080,26.0,R
+1045,Maryland,MD,> 8th Grade,2018,3131,71080,30.15,R
+1046,Maryland,MD,Associate Degree,2018,4567,71080,30.8,R
+1047,Maryland,MD,Bahcelor's Degree,2018,15476,71080,31.8,R
+1048,Maryland,MD,Doctorate,2018,3202,71080,34.65,R
+1049,Maryland,MD,High School Grad,2018,14188,71080,27.2,R
+1050,Maryland,MD,Master's Degree,2018,10653,71080,33.3,R
+1051,Maryland,MD,Some College Credit,2018,13647,71080,28.7,R
+1052,Maryland,MD,Unknown,2018,414,71080,29.55,R
+1053,Maryland,MD,9th > 12th Grade,2019,5778,70178,26.15,R
+1054,Maryland,MD,> 8th Grade,2019,3293,70178,29.65,R
+1055,Maryland,MD,Associate Degree,2019,4543,70178,30.65,R
+1056,Maryland,MD,Bahcelor's Degree,2019,15072,70178,31.85,R
+1057,Maryland,MD,Doctorate,2019,3103,70178,34.65,R
+1058,Maryland,MD,High School Grad,2019,14337,70178,27.4,R
+1059,Maryland,MD,Master's Degree,2019,10592,70178,33.4,R
+1060,Maryland,MD,Some College Credit,2019,13009,70178,28.95,R
+1061,Maryland,MD,Unknown,2019,451,70178,30.05,R
+1062,Maryland,MD,9th > 12th Grade,2020,5417,68554,26.05,R
+1063,Maryland,MD,> 8th Grade,2020,3176,68554,30.1,R
+1064,Maryland,MD,Associate Degree,2020,4384,68554,31.05,R
+1065,Maryland,MD,Bahcelor's Degree,2020,15020,68554,32.05,R
+1066,Maryland,MD,Doctorate,2020,3137,68554,34.85,R
+1067,Maryland,MD,High School Grad,2020,14194,68554,27.45,R
+1068,Maryland,MD,Master's Degree,2020,10228,68554,33.45,R
+1069,Maryland,MD,Some College Credit,2020,12633,68554,29.1,R
+1070,Maryland,MD,Unknown,2020,365,68554,30.45,R
+1071,Maryland,MD,9th > 12th Grade,2021,5195,68285,26.6,R
+1072,Maryland,MD,> 8th Grade,2021,3086,68285,30.0,R
+1073,Maryland,MD,Associate Degree,2021,4462,68285,31.0,R
+1074,Maryland,MD,Bahcelor's Degree,2021,15194,68285,32.1,R
+1075,Maryland,MD,Doctorate,2021,3275,68285,34.85,R
+1076,Maryland,MD,High School Grad,2021,13779,68285,27.4,R
+1077,Maryland,MD,Master's Degree,2021,10894,68285,33.65,R
+1078,Maryland,MD,Some College Credit,2021,12001,68285,29.25,R
+1079,Maryland,MD,Unknown,2021,399,68285,30.4,R
+1080,Massachusetts,MA,9th > 12th Grade,2016,4615,71317,26.2,R
+1081,Massachusetts,MA,> 8th Grade,2016,1651,71317,29.3,R
+1082,Massachusetts,MA,Associate Degree,2016,4431,71317,31.1,R
+1083,Massachusetts,MA,Bahcelor's Degree,2016,17537,71317,32.2,R
+1084,Massachusetts,MA,Doctorate,2016,3988,71317,34.4,R
+1085,Massachusetts,MA,High School Grad,2016,11189,71317,27.75,R
+1086,Massachusetts,MA,Master's Degree,2016,12670,71317,33.25,R
+1087,Massachusetts,MA,Some College Credit,2016,13241,71317,28.9,R
+1088,Massachusetts,MA,Unknown,2016,1995,71317,31.3,R
+1089,Massachusetts,MA,9th > 12th Grade,2017,4522,70702,26.45,R
+1090,Massachusetts,MA,> 8th Grade,2017,1636,70702,29.8,R
+1091,Massachusetts,MA,Associate Degree,2017,4355,70702,31.1,R
+1092,Massachusetts,MA,Bahcelor's Degree,2017,17254,70702,32.3,R
+1093,Massachusetts,MA,Doctorate,2017,3890,70702,34.4,R
+1094,Massachusetts,MA,High School Grad,2017,11055,70702,27.75,R
+1095,Massachusetts,MA,Master's Degree,2017,12419,70702,33.35,R
+1096,Massachusetts,MA,Some College Credit,2017,12858,70702,29.05,R
+1097,Massachusetts,MA,Unknown,2017,2713,70702,31.7,R
+1098,Massachusetts,MA,9th > 12th Grade,2018,4157,69109,26.65,R
+1099,Massachusetts,MA,> 8th Grade,2018,1488,69109,29.85,R
+1100,Massachusetts,MA,Associate Degree,2018,4182,69109,31.25,R
+1101,Massachusetts,MA,Bahcelor's Degree,2018,17385,69109,32.35,R
+1102,Massachusetts,MA,Doctorate,2018,4068,69109,34.4,R
+1103,Massachusetts,MA,High School Grad,2018,10954,69109,28.0,R
+1104,Massachusetts,MA,Master's Degree,2018,12871,69109,33.4,R
+1105,Massachusetts,MA,Some College Credit,2018,12377,69109,29.3,R
+1106,Massachusetts,MA,Unknown,2018,1627,69109,31.5,R
+1107,Massachusetts,MA,9th > 12th Grade,2019,4080,69117,26.9,R
+1108,Massachusetts,MA,> 8th Grade,2019,1437,69117,30.1,R
+1109,Massachusetts,MA,Associate Degree,2019,4252,69117,31.35,R
+1110,Massachusetts,MA,Bahcelor's Degree,2019,17482,69117,32.45,R
+1111,Massachusetts,MA,Doctorate,2019,4135,69117,34.5,R
+1112,Massachusetts,MA,High School Grad,2019,10883,69117,28.05,R
+1113,Massachusetts,MA,Master's Degree,2019,12947,69117,33.55,R
+1114,Massachusetts,MA,Some College Credit,2019,12086,69117,29.5,R
+1115,Massachusetts,MA,Unknown,2019,1815,69117,31.5,R
+1116,Massachusetts,MA,9th > 12th Grade,2020,3799,66428,26.9,R
+1117,Massachusetts,MA,> 8th Grade,2020,1361,66428,30.0,R
+1118,Massachusetts,MA,Associate Degree,2020,3904,66428,31.55,R
+1119,Massachusetts,MA,Bahcelor's Degree,2020,16994,66428,32.55,R
+1120,Massachusetts,MA,Doctorate,2020,4013,66428,34.6,R
+1121,Massachusetts,MA,High School Grad,2020,10978,66428,28.25,R
+1122,Massachusetts,MA,Master's Degree,2020,12502,66428,33.65,R
+1123,Massachusetts,MA,Some College Credit,2020,11169,66428,29.7,R
+1124,Massachusetts,MA,Unknown,2020,1708,66428,31.75,R
+1125,Massachusetts,MA,9th > 12th Grade,2021,3773,69137,27.3,R
+1126,Massachusetts,MA,> 8th Grade,2021,1189,69137,30.1,R
+1127,Massachusetts,MA,Associate Degree,2021,4089,69137,31.5,R
+1128,Massachusetts,MA,Bahcelor's Degree,2021,18531,69137,32.65,R
+1129,Massachusetts,MA,Doctorate,2021,4310,69137,34.75,R
+1130,Massachusetts,MA,High School Grad,2021,10811,69137,28.1,R
+1131,Massachusetts,MA,Master's Degree,2021,13762,69137,33.7,R
+1132,Massachusetts,MA,Some College Credit,2021,11061,69137,29.95,R
+1133,Massachusetts,MA,Unknown,2021,1611,69137,31.1,R
+1134,Michigan,MI,9th > 12th Grade,2016,10583,113315,24.15,R
+1135,Michigan,MI,> 8th Grade,2016,2241,113315,29.35,R
+1136,Michigan,MI,Associate Degree,2016,9932,113315,29.85,R
+1137,Michigan,MI,Bahcelor's Degree,2016,21964,113315,30.95,R
+1138,Michigan,MI,Doctorate,2016,2705,113315,33.0,R
+1139,Michigan,MI,High School Grad,2016,28259,113315,26.1,R
+1140,Michigan,MI,Master's Degree,2016,9533,113315,32.5,R
+1141,Michigan,MI,Some College Credit,2016,26973,113315,27.65,R
+1142,Michigan,MI,Unknown,2016,1125,113315,28.0,R
+1143,Michigan,MI,9th > 12th Grade,2017,10252,111426,24.35,R
+1144,Michigan,MI,> 8th Grade,2017,2311,111426,29.65,R
+1145,Michigan,MI,Associate Degree,2017,9518,111426,29.9,R
+1146,Michigan,MI,Bahcelor's Degree,2017,22200,111426,31.0,R
+1147,Michigan,MI,Doctorate,2017,2681,111426,33.2,R
+1148,Michigan,MI,High School Grad,2017,28028,111426,26.25,R
+1149,Michigan,MI,Master's Degree,2017,9433,111426,32.6,R
+1150,Michigan,MI,Some College Credit,2017,25861,111426,27.9,R
+1151,Michigan,MI,Unknown,2017,1142,111426,28.6,R
+1152,Michigan,MI,9th > 12th Grade,2018,9624,110032,24.5,R
+1153,Michigan,MI,> 8th Grade,2018,2244,110032,29.6,R
+1154,Michigan,MI,Associate Degree,2018,9423,110032,29.95,R
+1155,Michigan,MI,Bahcelor's Degree,2018,22410,110032,31.05,R
+1156,Michigan,MI,Doctorate,2018,2836,110032,33.3,R
+1157,Michigan,MI,High School Grad,2018,27793,110032,26.25,R
+1158,Michigan,MI,Master's Degree,2018,9542,110032,32.6,R
+1159,Michigan,MI,Some College Credit,2018,25100,110032,28.05,R
+1160,Michigan,MI,Unknown,2018,1060,110032,28.4,R
+1161,Michigan,MI,9th > 12th Grade,2019,9206,107886,24.65,D
+1162,Michigan,MI,> 8th Grade,2019,2060,107886,29.8,D
+1163,Michigan,MI,Associate Degree,2019,9055,107886,30.15,D
+1164,Michigan,MI,Bahcelor's Degree,2019,22331,107886,31.15,D
+1165,Michigan,MI,Doctorate,2019,2786,107886,33.35,D
+1166,Michigan,MI,High School Grad,2019,27980,107886,26.4,D
+1167,Michigan,MI,Master's Degree,2019,9665,107886,32.6,D
+1168,Michigan,MI,Some College Credit,2019,23715,107886,28.25,D
+1169,Michigan,MI,Unknown,2019,1088,107886,29.15,D
+1170,Michigan,MI,9th > 12th Grade,2020,8546,104074,24.65,D
+1171,Michigan,MI,> 8th Grade,2020,2139,104074,29.8,D
+1172,Michigan,MI,Associate Degree,2020,8965,104074,30.25,D
+1173,Michigan,MI,Bahcelor's Degree,2020,21237,104074,31.25,D
+1174,Michigan,MI,Doctorate,2020,2759,104074,33.4,D
+1175,Michigan,MI,High School Grad,2020,27691,104074,26.65,D
+1176,Michigan,MI,Master's Degree,2020,9212,104074,32.55,D
+1177,Michigan,MI,Some College Credit,2020,22733,104074,28.6,D
+1178,Michigan,MI,Unknown,2020,792,104074,29.65,D
+1179,Michigan,MI,9th > 12th Grade,2021,7956,104980,24.8,D
+1180,Michigan,MI,> 8th Grade,2021,1946,104980,29.8,D
+1181,Michigan,MI,Associate Degree,2021,9299,104980,30.35,D
+1182,Michigan,MI,Bahcelor's Degree,2021,21980,104980,31.3,D
+1183,Michigan,MI,Doctorate,2021,2986,104980,33.4,D
+1184,Michigan,MI,High School Grad,2021,27780,104980,26.9,D
+1185,Michigan,MI,Master's Degree,2021,9545,104980,32.75,D
+1186,Michigan,MI,Some College Credit,2021,22583,104980,28.8,D
+1187,Michigan,MI,Unknown,2021,905,104980,29.9,D
+1188,Minnesota,MN,9th > 12th Grade,2016,4831,69749,25.55,D
+1189,Minnesota,MN,> 8th Grade,2016,2412,69749,30.7,D
+1190,Minnesota,MN,Associate Degree,2016,9096,69749,30.0,D
+1191,Minnesota,MN,Bahcelor's Degree,2016,18737,69749,31.1,D
+1192,Minnesota,MN,Doctorate,2016,2218,69749,33.2,D
+1193,Minnesota,MN,High School Grad,2016,11557,69749,26.95,D
+1194,Minnesota,MN,Master's Degree,2016,7207,69749,32.65,D
+1195,Minnesota,MN,Some College Credit,2016,12707,69749,28.1,D
+1196,Minnesota,MN,Unknown,2016,984,69749,30.5,D
+1197,Minnesota,MN,9th > 12th Grade,2017,4816,68595,25.65,D
+1198,Minnesota,MN,> 8th Grade,2017,2372,68595,30.8,D
+1199,Minnesota,MN,Associate Degree,2017,8869,68595,30.15,D
+1200,Minnesota,MN,Bahcelor's Degree,2017,18524,68595,31.2,D
+1201,Minnesota,MN,Doctorate,2017,2332,68595,33.4,D
+1202,Minnesota,MN,High School Grad,2017,11513,68595,27.1,D
+1203,Minnesota,MN,Master's Degree,2017,7192,68595,32.7,D
+1204,Minnesota,MN,Some College Credit,2017,12206,68595,28.35,D
+1205,Minnesota,MN,Unknown,2017,771,68595,30.45,D
+1206,Minnesota,MN,9th > 12th Grade,2018,4390,67344,25.8,D
+1207,Minnesota,MN,> 8th Grade,2018,2353,67344,30.7,D
+1208,Minnesota,MN,Associate Degree,2018,8500,67344,30.25,D
+1209,Minnesota,MN,Bahcelor's Degree,2018,18724,67344,31.35,D
+1210,Minnesota,MN,Doctorate,2018,2243,67344,33.55,D
+1211,Minnesota,MN,High School Grad,2018,11329,67344,27.25,D
+1212,Minnesota,MN,Master's Degree,2018,7144,67344,32.7,D
+1213,Minnesota,MN,Some College Credit,2018,12272,67344,28.6,D
+1214,Minnesota,MN,Unknown,2018,389,67344,31.05,D
+1215,Minnesota,MN,9th > 12th Grade,2019,4505,66027,25.65,D
+1216,Minnesota,MN,> 8th Grade,2019,2334,66027,31.15,D
+1217,Minnesota,MN,Associate Degree,2019,8012,66027,30.4,D
+1218,Minnesota,MN,Bahcelor's Degree,2019,18386,66027,31.4,D
+1219,Minnesota,MN,Doctorate,2019,2336,66027,33.45,D
+1220,Minnesota,MN,High School Grad,2019,11152,66027,27.45,D
+1221,Minnesota,MN,Master's Degree,2019,7382,66027,32.85,D
+1222,Minnesota,MN,Some College Credit,2019,11599,66027,28.8,D
+1223,Minnesota,MN,Unknown,2019,321,66027,30.6,D
+1224,Minnesota,MN,9th > 12th Grade,2020,4171,63443,25.95,D
+1225,Minnesota,MN,> 8th Grade,2020,2186,63443,31.2,D
+1226,Minnesota,MN,Associate Degree,2020,7476,63443,30.45,D
+1227,Minnesota,MN,Bahcelor's Degree,2020,17904,63443,31.45,D
+1228,Minnesota,MN,Doctorate,2020,2403,63443,33.6,D
+1229,Minnesota,MN,High School Grad,2020,10793,63443,27.55,D
+1230,Minnesota,MN,Master's Degree,2020,7040,63443,32.85,D
+1231,Minnesota,MN,Some College Credit,2020,11166,63443,28.95,D
+1232,Minnesota,MN,Unknown,2020,304,63443,30.55,D
+1233,Minnesota,MN,9th > 12th Grade,2021,4025,64425,26.0,D
+1234,Minnesota,MN,> 8th Grade,2021,1995,64425,31.2,D
+1235,Minnesota,MN,Associate Degree,2021,7625,64425,30.6,D
+1236,Minnesota,MN,Bahcelor's Degree,2021,19036,64425,31.5,D
+1237,Minnesota,MN,Doctorate,2021,2464,64425,33.6,D
+1238,Minnesota,MN,High School Grad,2021,10620,64425,27.65,D
+1239,Minnesota,MN,Master's Degree,2021,7634,64425,32.9,D
+1240,Minnesota,MN,Some College Credit,2021,10696,64425,29.1,D
+1241,Minnesota,MN,Unknown,2021,330,64425,31.0,D
+1242,Mississippi,MS,9th > 12th Grade,2016,4455,37928,23.25,R
+1243,Mississippi,MS,> 8th Grade,2016,858,37928,26.25,R
+1244,Mississippi,MS,Associate Degree,2016,4644,37928,28.15,R
+1245,Mississippi,MS,Bahcelor's Degree,2016,5174,37928,29.95,R
+1246,Mississippi,MS,Doctorate,2016,576,37928,32.7,R
+1247,Mississippi,MS,High School Grad,2016,10724,37928,25.0,R
+1248,Mississippi,MS,Master's Degree,2016,2146,37928,31.7,R
+1249,Mississippi,MS,Some College Credit,2016,9280,37928,26.0,R
+1250,Mississippi,MS,Unknown,2016,71,37928,27.35,R
+1251,Mississippi,MS,9th > 12th Grade,2017,4209,37357,23.55,R
+1252,Mississippi,MS,> 8th Grade,2017,792,37357,26.6,R
+1253,Mississippi,MS,Associate Degree,2017,4792,37357,28.0,R
+1254,Mississippi,MS,Bahcelor's Degree,2017,5092,37357,30.0,R
+1255,Mississippi,MS,Doctorate,2017,631,37357,32.75,R
+1256,Mississippi,MS,High School Grad,2017,10687,37357,25.1,R
+1257,Mississippi,MS,Master's Degree,2017,2079,37357,31.65,R
+1258,Mississippi,MS,Some College Credit,2017,9007,37357,26.2,R
+1259,Mississippi,MS,Unknown,2017,68,37357,26.85,R
+1260,Mississippi,MS,9th > 12th Grade,2018,3901,37000,23.8,R
+1261,Mississippi,MS,> 8th Grade,2018,770,37000,26.75,R
+1262,Mississippi,MS,Associate Degree,2018,4741,37000,28.15,R
+1263,Mississippi,MS,Bahcelor's Degree,2018,5080,37000,30.05,R
+1264,Mississippi,MS,Doctorate,2018,580,37000,32.95,R
+1265,Mississippi,MS,High School Grad,2018,10859,37000,25.15,R
+1266,Mississippi,MS,Master's Degree,2018,2177,37000,31.9,R
+1267,Mississippi,MS,Some College Credit,2018,8795,37000,26.4,R
+1268,Mississippi,MS,Unknown,2018,97,37000,26.1,R
+1269,Mississippi,MS,9th > 12th Grade,2019,3820,36636,23.8,R
+1270,Mississippi,MS,> 8th Grade,2019,745,36636,26.95,R
+1271,Mississippi,MS,Associate Degree,2019,4876,36636,28.05,R
+1272,Mississippi,MS,Bahcelor's Degree,2019,5020,36636,29.95,R
+1273,Mississippi,MS,Doctorate,2019,628,36636,32.65,R
+1274,Mississippi,MS,High School Grad,2019,10906,36636,25.25,R
+1275,Mississippi,MS,Master's Degree,2019,2148,36636,31.95,R
+1276,Mississippi,MS,Some College Credit,2019,8393,36636,26.6,R
+1277,Mississippi,MS,Unknown,2019,100,36636,27.75,R
+1278,Mississippi,MS,9th > 12th Grade,2020,3468,35473,23.75,R
+1279,Mississippi,MS,> 8th Grade,2020,747,35473,26.8,R
+1280,Mississippi,MS,Associate Degree,2020,4687,35473,28.0,R
+1281,Mississippi,MS,Bahcelor's Degree,2020,4872,35473,29.9,R
+1282,Mississippi,MS,Doctorate,2020,570,35473,32.9,R
+1283,Mississippi,MS,High School Grad,2020,10971,35473,25.4,R
+1284,Mississippi,MS,Master's Degree,2020,2212,35473,31.75,R
+1285,Mississippi,MS,Some College Credit,2020,7869,35473,26.65,R
+1286,Mississippi,MS,Unknown,2020,77,35473,26.55,R
+1287,Mississippi,MS,9th > 12th Grade,2021,3344,35156,24.05,R
+1288,Mississippi,MS,> 8th Grade,2021,729,35156,27.0,R
+1289,Mississippi,MS,Associate Degree,2021,4790,35156,28.2,R
+1290,Mississippi,MS,Bahcelor's Degree,2021,5080,35156,29.9,R
+1291,Mississippi,MS,Doctorate,2021,604,35156,33.05,R
+1292,Mississippi,MS,High School Grad,2021,10901,35156,25.45,R
+1293,Mississippi,MS,Master's Degree,2021,2264,35156,31.7,R
+1294,Mississippi,MS,Some College Credit,2021,7347,35156,26.9,R
+1295,Mississippi,MS,Unknown,2021,97,35156,28.55,R
+1296,Missouri,MO,9th > 12th Grade,2016,7292,74705,23.95,D
+1297,Missouri,MO,> 8th Grade,2016,2078,74705,28.7,D
+1298,Missouri,MO,Associate Degree,2016,6611,74705,29.0,D
+1299,Missouri,MO,Bahcelor's Degree,2016,14391,74705,30.65,D
+1300,Missouri,MO,Doctorate,2016,1783,74705,33.05,D
+1301,Missouri,MO,High School Grad,2016,17983,74705,25.4,D
+1302,Missouri,MO,Master's Degree,2016,6887,74705,32.15,D
+1303,Missouri,MO,Some College Credit,2016,17427,74705,27.2,D
+1304,Missouri,MO,Unknown,2016,253,74705,28.5,D
+1305,Missouri,MO,9th > 12th Grade,2017,6802,73034,24.15,R
+1306,Missouri,MO,> 8th Grade,2017,1961,73034,28.6,R
+1307,Missouri,MO,Associate Degree,2017,6489,73034,29.35,R
+1308,Missouri,MO,Bahcelor's Degree,2017,14179,73034,30.7,R
+1309,Missouri,MO,Doctorate,2017,1701,73034,33.1,R
+1310,Missouri,MO,High School Grad,2017,18136,73034,25.5,R
+1311,Missouri,MO,Master's Degree,2017,6795,73034,32.3,R
+1312,Missouri,MO,Some College Credit,2017,16709,73034,27.25,R
+1313,Missouri,MO,Unknown,2017,262,73034,28.35,R
+1314,Missouri,MO,9th > 12th Grade,2018,6716,73269,24.3,R
+1315,Missouri,MO,> 8th Grade,2018,2011,73269,28.85,R
+1316,Missouri,MO,Associate Degree,2018,6494,73269,29.3,R
+1317,Missouri,MO,Bahcelor's Degree,2018,14256,73269,30.8,R
+1318,Missouri,MO,Doctorate,2018,1722,73269,33.2,R
+1319,Missouri,MO,High School Grad,2018,18489,73269,25.65,R
+1320,Missouri,MO,Master's Degree,2018,6733,73269,32.2,R
+1321,Missouri,MO,Some College Credit,2018,16607,73269,27.5,R
+1322,Missouri,MO,Unknown,2018,241,73269,27.5,R
+1323,Missouri,MO,9th > 12th Grade,2019,6431,72127,24.3,R
+1324,Missouri,MO,> 8th Grade,2019,1986,72127,28.65,R
+1325,Missouri,MO,Associate Degree,2019,6429,72127,29.45,R
+1326,Missouri,MO,Bahcelor's Degree,2019,14236,72127,30.75,R
+1327,Missouri,MO,Doctorate,2019,1837,72127,33.1,R
+1328,Missouri,MO,High School Grad,2019,18247,72127,25.75,R
+1329,Missouri,MO,Master's Degree,2019,6708,72127,32.3,R
+1330,Missouri,MO,Some College Credit,2019,16022,72127,27.6,R
+1331,Missouri,MO,Unknown,2019,231,72127,28.55,R
+1332,Missouri,MO,9th > 12th Grade,2020,6092,69285,24.25,R
+1333,Missouri,MO,> 8th Grade,2020,1947,69285,28.7,R
+1334,Missouri,MO,Associate Degree,2020,6071,69285,29.45,R
+1335,Missouri,MO,Bahcelor's Degree,2020,13714,69285,30.85,R
+1336,Missouri,MO,Doctorate,2020,1767,69285,33.15,R
+1337,Missouri,MO,High School Grad,2020,18065,69285,26.0,R
+1338,Missouri,MO,Master's Degree,2020,6544,69285,32.3,R
+1339,Missouri,MO,Some College Credit,2020,14834,69285,27.8,R
+1340,Missouri,MO,Unknown,2020,251,69285,29.15,R
+1341,Missouri,MO,9th > 12th Grade,2021,5623,69453,24.45,R
+1342,Missouri,MO,> 8th Grade,2021,1971,69453,28.7,R
+1343,Missouri,MO,Associate Degree,2021,6090,69453,29.55,R
+1344,Missouri,MO,Bahcelor's Degree,2021,14331,69453,30.8,R
+1345,Missouri,MO,Doctorate,2021,1935,69453,33.25,R
+1346,Missouri,MO,High School Grad,2021,17951,69453,26.05,R
+1347,Missouri,MO,Master's Degree,2021,6996,69453,32.35,R
+1348,Missouri,MO,Some College Credit,2021,14292,69453,28.05,R
+1349,Missouri,MO,Unknown,2021,264,69453,29.6,R
+1350,Montana,MT,9th > 12th Grade,2016,1157,12282,23.55,D
+1351,Montana,MT,> 8th Grade,2016,209,12282,27.15,D
+1352,Montana,MT,Associate Degree,2016,1109,12282,29.5,D
+1353,Montana,MT,Bahcelor's Degree,2016,2565,12282,31.15,D
+1354,Montana,MT,Doctorate,2016,246,12282,33.6,D
+1355,Montana,MT,High School Grad,2016,3473,12282,25.9,D
+1356,Montana,MT,Master's Degree,2016,761,12282,32.9,D
+1357,Montana,MT,Some College Credit,2016,2715,12282,27.85,D
+1358,Montana,MT,Unknown,2016,47,12282,29.3,D
+1359,Montana,MT,9th > 12th Grade,2017,1041,11799,23.85,D
+1360,Montana,MT,> 8th Grade,2017,215,11799,27.1,D
+1361,Montana,MT,Associate Degree,2017,1041,11799,29.6,D
+1362,Montana,MT,Bahcelor's Degree,2017,2514,11799,31.25,D
+1363,Montana,MT,Doctorate,2017,313,11799,33.7,D
+1364,Montana,MT,High School Grad,2017,3147,11799,25.9,D
+1365,Montana,MT,Master's Degree,2017,765,11799,33.15,D
+1366,Montana,MT,Some College Credit,2017,2715,11799,27.95,D
+1367,Montana,MT,Unknown,2017,48,11799,27.95,D
+1368,Montana,MT,9th > 12th Grade,2018,947,11513,23.9,D
+1369,Montana,MT,> 8th Grade,2018,216,11513,27.5,D
+1370,Montana,MT,Associate Degree,2018,1026,11513,29.8,D
+1371,Montana,MT,Bahcelor's Degree,2018,2512,11513,31.15,D
+1372,Montana,MT,Doctorate,2018,271,11513,33.2,D
+1373,Montana,MT,High School Grad,2018,3138,11513,26.2,D
+1374,Montana,MT,Master's Degree,2018,767,11513,32.95,D
+1375,Montana,MT,Some College Credit,2018,2594,11513,28.2,D
+1376,Montana,MT,Unknown,2018,42,11513,28.9,D
+1377,Montana,MT,9th > 12th Grade,2019,897,11070,24.15,D
+1378,Montana,MT,> 8th Grade,2019,253,11070,27.65,D
+1379,Montana,MT,Associate Degree,2019,1016,11070,29.9,D
+1380,Montana,MT,Bahcelor's Degree,2019,2361,11070,31.2,D
+1381,Montana,MT,Doctorate,2019,286,11070,33.65,D
+1382,Montana,MT,High School Grad,2019,2963,11070,26.35,D
+1383,Montana,MT,Master's Degree,2019,792,11070,32.95,D
+1384,Montana,MT,Some College Credit,2019,2489,11070,28.25,D
+1385,Montana,MT,Unknown,2019,13,11070,30.9,D
+1386,Montana,MT,9th > 12th Grade,2020,801,10777,24.1,D
+1387,Montana,MT,> 8th Grade,2020,223,10777,28.3,D
+1388,Montana,MT,Associate Degree,2020,996,10777,29.95,D
+1389,Montana,MT,Bahcelor's Degree,2020,2506,10777,31.3,D
+1390,Montana,MT,Doctorate,2020,312,10777,34.25,D
+1391,Montana,MT,High School Grad,2020,2803,10777,26.4,D
+1392,Montana,MT,Master's Degree,2020,774,10777,33.3,D
+1393,Montana,MT,Some College Credit,2020,2362,10777,28.6,D
+1394,Montana,MT,9th > 12th Grade,2021,810,11216,23.95,R
+1395,Montana,MT,> 8th Grade,2021,220,11216,27.45,R
+1396,Montana,MT,Associate Degree,2021,1073,11216,29.9,R
+1397,Montana,MT,Bahcelor's Degree,2021,2639,11216,31.5,R
+1398,Montana,MT,Doctorate,2021,363,11216,33.65,R
+1399,Montana,MT,High School Grad,2021,2932,11216,26.5,R
+1400,Montana,MT,Master's Degree,2021,909,11216,33.1,R
+1401,Montana,MT,Some College Credit,2021,2270,11216,28.6,R
+1402,Nebraska,NE,9th > 12th Grade,2016,2048,26574,24.85,R
+1403,Nebraska,NE,> 8th Grade,2016,1139,26574,29.7,R
+1404,Nebraska,NE,Associate Degree,2016,2752,26574,29.6,R
+1405,Nebraska,NE,Bahcelor's Degree,2016,6504,26574,30.55,R
+1406,Nebraska,NE,Doctorate,2016,789,26574,32.8,R
+1407,Nebraska,NE,High School Grad,2016,4942,26574,26.0,R
+1408,Nebraska,NE,Master's Degree,2016,2487,26574,31.9,R
+1409,Nebraska,NE,Some College Credit,2016,5913,26574,27.35,R
+1410,Nebraska,NE,9th > 12th Grade,2017,2060,25809,25.4,R
+1411,Nebraska,NE,> 8th Grade,2017,1156,25809,29.95,R
+1412,Nebraska,NE,Associate Degree,2017,2674,25809,29.7,R
+1413,Nebraska,NE,Bahcelor's Degree,2017,6143,25809,30.5,R
+1414,Nebraska,NE,Doctorate,2017,749,25809,32.5,R
+1415,Nebraska,NE,High School Grad,2017,4942,25809,26.0,R
+1416,Nebraska,NE,Master's Degree,2017,2424,25809,31.95,R
+1417,Nebraska,NE,Some College Credit,2017,5661,25809,27.3,R
+1418,Nebraska,NE,9th > 12th Grade,2018,1965,25488,25.5,R
+1419,Nebraska,NE,> 8th Grade,2018,1038,25488,29.9,R
+1420,Nebraska,NE,Associate Degree,2018,2674,25488,29.8,R
+1421,Nebraska,NE,Bahcelor's Degree,2018,6317,25488,30.65,R
+1422,Nebraska,NE,Doctorate,2018,799,25488,33.05,R
+1423,Nebraska,NE,High School Grad,2018,4890,25488,26.15,R
+1424,Nebraska,NE,Master's Degree,2018,2481,25488,32.05,R
+1425,Nebraska,NE,Some College Credit,2018,5294,25488,27.5,R
+1426,Nebraska,NE,Unknown,2018,30,25488,31.6,R
+1427,Nebraska,NE,9th > 12th Grade,2019,1739,24755,25.05,R
+1428,Nebraska,NE,> 8th Grade,2019,1131,24755,29.85,R
+1429,Nebraska,NE,Associate Degree,2019,2468,24755,29.85,R
+1430,Nebraska,NE,Bahcelor's Degree,2019,6106,24755,30.7,R
+1431,Nebraska,NE,Doctorate,2019,779,24755,32.8,R
+1432,Nebraska,NE,High School Grad,2019,4873,24755,26.25,R
+1433,Nebraska,NE,Master's Degree,2019,2459,24755,32.15,R
+1434,Nebraska,NE,Some College Credit,2019,5167,24755,27.65,R
+1435,Nebraska,NE,Unknown,2019,33,24755,28.45,R
+1436,Nebraska,NE,9th > 12th Grade,2020,1734,24291,25.55,R
+1437,Nebraska,NE,> 8th Grade,2020,1098,24291,29.75,R
+1438,Nebraska,NE,Associate Degree,2020,2406,24291,30.1,R
+1439,Nebraska,NE,Bahcelor's Degree,2020,6120,24291,30.65,R
+1440,Nebraska,NE,Doctorate,2020,805,24291,32.9,R
+1441,Nebraska,NE,High School Grad,2020,4807,24291,26.35,R
+1442,Nebraska,NE,Master's Degree,2020,2437,24291,32.15,R
+1443,Nebraska,NE,Some College Credit,2020,4852,24291,27.85,R
+1444,Nebraska,NE,Unknown,2020,32,24291,29.9,R
+1445,Nebraska,NE,9th > 12th Grade,2021,1661,24609,25.0,R
+1446,Nebraska,NE,> 8th Grade,2021,1050,24609,30.3,R
+1447,Nebraska,NE,Associate Degree,2021,2436,24609,30.0,R
+1448,Nebraska,NE,Bahcelor's Degree,2021,6296,24609,30.7,R
+1449,Nebraska,NE,Doctorate,2021,818,24609,32.95,R
+1450,Nebraska,NE,High School Grad,2021,4842,24609,26.5,R
+1451,Nebraska,NE,Master's Degree,2021,2595,24609,31.95,R
+1452,Nebraska,NE,Some College Credit,2021,4879,24609,27.95,R
+1453,Nebraska,NE,Unknown,2021,32,24609,32.9,R
+1454,Nevada,NV,9th > 12th Grade,2016,5655,36260,25.9,R
+1455,Nevada,NV,> 8th Grade,2016,883,36260,30.65,R
+1456,Nevada,NV,Associate Degree,2016,2654,36260,30.1,R
+1457,Nevada,NV,Bahcelor's Degree,2016,5012,36260,31.6,R
+1458,Nevada,NV,Doctorate,2016,485,36260,34.2,R
+1459,Nevada,NV,High School Grad,2016,11039,36260,26.75,R
+1460,Nevada,NV,Master's Degree,2016,1639,36260,33.05,R
+1461,Nevada,NV,Some College Credit,2016,8044,36260,28.35,R
+1462,Nevada,NV,Unknown,2016,849,36260,28.45,R
+1463,Nevada,NV,9th > 12th Grade,2017,5177,35756,26.0,R
+1464,Nevada,NV,> 8th Grade,2017,858,35756,31.05,R
+1465,Nevada,NV,Associate Degree,2017,2664,35756,30.15,R
+1466,Nevada,NV,Bahcelor's Degree,2017,4849,35756,31.65,R
+1467,Nevada,NV,Doctorate,2017,479,35756,34.1,R
+1468,Nevada,NV,High School Grad,2017,11290,35756,26.85,R
+1469,Nevada,NV,Master's Degree,2017,1601,35756,33.05,R
+1470,Nevada,NV,Some College Credit,2017,7799,35756,28.55,R
+1471,Nevada,NV,Unknown,2017,1039,35756,28.45,R
+1472,Nevada,NV,9th > 12th Grade,2018,4826,35682,26.25,R
+1473,Nevada,NV,> 8th Grade,2018,829,35682,31.4,R
+1474,Nevada,NV,Associate Degree,2018,2598,35682,30.3,R
+1475,Nevada,NV,Bahcelor's Degree,2018,5096,35682,31.8,R
+1476,Nevada,NV,Doctorate,2018,525,35682,34.4,R
+1477,Nevada,NV,High School Grad,2018,11699,35682,26.95,R
+1478,Nevada,NV,Master's Degree,2018,1709,35682,33.2,R
+1479,Nevada,NV,Some College Credit,2018,7657,35682,28.65,R
+1480,Nevada,NV,Unknown,2018,743,35682,28.9,R
+1481,Nevada,NV,9th > 12th Grade,2019,4504,35072,26.45,D
+1482,Nevada,NV,> 8th Grade,2019,780,35072,31.35,D
+1483,Nevada,NV,Associate Degree,2019,2661,35072,30.4,D
+1484,Nevada,NV,Bahcelor's Degree,2019,5070,35072,31.8,D
+1485,Nevada,NV,Doctorate,2019,529,35072,34.15,D
+1486,Nevada,NV,High School Grad,2019,11268,35072,27.05,D
+1487,Nevada,NV,Master's Degree,2019,1720,35072,33.2,D
+1488,Nevada,NV,Some College Credit,2019,7417,35072,28.9,D
+1489,Nevada,NV,Unknown,2019,1123,35072,28.2,D
+1490,Nevada,NV,9th > 12th Grade,2020,4079,33653,26.7,D
+1491,Nevada,NV,> 8th Grade,2020,609,33653,31.25,D
+1492,Nevada,NV,Associate Degree,2020,2598,33653,30.4,D
+1493,Nevada,NV,Bahcelor's Degree,2020,5110,33653,31.85,D
+1494,Nevada,NV,Doctorate,2020,522,33653,34.3,D
+1495,Nevada,NV,High School Grad,2020,10951,33653,27.1,D
+1496,Nevada,NV,Master's Degree,2020,1680,33653,33.5,D
+1497,Nevada,NV,Some College Credit,2020,7040,33653,28.95,D
+1498,Nevada,NV,Unknown,2020,1064,33653,28.75,D
+1499,Nevada,NV,9th > 12th Grade,2021,3822,33686,26.75,D
+1500,Nevada,NV,> 8th Grade,2021,513,33686,31.7,D
+1501,Nevada,NV,Associate Degree,2021,2537,33686,30.75,D
+1502,Nevada,NV,Bahcelor's Degree,2021,5299,33686,31.85,D
+1503,Nevada,NV,Doctorate,2021,544,33686,34.3,D
+1504,Nevada,NV,High School Grad,2021,11173,33686,27.25,D
+1505,Nevada,NV,Master's Degree,2021,1892,33686,33.3,D
+1506,Nevada,NV,Some College Credit,2021,7109,33686,29.2,D
+1507,Nevada,NV,Unknown,2021,797,33686,28.9,D
+1508,New Hampshire,NH,9th > 12th Grade,2016,656,12267,24.8,D
+1509,New Hampshire,NH,> 8th Grade,2016,86,12267,29.6,D
+1510,New Hampshire,NH,Associate Degree,2016,1091,12267,30.35,D
+1511,New Hampshire,NH,Bahcelor's Degree,2016,3017,12267,31.5,D
+1512,New Hampshire,NH,Doctorate,2016,376,12267,33.7,D
+1513,New Hampshire,NH,High School Grad,2016,2615,12267,26.65,D
+1514,New Hampshire,NH,Master's Degree,2016,1800,12267,32.6,D
+1515,New Hampshire,NH,Some College Credit,2016,2553,12267,28.35,D
+1516,New Hampshire,NH,Unknown,2016,73,12267,30.2,D
+1517,New Hampshire,NH,9th > 12th Grade,2017,617,12116,24.5,R
+1518,New Hampshire,NH,> 8th Grade,2017,86,12116,29.2,R
+1519,New Hampshire,NH,Associate Degree,2017,1158,12116,30.55,R
+1520,New Hampshire,NH,Bahcelor's Degree,2017,3169,12116,31.35,R
+1521,New Hampshire,NH,Doctorate,2017,392,12116,34.25,R
+1522,New Hampshire,NH,High School Grad,2017,2573,12116,26.6,R
+1523,New Hampshire,NH,Master's Degree,2017,1714,12116,32.8,R
+1524,New Hampshire,NH,Some College Credit,2017,2347,12116,28.4,R
+1525,New Hampshire,NH,Unknown,2017,60,12116,29.9,R
+1526,New Hampshire,NH,9th > 12th Grade,2018,564,11995,24.6,R
+1527,New Hampshire,NH,> 8th Grade,2018,93,11995,28.9,R
+1528,New Hampshire,NH,Associate Degree,2018,1082,11995,30.7,R
+1529,New Hampshire,NH,Bahcelor's Degree,2018,3126,11995,31.7,R
+1530,New Hampshire,NH,Doctorate,2018,399,11995,34.1,R
+1531,New Hampshire,NH,High School Grad,2018,2514,11995,26.8,R
+1532,New Hampshire,NH,Master's Degree,2018,1774,11995,32.7,R
+1533,New Hampshire,NH,Some College Credit,2018,2382,11995,28.8,R
+1534,New Hampshire,NH,Unknown,2018,61,11995,30.75,R
+1535,New Hampshire,NH,9th > 12th Grade,2019,548,11839,25.35,R
+1536,New Hampshire,NH,> 8th Grade,2019,65,11839,30.05,R
+1537,New Hampshire,NH,Associate Degree,2019,1073,11839,30.7,R
+1538,New Hampshire,NH,Bahcelor's Degree,2019,3141,11839,31.65,R
+1539,New Hampshire,NH,Doctorate,2019,371,11839,34.45,R
+1540,New Hampshire,NH,High School Grad,2019,2423,11839,26.8,R
+1541,New Hampshire,NH,Master's Degree,2019,1876,11839,32.85,R
+1542,New Hampshire,NH,Some College Credit,2019,2265,11839,28.85,R
+1543,New Hampshire,NH,Unknown,2019,77,11839,32.5,R
+1544,New Hampshire,NH,9th > 12th Grade,2020,561,11791,25.35,R
+1545,New Hampshire,NH,> 8th Grade,2020,65,11791,29.35,R
+1546,New Hampshire,NH,Associate Degree,2020,1029,11791,30.6,R
+1547,New Hampshire,NH,Bahcelor's Degree,2020,3181,11791,31.75,R
+1548,New Hampshire,NH,Doctorate,2020,406,11791,34.3,R
+1549,New Hampshire,NH,High School Grad,2020,2463,11791,27.05,R
+1550,New Hampshire,NH,Master's Degree,2020,1828,11791,33.0,R
+1551,New Hampshire,NH,Some College Credit,2020,2197,11791,29.15,R
+1552,New Hampshire,NH,Unknown,2020,61,11791,31.2,R
+1553,New Hampshire,NH,9th > 12th Grade,2021,527,12625,25.45,R
+1554,New Hampshire,NH,> 8th Grade,2021,72,12625,29.05,R
+1555,New Hampshire,NH,Associate Degree,2021,1115,12625,30.9,R
+1556,New Hampshire,NH,Bahcelor's Degree,2021,3559,12625,31.75,R
+1557,New Hampshire,NH,Doctorate,2021,463,12625,34.1,R
+1558,New Hampshire,NH,High School Grad,2021,2506,12625,27.55,R
+1559,New Hampshire,NH,Master's Degree,2021,2144,12625,33.05,R
+1560,New Hampshire,NH,Some College Credit,2021,2179,12625,29.5,R
+1561,New Hampshire,NH,Unknown,2021,60,12625,30.75,R
+1562,New Jersey,NJ,9th > 12th Grade,2016,7088,102647,26.25,R
+1563,New Jersey,NJ,> 8th Grade,2016,4470,102647,30.1,R
+1564,New Jersey,NJ,Associate Degree,2016,7000,102647,30.8,R
+1565,New Jersey,NJ,Bahcelor's Degree,2016,26605,102647,32.1,R
+1566,New Jersey,NJ,Doctorate,2016,3547,102647,34.2,R
+1567,New Jersey,NJ,High School Grad,2016,23672,102647,27.95,R
+1568,New Jersey,NJ,Master's Degree,2016,15752,102647,32.95,R
+1569,New Jersey,NJ,Some College Credit,2016,13986,102647,29.1,R
+1570,New Jersey,NJ,Unknown,2016,527,102647,30.8,R
+1571,New Jersey,NJ,9th > 12th Grade,2017,6454,101250,26.6,R
+1572,New Jersey,NJ,> 8th Grade,2017,4187,101250,30.15,R
+1573,New Jersey,NJ,Associate Degree,2017,7054,101250,30.8,R
+1574,New Jersey,NJ,Bahcelor's Degree,2017,26826,101250,32.2,R
+1575,New Jersey,NJ,Doctorate,2017,3464,101250,34.25,R
+1576,New Jersey,NJ,High School Grad,2017,23473,101250,28.05,R
+1577,New Jersey,NJ,Master's Degree,2017,15616,101250,33.0,R
+1578,New Jersey,NJ,Some College Credit,2017,13495,101250,29.2,R
+1579,New Jersey,NJ,Unknown,2017,681,101250,30.75,R
+1580,New Jersey,NJ,9th > 12th Grade,2018,6437,101223,26.5,D
+1581,New Jersey,NJ,> 8th Grade,2018,4149,101223,30.45,D
+1582,New Jersey,NJ,Associate Degree,2018,6828,101223,31.0,D
+1583,New Jersey,NJ,Bahcelor's Degree,2018,26829,101223,32.3,D
+1584,New Jersey,NJ,Doctorate,2018,3569,101223,34.2,D
+1585,New Jersey,NJ,High School Grad,2018,23898,101223,28.15,D
+1586,New Jersey,NJ,Master's Degree,2018,15901,101223,33.2,D
+1587,New Jersey,NJ,Some College Credit,2018,12994,101223,29.35,D
+1588,New Jersey,NJ,Unknown,2018,618,101223,30.7,D
+1589,New Jersey,NJ,9th > 12th Grade,2019,6080,99585,26.6,D
+1590,New Jersey,NJ,> 8th Grade,2019,3853,99585,30.25,D
+1591,New Jersey,NJ,Associate Degree,2019,6909,99585,31.1,D
+1592,New Jersey,NJ,Bahcelor's Degree,2019,26943,99585,32.35,D
+1593,New Jersey,NJ,Doctorate,2019,3691,99585,34.3,D
+1594,New Jersey,NJ,High School Grad,2019,23164,99585,28.15,D
+1595,New Jersey,NJ,Master's Degree,2019,15757,99585,33.2,D
+1596,New Jersey,NJ,Some College Credit,2019,12505,99585,29.5,D
+1597,New Jersey,NJ,Unknown,2019,683,99585,30.55,D
+1598,New Jersey,NJ,9th > 12th Grade,2020,5474,97954,26.7,D
+1599,New Jersey,NJ,> 8th Grade,2020,3827,97954,30.4,D
+1600,New Jersey,NJ,Associate Degree,2020,6800,97954,31.1,D
+1601,New Jersey,NJ,Bahcelor's Degree,2020,26645,97954,32.5,D
+1602,New Jersey,NJ,Doctorate,2020,3623,97954,34.35,D
+1603,New Jersey,NJ,High School Grad,2020,23010,97954,28.35,D
+1604,New Jersey,NJ,Master's Degree,2020,15924,97954,33.35,D
+1605,New Jersey,NJ,Some College Credit,2020,11731,97954,29.65,D
+1606,New Jersey,NJ,Unknown,2020,920,97954,30.75,D
+1607,New Jersey,NJ,9th > 12th Grade,2021,5150,101497,27.0,D
+1608,New Jersey,NJ,> 8th Grade,2021,3566,101497,30.05,D
+1609,New Jersey,NJ,Associate Degree,2021,6910,101497,31.15,D
+1610,New Jersey,NJ,Bahcelor's Degree,2021,28276,101497,32.6,D
+1611,New Jersey,NJ,Doctorate,2021,4080,101497,34.5,D
+1612,New Jersey,NJ,High School Grad,2021,23384,101497,28.45,D
+1613,New Jersey,NJ,Master's Degree,2021,16990,101497,33.45,D
+1614,New Jersey,NJ,Some College Credit,2021,11997,101497,29.9,D
+1615,New Jersey,NJ,Unknown,2021,1144,101497,31.25,D
+1616,New Mexico,NM,9th > 12th Grade,2016,4214,24692,24.3,R
+1617,New Mexico,NM,> 8th Grade,2016,668,24692,28.45,R
+1618,New Mexico,NM,Associate Degree,2016,2194,24692,29.0,R
+1619,New Mexico,NM,Bahcelor's Degree,2016,3245,24692,30.8,R
+1620,New Mexico,NM,Doctorate,2016,511,24692,33.55,R
+1621,New Mexico,NM,High School Grad,2016,5915,24692,25.95,R
+1622,New Mexico,NM,Master's Degree,2016,1186,24692,32.6,R
+1623,New Mexico,NM,Some College Credit,2016,6659,24692,26.85,R
+1624,New Mexico,NM,Unknown,2016,100,24692,28.4,R
+1625,New Mexico,NM,9th > 12th Grade,2017,3874,23767,24.5,R
+1626,New Mexico,NM,> 8th Grade,2017,648,23767,28.1,R
+1627,New Mexico,NM,Associate Degree,2017,2164,23767,29.3,R
+1628,New Mexico,NM,Bahcelor's Degree,2017,3105,23767,30.8,R
+1629,New Mexico,NM,Doctorate,2017,513,23767,33.85,R
+1630,New Mexico,NM,High School Grad,2017,5812,23767,25.95,R
+1631,New Mexico,NM,Master's Degree,2017,1133,23767,32.75,R
+1632,New Mexico,NM,Some College Credit,2017,6463,23767,27.15,R
+1633,New Mexico,NM,Unknown,2017,55,23767,28.55,R
+1634,New Mexico,NM,9th > 12th Grade,2018,3490,23039,24.65,R
+1635,New Mexico,NM,> 8th Grade,2018,557,23039,28.4,R
+1636,New Mexico,NM,Associate Degree,2018,2159,23039,29.05,R
+1637,New Mexico,NM,Bahcelor's Degree,2018,3182,23039,30.8,R
+1638,New Mexico,NM,Doctorate,2018,536,23039,34.2,R
+1639,New Mexico,NM,High School Grad,2018,5609,23039,26.05,R
+1640,New Mexico,NM,Master's Degree,2018,1084,23039,32.75,R
+1641,New Mexico,NM,Some College Credit,2018,6365,23039,27.35,R
+1642,New Mexico,NM,Unknown,2018,57,23039,27.25,R
+1643,New Mexico,NM,9th > 12th Grade,2019,3440,22960,24.7,D
+1644,New Mexico,NM,> 8th Grade,2019,572,22960,28.85,D
+1645,New Mexico,NM,Associate Degree,2019,2135,22960,29.2,D
+1646,New Mexico,NM,Bahcelor's Degree,2019,3085,22960,30.9,D
+1647,New Mexico,NM,Doctorate,2019,510,22960,33.8,D
+1648,New Mexico,NM,High School Grad,2019,5840,22960,26.2,D
+1649,New Mexico,NM,Master's Degree,2019,1232,22960,32.8,D
+1650,New Mexico,NM,Some College Credit,2019,6092,22960,27.5,D
+1651,New Mexico,NM,Unknown,2019,54,22960,29.1,D
+1652,New Mexico,NM,9th > 12th Grade,2020,3208,21903,24.9,D
+1653,New Mexico,NM,> 8th Grade,2020,519,21903,28.75,D
+1654,New Mexico,NM,Associate Degree,2020,2056,21903,29.25,D
+1655,New Mexico,NM,Bahcelor's Degree,2020,2982,21903,30.85,D
+1656,New Mexico,NM,Doctorate,2020,495,21903,34.0,D
+1657,New Mexico,NM,High School Grad,2020,5645,21903,26.3,D
+1658,New Mexico,NM,Master's Degree,2020,1146,21903,33.05,D
+1659,New Mexico,NM,Some College Credit,2020,5796,21903,27.4,D
+1660,New Mexico,NM,Unknown,2020,56,21903,28.45,D
+1661,New Mexico,NM,9th > 12th Grade,2021,2871,21391,24.85,D
+1662,New Mexico,NM,> 8th Grade,2021,502,21391,28.15,D
+1663,New Mexico,NM,Associate Degree,2021,2076,21391,29.35,D
+1664,New Mexico,NM,Bahcelor's Degree,2021,3126,21391,30.95,D
+1665,New Mexico,NM,Doctorate,2021,440,21391,34.25,D
+1666,New Mexico,NM,High School Grad,2021,5358,21391,26.3,D
+1667,New Mexico,NM,Master's Degree,2021,1411,21391,33.15,D
+1668,New Mexico,NM,Some College Credit,2021,5541,21391,27.8,D
+1669,New Mexico,NM,Unknown,2021,66,21391,27.55,D
+1670,New York,NY,9th > 12th Grade,2016,25331,234283,26.4,D
+1671,New York,NY,> 8th Grade,2016,10806,234283,30.15,D
+1672,New York,NY,Associate Degree,2016,18758,234283,30.35,D
+1673,New York,NY,Bahcelor's Degree,2016,46756,234283,32.0,D
+1674,New York,NY,Doctorate,2016,8187,234283,34.15,D
+1675,New York,NY,High School Grad,2016,51918,234283,27.8,D
+1676,New York,NY,Master's Degree,2016,33616,234283,33.1,D
+1677,New York,NY,Some College Credit,2016,37773,234283,28.65,D
+1678,New York,NY,Unknown,2016,1138,234283,29.4,D
+1679,New York,NY,9th > 12th Grade,2017,24154,229737,26.75,D
+1680,New York,NY,> 8th Grade,2017,10546,229737,30.45,D
+1681,New York,NY,Associate Degree,2017,18189,229737,30.45,D
+1682,New York,NY,Bahcelor's Degree,2017,46142,229737,32.15,D
+1683,New York,NY,Doctorate,2017,8113,229737,34.4,D
+1684,New York,NY,High School Grad,2017,51786,229737,27.9,D
+1685,New York,NY,Master's Degree,2017,33330,229737,33.25,D
+1686,New York,NY,Some College Credit,2017,36267,229737,28.8,D
+1687,New York,NY,Unknown,2017,1210,229737,29.75,D
+1688,New York,NY,9th > 12th Grade,2018,22395,226238,26.8,D
+1689,New York,NY,> 8th Grade,2018,9775,226238,30.6,D
+1690,New York,NY,Associate Degree,2018,17968,226238,30.6,D
+1691,New York,NY,Bahcelor's Degree,2018,46108,226238,32.25,D
+1692,New York,NY,Doctorate,2018,8428,226238,34.4,D
+1693,New York,NY,High School Grad,2018,51751,226238,28.05,D
+1694,New York,NY,Master's Degree,2018,33389,226238,33.35,D
+1695,New York,NY,Some College Credit,2018,35082,226238,29.0,D
+1696,New York,NY,Unknown,2018,1342,226238,29.7,D
+1697,New York,NY,9th > 12th Grade,2019,21562,221539,26.95,D
+1698,New York,NY,> 8th Grade,2019,8984,221539,30.55,D
+1699,New York,NY,Associate Degree,2019,17602,221539,30.65,D
+1700,New York,NY,Bahcelor's Degree,2019,46163,221539,32.35,D
+1701,New York,NY,Doctorate,2019,8178,221539,34.6,D
+1702,New York,NY,High School Grad,2019,50701,221539,28.05,D
+1703,New York,NY,Master's Degree,2019,33030,221539,33.4,D
+1704,New York,NY,Some College Credit,2019,33762,221539,29.1,D
+1705,New York,NY,Unknown,2019,1557,221539,29.7,D
+1706,New York,NY,9th > 12th Grade,2020,19427,209338,27.15,D
+1707,New York,NY,> 8th Grade,2020,8296,209338,30.65,D
+1708,New York,NY,Associate Degree,2020,16740,209338,30.75,D
+1709,New York,NY,Bahcelor's Degree,2020,43673,209338,32.35,D
+1710,New York,NY,Doctorate,2020,7900,209338,34.45,D
+1711,New York,NY,High School Grad,2020,48608,209338,28.15,D
+1712,New York,NY,Master's Degree,2020,31728,209338,33.45,D
+1713,New York,NY,Some College Credit,2020,31492,209338,29.2,D
+1714,New York,NY,Unknown,2020,1474,209338,29.5,D
+1715,New York,NY,9th > 12th Grade,2021,17929,210742,27.35,D
+1716,New York,NY,> 8th Grade,2021,8023,210742,30.7,D
+1717,New York,NY,Associate Degree,2021,17058,210742,30.85,D
+1718,New York,NY,Bahcelor's Degree,2021,45572,210742,32.4,D
+1719,New York,NY,Doctorate,2021,8265,210742,34.65,D
+1720,New York,NY,High School Grad,2021,48420,210742,28.2,D
+1721,New York,NY,Master's Degree,2021,33196,210742,33.6,D
+1722,New York,NY,Some College Credit,2021,30756,210742,29.45,D
+1723,New York,NY,Unknown,2021,1523,210742,30.25,D
+1724,North Carolina,NC,9th > 12th Grade,2016,12793,120779,24.55,R
+1725,North Carolina,NC,> 8th Grade,2016,4529,120779,30.25,R
+1726,North Carolina,NC,Associate Degree,2016,11044,120779,29.55,R
+1727,North Carolina,NC,Bahcelor's Degree,2016,24234,120779,31.05,R
+1728,North Carolina,NC,Doctorate,2016,2942,120779,33.6,R
+1729,North Carolina,NC,High School Grad,2016,27443,120779,25.6,R
+1730,North Carolina,NC,Master's Degree,2016,10217,120779,32.6,R
+1731,North Carolina,NC,Some College Credit,2016,27240,120779,27.2,R
+1732,North Carolina,NC,Unknown,2016,337,120779,29.35,R
+1733,North Carolina,NC,9th > 12th Grade,2017,12421,120125,24.85,D
+1734,North Carolina,NC,> 8th Grade,2017,4390,120125,30.35,D
+1735,North Carolina,NC,Associate Degree,2017,11148,120125,29.6,D
+1736,North Carolina,NC,Bahcelor's Degree,2017,23506,120125,31.2,D
+1737,North Carolina,NC,Doctorate,2017,3017,120125,33.75,D
+1738,North Carolina,NC,High School Grad,2017,28252,120125,25.65,D
+1739,North Carolina,NC,Master's Degree,2017,10254,120125,32.75,D
+1740,North Carolina,NC,Some College Credit,2017,26866,120125,27.25,D
+1741,North Carolina,NC,Unknown,2017,271,120125,29.35,D
+1742,North Carolina,NC,9th > 12th Grade,2018,11694,118954,25.1,D
+1743,North Carolina,NC,> 8th Grade,2018,3943,118954,30.45,D
+1744,North Carolina,NC,Associate Degree,2018,11226,118954,29.65,D
+1745,North Carolina,NC,Bahcelor's Degree,2018,24110,118954,31.15,D
+1746,North Carolina,NC,Doctorate,2018,3018,118954,33.7,D
+1747,North Carolina,NC,High School Grad,2018,28321,118954,25.8,D
+1748,North Carolina,NC,Master's Degree,2018,10446,118954,32.9,D
+1749,North Carolina,NC,Some College Credit,2018,25807,118954,27.45,D
+1750,North Carolina,NC,Unknown,2018,389,118954,29.35,D
+1751,North Carolina,NC,9th > 12th Grade,2019,11254,118725,25.25,D
+1752,North Carolina,NC,> 8th Grade,2019,3942,118725,30.2,D
+1753,North Carolina,NC,Associate Degree,2019,11332,118725,29.6,D
+1754,North Carolina,NC,Bahcelor's Degree,2019,23941,118725,31.2,D
+1755,North Carolina,NC,Doctorate,2019,3117,118725,34.0,D
+1756,North Carolina,NC,High School Grad,2019,29577,118725,26.0,D
+1757,North Carolina,NC,Master's Degree,2019,10606,118725,32.95,D
+1758,North Carolina,NC,Some College Credit,2019,24528,118725,27.5,D
+1759,North Carolina,NC,Unknown,2019,428,118725,28.7,D
+1760,North Carolina,NC,9th > 12th Grade,2020,10616,116730,25.3,D
+1761,North Carolina,NC,> 8th Grade,2020,3884,116730,30.5,D
+1762,North Carolina,NC,Associate Degree,2020,11198,116730,29.65,D
+1763,North Carolina,NC,Bahcelor's Degree,2020,24225,116730,31.2,D
+1764,North Carolina,NC,Doctorate,2020,3191,116730,34.0,D
+1765,North Carolina,NC,High School Grad,2020,29290,116730,26.05,D
+1766,North Carolina,NC,Master's Degree,2020,10438,116730,33.05,D
+1767,North Carolina,NC,Some College Credit,2020,23565,116730,27.7,D
+1768,North Carolina,NC,Unknown,2020,323,116730,29.4,D
+1769,North Carolina,NC,9th > 12th Grade,2021,10187,120466,25.5,D
+1770,North Carolina,NC,> 8th Grade,2021,3627,120466,30.05,D
+1771,North Carolina,NC,Associate Degree,2021,11743,120466,29.65,D
+1772,North Carolina,NC,Bahcelor's Degree,2021,26112,120466,31.3,D
+1773,North Carolina,NC,Doctorate,2021,3425,120466,33.95,D
+1774,North Carolina,NC,High School Grad,2021,30032,120466,26.2,D
+1775,North Carolina,NC,Master's Degree,2021,11680,120466,33.05,D
+1776,North Carolina,NC,Some College Credit,2021,23322,120466,28.05,D
+1777,North Carolina,NC,Unknown,2021,338,120466,30.15,D
+1778,North Dakota,ND,9th > 12th Grade,2016,828,11383,23.55,R
+1779,North Dakota,ND,> 8th Grade,2016,170,11383,28.35,R
+1780,North Dakota,ND,Associate Degree,2016,1539,11383,29.3,R
+1781,North Dakota,ND,Bahcelor's Degree,2016,2984,11383,30.2,R
+1782,North Dakota,ND,Doctorate,2016,288,11383,32.3,R
+1783,North Dakota,ND,High School Grad,2016,2214,11383,25.95,R
+1784,North Dakota,ND,Master's Degree,2016,783,11383,31.45,R
+1785,North Dakota,ND,Some College Credit,2016,2425,11383,27.5,R
+1786,North Dakota,ND,Unknown,2016,152,11383,28.75,R
+1787,North Dakota,ND,9th > 12th Grade,2017,791,10737,24.05,R
+1788,North Dakota,ND,> 8th Grade,2017,140,10737,28.55,R
+1789,North Dakota,ND,Associate Degree,2017,1421,10737,29.55,R
+1790,North Dakota,ND,Bahcelor's Degree,2017,2810,10737,30.25,R
+1791,North Dakota,ND,Doctorate,2017,303,10737,32.5,R
+1792,North Dakota,ND,High School Grad,2017,2099,10737,26.35,R
+1793,North Dakota,ND,Master's Degree,2017,783,10737,31.8,R
+1794,North Dakota,ND,Some College Credit,2017,2247,10737,27.55,R
+1795,North Dakota,ND,Unknown,2017,143,10737,28.55,R
+1796,North Dakota,ND,9th > 12th Grade,2018,783,10636,24.0,R
+1797,North Dakota,ND,> 8th Grade,2018,113,10636,28.9,R
+1798,North Dakota,ND,Associate Degree,2018,1413,10636,29.35,R
+1799,North Dakota,ND,Bahcelor's Degree,2018,2793,10636,30.35,R
+1800,North Dakota,ND,Doctorate,2018,346,10636,32.35,R
+1801,North Dakota,ND,High School Grad,2018,2160,10636,26.3,R
+1802,North Dakota,ND,Master's Degree,2018,776,10636,31.7,R
+1803,North Dakota,ND,Some College Credit,2018,2118,10636,27.85,R
+1804,North Dakota,ND,Unknown,2018,134,10636,28.95,R
+1805,North Dakota,ND,9th > 12th Grade,2019,757,10454,24.7,R
+1806,North Dakota,ND,> 8th Grade,2019,119,10454,29.2,R
+1807,North Dakota,ND,Associate Degree,2019,1303,10454,29.65,R
+1808,North Dakota,ND,Bahcelor's Degree,2019,2676,10454,30.45,R
+1809,North Dakota,ND,Doctorate,2019,293,10454,32.45,R
+1810,North Dakota,ND,High School Grad,2019,2168,10454,26.5,R
+1811,North Dakota,ND,Master's Degree,2019,855,10454,31.8,R
+1812,North Dakota,ND,Some College Credit,2019,2144,10454,28.0,R
+1813,North Dakota,ND,Unknown,2019,139,10454,29.05,R
+1814,North Dakota,ND,9th > 12th Grade,2020,692,10059,24.75,R
+1815,North Dakota,ND,> 8th Grade,2020,108,10059,29.75,R
+1816,North Dakota,ND,Associate Degree,2020,1307,10059,29.85,R
+1817,North Dakota,ND,Bahcelor's Degree,2020,2569,10059,30.55,R
+1818,North Dakota,ND,Doctorate,2020,274,10059,32.75,R
+1819,North Dakota,ND,High School Grad,2020,2144,10059,26.55,R
+1820,North Dakota,ND,Master's Degree,2020,799,10059,31.75,R
+1821,North Dakota,ND,Some College Credit,2020,2018,10059,28.2,R
+1822,North Dakota,ND,Unknown,2020,148,10059,28.9,R
+1823,North Dakota,ND,9th > 12th Grade,2021,673,10112,24.75,R
+1824,North Dakota,ND,> 8th Grade,2021,93,10112,30.1,R
+1825,North Dakota,ND,Associate Degree,2021,1329,10112,29.85,R
+1826,North Dakota,ND,Bahcelor's Degree,2021,2689,10112,30.5,R
+1827,North Dakota,ND,Doctorate,2021,336,10112,32.6,R
+1828,North Dakota,ND,High School Grad,2021,2070,10112,26.7,R
+1829,North Dakota,ND,Master's Degree,2021,857,10112,31.65,R
+1830,North Dakota,ND,Some College Credit,2021,1914,10112,28.3,R
+1831,North Dakota,ND,Unknown,2021,151,10112,29.45,R
+1832,Ohio,OH,9th > 12th Grade,2016,13799,138085,23.75,R
+1833,Ohio,OH,> 8th Grade,2016,4627,138085,28.4,R
+1834,Ohio,OH,Associate Degree,2016,12589,138085,29.7,R
+1835,Ohio,OH,Bahcelor's Degree,2016,26048,138085,30.8,R
+1836,Ohio,OH,Doctorate,2016,3361,138085,32.95,R
+1837,Ohio,OH,High School Grad,2016,36228,138085,25.65,R
+1838,Ohio,OH,Master's Degree,2016,12445,138085,32.35,R
+1839,Ohio,OH,Some College Credit,2016,28449,138085,27.45,R
+1840,Ohio,OH,Unknown,2016,539,138085,28.1,R
+1841,Ohio,OH,9th > 12th Grade,2017,13242,136832,23.85,R
+1842,Ohio,OH,> 8th Grade,2017,4819,136832,28.35,R
+1843,Ohio,OH,Associate Degree,2017,12616,136832,29.8,R
+1844,Ohio,OH,Bahcelor's Degree,2017,26013,136832,30.85,R
+1845,Ohio,OH,Doctorate,2017,3387,136832,33.05,R
+1846,Ohio,OH,High School Grad,2017,37301,136832,25.75,R
+1847,Ohio,OH,Master's Degree,2017,12254,136832,32.4,R
+1848,Ohio,OH,Some College Credit,2017,26806,136832,27.65,R
+1849,Ohio,OH,Unknown,2017,394,136832,28.35,R
+1850,Ohio,OH,9th > 12th Grade,2018,12633,135134,24.1,R
+1851,Ohio,OH,> 8th Grade,2018,4774,135134,28.7,R
+1852,Ohio,OH,Associate Degree,2018,12070,135134,29.85,R
+1853,Ohio,OH,Bahcelor's Degree,2018,26081,135134,30.9,R
+1854,Ohio,OH,Doctorate,2018,3537,135134,33.2,R
+1855,Ohio,OH,High School Grad,2018,37813,135134,25.9,R
+1856,Ohio,OH,Master's Degree,2018,12349,135134,32.55,R
+1857,Ohio,OH,Some College Credit,2018,25493,135134,27.9,R
+1858,Ohio,OH,Unknown,2018,384,135134,28.65,R
+1859,Ohio,OH,9th > 12th Grade,2019,12240,134461,24.25,R
+1860,Ohio,OH,> 8th Grade,2019,4795,134461,28.75,R
+1861,Ohio,OH,Associate Degree,2019,11968,134461,30.0,R
+1862,Ohio,OH,Bahcelor's Degree,2019,26014,134461,31.0,R
+1863,Ohio,OH,Doctorate,2019,3415,134461,33.25,R
+1864,Ohio,OH,High School Grad,2019,38520,134461,26.0,R
+1865,Ohio,OH,Master's Degree,2019,12372,134461,32.6,R
+1866,Ohio,OH,Some College Credit,2019,24688,134461,28.0,R
+1867,Ohio,OH,Unknown,2019,449,134461,28.35,R
+1868,Ohio,OH,9th > 12th Grade,2020,11256,129191,24.35,R
+1869,Ohio,OH,> 8th Grade,2020,4902,129191,28.55,R
+1870,Ohio,OH,Associate Degree,2020,11466,129191,30.1,R
+1871,Ohio,OH,Bahcelor's Degree,2020,25510,129191,31.1,R
+1872,Ohio,OH,Doctorate,2020,3457,129191,33.35,R
+1873,Ohio,OH,High School Grad,2020,37407,129191,26.1,R
+1874,Ohio,OH,Master's Degree,2020,11987,129191,32.6,R
+1875,Ohio,OH,Some College Credit,2020,22804,129191,28.25,R
+1876,Ohio,OH,Unknown,2020,402,129191,28.85,R
+1877,Ohio,OH,9th > 12th Grade,2021,10348,129791,24.45,R
+1878,Ohio,OH,> 8th Grade,2021,5060,129791,28.55,R
+1879,Ohio,OH,Associate Degree,2021,11650,129791,30.0,R
+1880,Ohio,OH,Bahcelor's Degree,2021,26962,129791,31.1,R
+1881,Ohio,OH,Doctorate,2021,3621,129791,33.4,R
+1882,Ohio,OH,High School Grad,2021,37267,129791,26.2,R
+1883,Ohio,OH,Master's Degree,2021,12615,129791,32.6,R
+1884,Ohio,OH,Some College Credit,2021,21817,129791,28.45,R
+1885,Ohio,OH,Unknown,2021,451,129791,28.95,R
+1886,Oklahoma,OK,9th > 12th Grade,2016,7170,52592,23.8,R
+1887,Oklahoma,OK,> 8th Grade,2016,1624,52592,28.05,R
+1888,Oklahoma,OK,Associate Degree,2016,3998,52592,29.05,R
+1889,Oklahoma,OK,Bahcelor's Degree,2016,8742,52592,30.3,R
+1890,Oklahoma,OK,Doctorate,2016,832,52592,32.6,R
+1891,Oklahoma,OK,High School Grad,2016,15319,52592,25.3,R
+1892,Oklahoma,OK,Master's Degree,2016,2579,52592,32.0,R
+1893,Oklahoma,OK,Some College Credit,2016,12196,52592,26.95,R
+1894,Oklahoma,OK,Unknown,2016,132,52592,27.65,R
+1895,Oklahoma,OK,9th > 12th Grade,2017,6487,50214,24.05,R
+1896,Oklahoma,OK,> 8th Grade,2017,1570,50214,28.35,R
+1897,Oklahoma,OK,Associate Degree,2017,3928,50214,29.05,R
+1898,Oklahoma,OK,Bahcelor's Degree,2017,8381,50214,30.35,R
+1899,Oklahoma,OK,Doctorate,2017,810,50214,32.95,R
+1900,Oklahoma,OK,High School Grad,2017,14775,50214,25.4,R
+1901,Oklahoma,OK,Master's Degree,2017,2403,50214,32.0,R
+1902,Oklahoma,OK,Some College Credit,2017,11725,50214,27.05,R
+1903,Oklahoma,OK,Unknown,2017,135,50214,28.5,R
+1904,Oklahoma,OK,9th > 12th Grade,2018,6134,49800,24.1,R
+1905,Oklahoma,OK,> 8th Grade,2018,1441,49800,28.65,R
+1906,Oklahoma,OK,Associate Degree,2018,3891,49800,29.0,R
+1907,Oklahoma,OK,Bahcelor's Degree,2018,8324,49800,30.5,R
+1908,Oklahoma,OK,Doctorate,2018,828,49800,32.95,R
+1909,Oklahoma,OK,High School Grad,2018,15069,49800,25.6,R
+1910,Oklahoma,OK,Master's Degree,2018,2472,49800,32.05,R
+1911,Oklahoma,OK,Some College Credit,2018,11534,49800,27.2,R
+1912,Oklahoma,OK,Unknown,2018,107,49800,29.05,R
+1913,Oklahoma,OK,9th > 12th Grade,2019,5984,49143,24.35,R
+1914,Oklahoma,OK,> 8th Grade,2019,1392,49143,28.5,R
+1915,Oklahoma,OK,Associate Degree,2019,3793,49143,29.3,R
+1916,Oklahoma,OK,Bahcelor's Degree,2019,7909,49143,30.5,R
+1917,Oklahoma,OK,Doctorate,2019,848,49143,32.95,R
+1918,Oklahoma,OK,High School Grad,2019,15440,49143,25.6,R
+1919,Oklahoma,OK,Master's Degree,2019,2476,49143,32.25,R
+1920,Oklahoma,OK,Some College Credit,2019,11148,49143,27.25,R
+1921,Oklahoma,OK,Unknown,2019,153,49143,28.55,R
+1922,Oklahoma,OK,9th > 12th Grade,2020,5775,47623,24.4,R
+1923,Oklahoma,OK,> 8th Grade,2020,1292,47623,28.7,R
+1924,Oklahoma,OK,Associate Degree,2020,3577,47623,29.35,R
+1925,Oklahoma,OK,Bahcelor's Degree,2020,7891,47623,30.5,R
+1926,Oklahoma,OK,Doctorate,2020,842,47623,32.9,R
+1927,Oklahoma,OK,High School Grad,2020,14735,47623,25.65,R
+1928,Oklahoma,OK,Master's Degree,2020,2504,47623,32.3,R
+1929,Oklahoma,OK,Some College Credit,2020,10893,47623,27.5,R
+1930,Oklahoma,OK,Unknown,2020,114,47623,28.85,R
+1931,Oklahoma,OK,9th > 12th Grade,2021,5458,48410,24.45,R
+1932,Oklahoma,OK,> 8th Grade,2021,1288,48410,28.7,R
+1933,Oklahoma,OK,Associate Degree,2021,3889,48410,29.15,R
+1934,Oklahoma,OK,Bahcelor's Degree,2021,8336,48410,30.45,R
+1935,Oklahoma,OK,Doctorate,2021,828,48410,33.0,R
+1936,Oklahoma,OK,High School Grad,2021,15129,48410,25.75,R
+1937,Oklahoma,OK,Master's Degree,2021,2620,48410,32.1,R
+1938,Oklahoma,OK,Some College Credit,2021,10752,48410,27.6,R
+1939,Oklahoma,OK,Unknown,2021,110,48410,29.3,R
+1940,Oregon,OR,9th > 12th Grade,2016,4625,45535,25.4,D
+1941,Oregon,OR,> 8th Grade,2016,1306,45535,31.3,D
+1942,Oregon,OR,Associate Degree,2016,3773,45535,29.9,D
+1943,Oregon,OR,Bahcelor's Degree,2016,9028,45535,31.75,D
+1944,Oregon,OR,Doctorate,2016,1397,45535,34.15,D
+1945,Oregon,OR,High School Grad,2016,9901,45535,26.45,D
+1946,Oregon,OR,Master's Degree,2016,4139,45535,33.3,D
+1947,Oregon,OR,Some College Credit,2016,11135,45535,28.25,D
+1948,Oregon,OR,Unknown,2016,231,45535,30.05,D
+1949,Oregon,OR,9th > 12th Grade,2017,4212,43631,25.5,D
+1950,Oregon,OR,> 8th Grade,2017,1243,43631,31.2,D
+1951,Oregon,OR,Associate Degree,2017,3556,43631,30.35,D
+1952,Oregon,OR,Bahcelor's Degree,2017,8799,43631,31.95,D
+1953,Oregon,OR,Doctorate,2017,1367,43631,34.2,D
+1954,Oregon,OR,High School Grad,2017,9893,43631,26.6,D
+1955,Oregon,OR,Master's Degree,2017,3922,43631,33.45,D
+1956,Oregon,OR,Some College Credit,2017,10421,43631,28.45,D
+1957,Oregon,OR,Unknown,2017,218,43631,30.4,D
+1958,Oregon,OR,9th > 12th Grade,2018,3975,42188,25.65,D
+1959,Oregon,OR,> 8th Grade,2018,1129,42188,31.3,D
+1960,Oregon,OR,Associate Degree,2018,3548,42188,30.4,D
+1961,Oregon,OR,Bahcelor's Degree,2018,8685,42188,31.95,D
+1962,Oregon,OR,Doctorate,2018,1390,42188,34.25,D
+1963,Oregon,OR,High School Grad,2018,9483,42188,26.75,D
+1964,Oregon,OR,Master's Degree,2018,3883,42188,33.55,D
+1965,Oregon,OR,Some College Credit,2018,9847,42188,28.45,D
+1966,Oregon,OR,Unknown,2018,248,42188,29.9,D
+1967,Oregon,OR,9th > 12th Grade,2019,3708,41858,25.75,D
+1968,Oregon,OR,> 8th Grade,2019,1149,41858,31.0,D
+1969,Oregon,OR,Associate Degree,2019,3457,41858,30.45,D
+1970,Oregon,OR,Bahcelor's Degree,2019,8581,41858,32.0,D
+1971,Oregon,OR,Doctorate,2019,1373,41858,34.4,D
+1972,Oregon,OR,High School Grad,2019,9641,41858,26.85,D
+1973,Oregon,OR,Master's Degree,2019,3879,41858,33.7,D
+1974,Oregon,OR,Some College Credit,2019,9822,41858,28.75,D
+1975,Oregon,OR,Unknown,2019,248,41858,29.95,D
+1976,Oregon,OR,9th > 12th Grade,2020,3356,39820,25.85,D
+1977,Oregon,OR,> 8th Grade,2020,943,39820,31.05,D
+1978,Oregon,OR,Associate Degree,2020,3409,39820,30.4,D
+1979,Oregon,OR,Bahcelor's Degree,2020,8317,39820,32.25,D
+1980,Oregon,OR,Doctorate,2020,1353,39820,34.75,D
+1981,Oregon,OR,High School Grad,2020,9376,39820,26.95,D
+1982,Oregon,OR,Master's Degree,2020,3711,39820,33.8,D
+1983,Oregon,OR,Some College Credit,2020,9098,39820,28.95,D
+1984,Oregon,OR,Unknown,2020,257,39820,30.45,D
+1985,Oregon,OR,9th > 12th Grade,2021,3224,40914,26.05,D
+1986,Oregon,OR,> 8th Grade,2021,941,40914,30.25,D
+1987,Oregon,OR,Associate Degree,2021,3527,40914,30.5,D
+1988,Oregon,OR,Bahcelor's Degree,2021,9135,40914,32.2,D
+1989,Oregon,OR,Doctorate,2021,1425,40914,34.8,D
+1990,Oregon,OR,High School Grad,2021,9487,40914,27.15,D
+1991,Oregon,OR,Master's Degree,2021,3930,40914,33.75,D
+1992,Oregon,OR,Some College Credit,2021,8920,40914,29.05,D
+1993,Oregon,OR,Unknown,2021,325,40914,30.2,D
+1994,Pennsylvania,PA,9th > 12th Grade,2016,12291,139409,24.6,D
+1995,Pennsylvania,PA,> 8th Grade,2016,4534,139409,28.65,D
+1996,Pennsylvania,PA,Associate Degree,2016,12598,139409,29.8,D
+1997,Pennsylvania,PA,Bahcelor's Degree,2016,30011,139409,31.2,D
+1998,Pennsylvania,PA,Doctorate,2016,4368,139409,33.6,D
+1999,Pennsylvania,PA,High School Grad,2016,34598,139409,26.45,D
+2000,Pennsylvania,PA,Master's Degree,2016,15918,139409,32.6,D
+2001,Pennsylvania,PA,Some College Credit,2016,24202,139409,27.9,D
+2002,Pennsylvania,PA,Unknown,2016,889,139409,28.55,D
+2003,Pennsylvania,PA,9th > 12th Grade,2017,11823,137745,24.75,D
+2004,Pennsylvania,PA,> 8th Grade,2017,4471,137745,28.85,D
+2005,Pennsylvania,PA,Associate Degree,2017,11990,137745,29.95,D
+2006,Pennsylvania,PA,Bahcelor's Degree,2017,29284,137745,31.4,D
+2007,Pennsylvania,PA,Doctorate,2017,4521,137745,33.65,D
+2008,Pennsylvania,PA,High School Grad,2017,34606,137745,26.6,D
+2009,Pennsylvania,PA,Master's Degree,2017,16003,137745,32.75,D
+2010,Pennsylvania,PA,Some College Credit,2017,24070,137745,28.1,D
+2011,Pennsylvania,PA,Unknown,2017,977,137745,28.8,D
+2012,Pennsylvania,PA,9th > 12th Grade,2018,11444,135673,24.9,D
+2013,Pennsylvania,PA,> 8th Grade,2018,4454,135673,28.9,D
+2014,Pennsylvania,PA,Associate Degree,2018,11748,135673,30.1,D
+2015,Pennsylvania,PA,Bahcelor's Degree,2018,29163,135673,31.4,D
+2016,Pennsylvania,PA,Doctorate,2018,4481,135673,33.7,D
+2017,Pennsylvania,PA,High School Grad,2018,34084,135673,26.7,D
+2018,Pennsylvania,PA,Master's Degree,2018,16131,135673,32.75,D
+2019,Pennsylvania,PA,Some College Credit,2018,22909,135673,28.35,D
+2020,Pennsylvania,PA,Unknown,2018,1259,135673,29.35,D
+2021,Pennsylvania,PA,9th > 12th Grade,2019,10945,134230,24.95,D
+2022,Pennsylvania,PA,> 8th Grade,2019,4590,134230,28.85,D
+2023,Pennsylvania,PA,Associate Degree,2019,11265,134230,30.25,D
+2024,Pennsylvania,PA,Bahcelor's Degree,2019,28933,134230,31.55,D
+2025,Pennsylvania,PA,Doctorate,2019,4505,134230,33.85,D
+2026,Pennsylvania,PA,High School Grad,2019,33940,134230,26.8,D
+2027,Pennsylvania,PA,Master's Degree,2019,15878,134230,32.85,D
+2028,Pennsylvania,PA,Some College Credit,2019,22416,134230,28.5,D
+2029,Pennsylvania,PA,Unknown,2019,1758,134230,29.8,D
+2030,Pennsylvania,PA,9th > 12th Grade,2020,10584,130693,25.4,D
+2031,Pennsylvania,PA,> 8th Grade,2020,4527,130693,28.85,D
+2032,Pennsylvania,PA,Associate Degree,2020,11110,130693,30.35,D
+2033,Pennsylvania,PA,Bahcelor's Degree,2020,28555,130693,31.65,D
+2034,Pennsylvania,PA,Doctorate,2020,4582,130693,33.85,D
+2035,Pennsylvania,PA,High School Grad,2020,33519,130693,26.95,D
+2036,Pennsylvania,PA,Master's Degree,2020,15940,130693,32.95,D
+2037,Pennsylvania,PA,Some College Credit,2020,20890,130693,28.8,D
+2038,Pennsylvania,PA,Unknown,2020,986,130693,29.1,D
+2039,Pennsylvania,PA,9th > 12th Grade,2021,9760,132622,25.35,D
+2040,Pennsylvania,PA,> 8th Grade,2021,4913,132622,28.7,D
+2041,Pennsylvania,PA,Associate Degree,2021,11149,132622,30.55,D
+2042,Pennsylvania,PA,Bahcelor's Degree,2021,30278,132622,31.75,D
+2043,Pennsylvania,PA,Doctorate,2021,4940,132622,34.1,D
+2044,Pennsylvania,PA,High School Grad,2021,33040,132622,27.1,D
+2045,Pennsylvania,PA,Master's Degree,2021,17020,132622,33.0,D
+2046,Pennsylvania,PA,Some College Credit,2021,20558,132622,29.0,D
+2047,Pennsylvania,PA,Unknown,2021,964,132622,29.4,D
+2048,Rhode Island,RI,9th > 12th Grade,2016,951,10798,25.05,D
+2049,Rhode Island,RI,> 8th Grade,2016,283,10798,29.35,D
+2050,Rhode Island,RI,Associate Degree,2016,696,10798,30.45,D
+2051,Rhode Island,RI,Bahcelor's Degree,2016,2101,10798,31.7,D
+2052,Rhode Island,RI,Doctorate,2016,333,10798,33.8,D
+2053,Rhode Island,RI,High School Grad,2016,2035,10798,26.9,D
+2054,Rhode Island,RI,Master's Degree,2016,1037,10798,32.9,D
+2055,Rhode Island,RI,Some College Credit,2016,2090,10798,28.4,D
+2056,Rhode Island,RI,Unknown,2016,1272,10798,29.35,D
+2057,Rhode Island,RI,9th > 12th Grade,2017,942,10638,25.55,D
+2058,Rhode Island,RI,> 8th Grade,2017,315,10638,29.75,D
+2059,Rhode Island,RI,Associate Degree,2017,808,10638,30.7,D
+2060,Rhode Island,RI,Bahcelor's Degree,2017,2286,10638,31.9,D
+2061,Rhode Island,RI,Doctorate,2017,407,10638,34.05,D
+2062,Rhode Island,RI,High School Grad,2017,2265,10638,26.9,D
+2063,Rhode Island,RI,Master's Degree,2017,1102,10638,33.0,D
+2064,Rhode Island,RI,Some College Credit,2017,2219,10638,28.55,D
+2065,Rhode Island,RI,Unknown,2017,294,10638,28.5,D
+2066,Rhode Island,RI,9th > 12th Grade,2018,898,10506,25.55,D
+2067,Rhode Island,RI,> 8th Grade,2018,269,10506,30.15,D
+2068,Rhode Island,RI,Associate Degree,2018,741,10506,30.7,D
+2069,Rhode Island,RI,Bahcelor's Degree,2018,2270,10506,31.95,D
+2070,Rhode Island,RI,Doctorate,2018,350,10506,34.2,D
+2071,Rhode Island,RI,High School Grad,2018,2132,10506,27.25,D
+2072,Rhode Island,RI,Master's Degree,2018,1067,10506,33.15,D
+2073,Rhode Island,RI,Some College Credit,2018,2202,10506,28.9,D
+2074,Rhode Island,RI,Unknown,2018,577,10506,29.15,D
+2075,Rhode Island,RI,9th > 12th Grade,2019,928,10175,25.8,D
+2076,Rhode Island,RI,> 8th Grade,2019,289,10175,30.8,D
+2077,Rhode Island,RI,Associate Degree,2019,708,10175,30.95,D
+2078,Rhode Island,RI,Bahcelor's Degree,2019,2226,10175,31.8,D
+2079,Rhode Island,RI,Doctorate,2019,362,10175,34.1,D
+2080,Rhode Island,RI,High School Grad,2019,2118,10175,27.35,D
+2081,Rhode Island,RI,Master's Degree,2019,1100,10175,33.35,D
+2082,Rhode Island,RI,Some College Credit,2019,2032,10175,28.9,D
+2083,Rhode Island,RI,Unknown,2019,412,10175,29.65,D
+2084,Rhode Island,RI,9th > 12th Grade,2020,897,10101,26.15,D
+2085,Rhode Island,RI,> 8th Grade,2020,316,10101,29.95,D
+2086,Rhode Island,RI,Associate Degree,2020,737,10101,30.95,D
+2087,Rhode Island,RI,Bahcelor's Degree,2020,2267,10101,32.05,D
+2088,Rhode Island,RI,Doctorate,2020,361,10101,34.1,D
+2089,Rhode Island,RI,High School Grad,2020,2097,10101,27.4,D
+2090,Rhode Island,RI,Master's Degree,2020,1197,10101,33.25,D
+2091,Rhode Island,RI,Some College Credit,2020,2110,10101,29.05,D
+2092,Rhode Island,RI,Unknown,2020,119,10101,29.85,D
+2093,Rhode Island,RI,9th > 12th Grade,2021,852,10464,26.45,D
+2094,Rhode Island,RI,> 8th Grade,2021,291,10464,29.95,D
+2095,Rhode Island,RI,Associate Degree,2021,786,10464,31.0,D
+2096,Rhode Island,RI,Bahcelor's Degree,2021,2547,10464,32.2,D
+2097,Rhode Island,RI,Doctorate,2021,424,10464,34.15,D
+2098,Rhode Island,RI,High School Grad,2021,2049,10464,27.75,D
+2099,Rhode Island,RI,Master's Degree,2021,1317,10464,33.45,D
+2100,Rhode Island,RI,Some College Credit,2021,2166,10464,28.95,D
+2101,Rhode Island,RI,Unknown,2021,32,10464,29.9,D
+2102,South Carolina,SC,9th > 12th Grade,2016,6681,57342,24.1,R
+2103,South Carolina,SC,> 8th Grade,2016,1488,57342,29.15,R
+2104,South Carolina,SC,Associate Degree,2016,5190,57342,29.75,R
+2105,South Carolina,SC,Bahcelor's Degree,2016,10404,57342,30.85,R
+2106,South Carolina,SC,Doctorate,2016,1249,57342,33.2,R
+2107,South Carolina,SC,High School Grad,2016,13535,57342,25.55,R
+2108,South Carolina,SC,Master's Degree,2016,4535,57342,32.45,R
+2109,South Carolina,SC,Some College Credit,2016,14094,57342,27.05,R
+2110,South Carolina,SC,Unknown,2016,166,57342,28.05,R
+2111,South Carolina,SC,9th > 12th Grade,2017,6376,57029,24.4,R
+2112,South Carolina,SC,> 8th Grade,2017,1384,57029,29.1,R
+2113,South Carolina,SC,Associate Degree,2017,5132,57029,29.65,R
+2114,South Carolina,SC,Bahcelor's Degree,2017,10329,57029,30.85,R
+2115,South Carolina,SC,Doctorate,2017,1228,57029,33.3,R
+2116,South Carolina,SC,High School Grad,2017,13793,57029,25.65,R
+2117,South Carolina,SC,Master's Degree,2017,4408,57029,32.5,R
+2118,South Carolina,SC,Some College Credit,2017,14205,57029,27.15,R
+2119,South Carolina,SC,Unknown,2017,174,57029,28.3,R
+2120,South Carolina,SC,9th > 12th Grade,2018,6062,56669,24.25,R
+2121,South Carolina,SC,> 8th Grade,2018,1293,56669,29.05,R
+2122,South Carolina,SC,Associate Degree,2018,5215,56669,29.75,R
+2123,South Carolina,SC,Bahcelor's Degree,2018,10514,56669,30.95,R
+2124,South Carolina,SC,Doctorate,2018,1242,56669,33.15,R
+2125,South Carolina,SC,High School Grad,2018,14085,56669,25.85,R
+2126,South Carolina,SC,Master's Degree,2018,4467,56669,32.6,R
+2127,South Carolina,SC,Some College Credit,2018,13570,56669,27.4,R
+2128,South Carolina,SC,Unknown,2018,221,56669,28.5,R
+2129,South Carolina,SC,9th > 12th Grade,2019,5924,57038,24.45,R
+2130,South Carolina,SC,> 8th Grade,2019,1323,57038,28.7,R
+2131,South Carolina,SC,Associate Degree,2019,5098,57038,29.9,R
+2132,South Carolina,SC,Bahcelor's Degree,2019,10710,57038,31.0,R
+2133,South Carolina,SC,Doctorate,2019,1268,57038,33.65,R
+2134,South Carolina,SC,High School Grad,2019,14502,57038,25.8,R
+2135,South Carolina,SC,Master's Degree,2019,4611,57038,32.7,R
+2136,South Carolina,SC,Some College Credit,2019,13319,57038,27.6,R
+2137,South Carolina,SC,Unknown,2019,283,57038,28.3,R
+2138,South Carolina,SC,9th > 12th Grade,2020,5478,55704,24.6,R
+2139,South Carolina,SC,> 8th Grade,2020,1312,55704,28.65,R
+2140,South Carolina,SC,Associate Degree,2020,5081,55704,29.95,R
+2141,South Carolina,SC,Bahcelor's Degree,2020,10573,55704,31.0,R
+2142,South Carolina,SC,Doctorate,2020,1298,55704,33.4,R
+2143,South Carolina,SC,High School Grad,2020,14594,55704,26.1,R
+2144,South Carolina,SC,Master's Degree,2020,4591,55704,32.85,R
+2145,South Carolina,SC,Some College Credit,2020,12574,55704,27.8,R
+2146,South Carolina,SC,Unknown,2020,203,55704,28.45,R
+2147,South Carolina,SC,9th > 12th Grade,2021,5056,57185,24.5,R
+2148,South Carolina,SC,> 8th Grade,2021,1280,57185,28.95,R
+2149,South Carolina,SC,Associate Degree,2021,5383,57185,30.05,R
+2150,South Carolina,SC,Bahcelor's Degree,2021,11437,57185,31.0,R
+2151,South Carolina,SC,Doctorate,2021,1393,57185,33.65,R
+2152,South Carolina,SC,High School Grad,2021,14909,57185,26.2,R
+2153,South Carolina,SC,Master's Degree,2021,5120,57185,32.85,R
+2154,South Carolina,SC,Some College Credit,2021,12406,57185,27.9,R
+2155,South Carolina,SC,Unknown,2021,201,57185,29.75,R
+2156,South Dakota,SD,9th > 12th Grade,2016,1416,12275,23.9,R
+2157,South Dakota,SD,> 8th Grade,2016,371,12275,28.7,R
+2158,South Dakota,SD,Associate Degree,2016,1347,12275,29.3,R
+2159,South Dakota,SD,Bahcelor's Degree,2016,2861,12275,30.15,R
+2160,South Dakota,SD,Doctorate,2016,293,12275,32.35,R
+2161,South Dakota,SD,High School Grad,2016,3028,12275,26.4,R
+2162,South Dakota,SD,Master's Degree,2016,816,12275,31.9,R
+2163,South Dakota,SD,Some College Credit,2016,2113,12275,27.3,R
+2164,South Dakota,SD,Unknown,2016,30,12275,28.3,R
+2165,South Dakota,SD,9th > 12th Grade,2017,1432,12134,24.3,R
+2166,South Dakota,SD,> 8th Grade,2017,450,12134,29.3,R
+2167,South Dakota,SD,Associate Degree,2017,1300,12134,29.5,R
+2168,South Dakota,SD,Bahcelor's Degree,2017,2761,12134,30.35,R
+2169,South Dakota,SD,Doctorate,2017,277,12134,32.25,R
+2170,South Dakota,SD,High School Grad,2017,2944,12134,26.5,R
+2171,South Dakota,SD,Master's Degree,2017,820,12134,31.9,R
+2172,South Dakota,SD,Some College Credit,2017,2110,12134,27.7,R
+2173,South Dakota,SD,Unknown,2017,40,12134,29.45,R
+2174,South Dakota,SD,9th > 12th Grade,2018,1282,11893,24.35,R
+2175,South Dakota,SD,> 8th Grade,2018,419,11893,28.95,R
+2176,South Dakota,SD,Associate Degree,2018,1288,11893,29.4,R
+2177,South Dakota,SD,Bahcelor's Degree,2018,2796,11893,30.4,R
+2178,South Dakota,SD,Doctorate,2018,321,11893,32.25,R
+2179,South Dakota,SD,High School Grad,2018,2901,11893,26.55,R
+2180,South Dakota,SD,Master's Degree,2018,859,11893,31.8,R
+2181,South Dakota,SD,Some College Credit,2018,1975,11893,27.8,R
+2182,South Dakota,SD,Unknown,2018,52,11893,28.2,R
+2183,South Dakota,SD,9th > 12th Grade,2019,1206,11449,24.6,R
+2184,South Dakota,SD,> 8th Grade,2019,452,11449,29.15,R
+2185,South Dakota,SD,Associate Degree,2019,1209,11449,29.3,R
+2186,South Dakota,SD,Bahcelor's Degree,2019,2722,11449,30.4,R
+2187,South Dakota,SD,Doctorate,2019,309,11449,32.45,R
+2188,South Dakota,SD,High School Grad,2019,2783,11449,26.75,R
+2189,South Dakota,SD,Master's Degree,2019,862,11449,31.95,R
+2190,South Dakota,SD,Some College Credit,2019,1871,11449,27.75,R
+2191,South Dakota,SD,Unknown,2019,35,11449,27.5,R
+2192,South Dakota,SD,9th > 12th Grade,2020,1173,10960,24.6,R
+2193,South Dakota,SD,> 8th Grade,2020,439,10960,28.8,R
+2194,South Dakota,SD,Associate Degree,2020,1145,10960,29.7,R
+2195,South Dakota,SD,Bahcelor's Degree,2020,2625,10960,30.35,R
+2196,South Dakota,SD,Doctorate,2020,289,10960,31.95,R
+2197,South Dakota,SD,High School Grad,2020,2747,10960,26.7,R
+2198,South Dakota,SD,Master's Degree,2020,822,10960,31.9,R
+2199,South Dakota,SD,Some College Credit,2020,1684,10960,28.0,R
+2200,South Dakota,SD,Unknown,2020,36,10960,29.1,R
+2201,South Dakota,SD,9th > 12th Grade,2021,1138,11369,24.7,R
+2202,South Dakota,SD,> 8th Grade,2021,439,11369,29.15,R
+2203,South Dakota,SD,Associate Degree,2021,1234,11369,29.6,R
+2204,South Dakota,SD,Bahcelor's Degree,2021,2827,11369,30.35,R
+2205,South Dakota,SD,Doctorate,2021,309,11369,32.2,R
+2206,South Dakota,SD,High School Grad,2021,2822,11369,27.05,R
+2207,South Dakota,SD,Master's Degree,2021,862,11369,32.0,R
+2208,South Dakota,SD,Some College Credit,2021,1695,11369,28.15,R
+2209,South Dakota,SD,Unknown,2021,43,11369,28.4,R
+2210,Tennessee,TN,9th > 12th Grade,2016,8404,80807,24.35,R
+2211,Tennessee,TN,> 8th Grade,2016,2674,80807,29.25,R
+2212,Tennessee,TN,Associate Degree,2016,5734,80807,29.25,R
+2213,Tennessee,TN,Bahcelor's Degree,2016,13887,80807,30.5,R
+2214,Tennessee,TN,Doctorate,2016,1799,80807,33.15,R
+2215,Tennessee,TN,High School Grad,2016,22621,80807,25.25,R
+2216,Tennessee,TN,Master's Degree,2016,5889,80807,32.1,R
+2217,Tennessee,TN,Some College Credit,2016,19293,80807,26.9,R
+2218,Tennessee,TN,Unknown,2016,506,80807,28.65,R
+2219,Tennessee,TN,9th > 12th Grade,2017,7987,81016,24.4,R
+2220,Tennessee,TN,> 8th Grade,2017,2730,81016,29.4,R
+2221,Tennessee,TN,Associate Degree,2017,5868,81016,29.2,R
+2222,Tennessee,TN,Bahcelor's Degree,2017,14338,81016,30.55,R
+2223,Tennessee,TN,Doctorate,2017,1856,81016,33.25,R
+2224,Tennessee,TN,High School Grad,2017,22746,81016,25.3,R
+2225,Tennessee,TN,Master's Degree,2017,5887,81016,32.2,R
+2226,Tennessee,TN,Some College Credit,2017,19065,81016,26.95,R
+2227,Tennessee,TN,Unknown,2017,539,81016,29.0,R
+2228,Tennessee,TN,9th > 12th Grade,2018,7604,80751,24.5,R
+2229,Tennessee,TN,> 8th Grade,2018,2572,80751,29.35,R
+2230,Tennessee,TN,Associate Degree,2018,5919,80751,29.3,R
+2231,Tennessee,TN,Bahcelor's Degree,2018,14393,80751,30.6,R
+2232,Tennessee,TN,Doctorate,2018,1886,80751,33.45,R
+2233,Tennessee,TN,High School Grad,2018,22780,80751,25.45,R
+2234,Tennessee,TN,Master's Degree,2018,6095,80751,32.35,R
+2235,Tennessee,TN,Some College Credit,2018,18865,80751,27.2,R
+2236,Tennessee,TN,Unknown,2018,637,80751,28.75,R
+2237,Tennessee,TN,9th > 12th Grade,2019,7315,80450,24.65,R
+2238,Tennessee,TN,> 8th Grade,2019,2886,80450,28.95,R
+2239,Tennessee,TN,Associate Degree,2019,6076,80450,29.2,R
+2240,Tennessee,TN,Bahcelor's Degree,2019,14637,80450,30.65,R
+2241,Tennessee,TN,Doctorate,2019,1792,80450,33.35,R
+2242,Tennessee,TN,High School Grad,2019,22554,80450,25.6,R
+2243,Tennessee,TN,Master's Degree,2019,6034,80450,32.4,R
+2244,Tennessee,TN,Some College Credit,2019,18678,80450,27.35,R
+2245,Tennessee,TN,Unknown,2019,478,80450,28.5,R
+2246,Tennessee,TN,9th > 12th Grade,2020,7220,78689,24.7,R
+2247,Tennessee,TN,> 8th Grade,2020,3099,78689,28.7,R
+2248,Tennessee,TN,Associate Degree,2020,5793,78689,29.25,R
+2249,Tennessee,TN,Bahcelor's Degree,2020,14632,78689,30.65,R
+2250,Tennessee,TN,Doctorate,2020,1838,78689,33.5,R
+2251,Tennessee,TN,High School Grad,2020,22506,78689,25.75,R
+2252,Tennessee,TN,Master's Degree,2020,6147,78689,32.35,R
+2253,Tennessee,TN,Some College Credit,2020,17175,78689,27.55,R
+2254,Tennessee,TN,Unknown,2020,279,78689,28.5,R
+2255,Tennessee,TN,9th > 12th Grade,2021,7022,81717,24.7,R
+2256,Tennessee,TN,> 8th Grade,2021,3186,81717,28.6,R
+2257,Tennessee,TN,Associate Degree,2021,6285,81717,29.3,R
+2258,Tennessee,TN,Bahcelor's Degree,2021,16136,81717,30.75,R
+2259,Tennessee,TN,Doctorate,2021,2174,81717,33.45,R
+2260,Tennessee,TN,High School Grad,2021,22626,81717,25.8,R
+2261,Tennessee,TN,Master's Degree,2021,6790,81717,32.4,R
+2262,Tennessee,TN,Some College Credit,2021,17184,81717,27.75,R
+2263,Tennessee,TN,Unknown,2021,314,81717,29.05,R
+2264,Texas,TX,9th > 12th Grade,2016,58722,398047,25.2,R
+2265,Texas,TX,> 8th Grade,2016,15083,398047,29.15,R
+2266,Texas,TX,Associate Degree,2016,24479,398047,29.45,R
+2267,Texas,TX,Bahcelor's Degree,2016,71613,398047,31.1,R
+2268,Texas,TX,Doctorate,2016,7805,398047,33.5,R
+2269,Texas,TX,High School Grad,2016,106705,398047,25.8,R
+2270,Texas,TX,Master's Degree,2016,26219,398047,32.6,R
+2271,Texas,TX,Some College Credit,2016,86833,398047,27.35,R
+2272,Texas,TX,Unknown,2016,588,398047,28.35,R
+2273,Texas,TX,9th > 12th Grade,2017,53647,382050,25.4,R
+2274,Texas,TX,> 8th Grade,2017,12913,382050,29.35,R
+2275,Texas,TX,Associate Degree,2017,24008,382050,29.5,R
+2276,Texas,TX,Bahcelor's Degree,2017,69377,382050,31.2,R
+2277,Texas,TX,Doctorate,2017,7731,382050,33.6,R
+2278,Texas,TX,High School Grad,2017,105131,382050,25.95,R
+2279,Texas,TX,Master's Degree,2017,25678,382050,32.7,R
+2280,Texas,TX,Some College Credit,2017,82983,382050,27.55,R
+2281,Texas,TX,Unknown,2017,582,382050,29.05,R
+2282,Texas,TX,9th > 12th Grade,2018,50716,378624,25.6,R
+2283,Texas,TX,> 8th Grade,2018,11958,378624,29.15,R
+2284,Texas,TX,Associate Degree,2018,24990,378624,29.6,R
+2285,Texas,TX,Bahcelor's Degree,2018,70725,378624,31.3,R
+2286,Texas,TX,Doctorate,2018,7873,378624,33.7,R
+2287,Texas,TX,High School Grad,2018,105680,378624,26.1,R
+2288,Texas,TX,Master's Degree,2018,26381,378624,32.8,R
+2289,Texas,TX,Some College Credit,2018,79731,378624,27.7,R
+2290,Texas,TX,Unknown,2018,570,378624,29.5,R
+2291,Texas,TX,9th > 12th Grade,2019,46208,377599,25.65,R
+2292,Texas,TX,> 8th Grade,2019,12754,377599,29.1,R
+2293,Texas,TX,Associate Degree,2019,24938,377599,29.55,R
+2294,Texas,TX,Bahcelor's Degree,2019,70820,377599,31.3,R
+2295,Texas,TX,Doctorate,2019,7884,377599,33.8,R
+2296,Texas,TX,High School Grad,2019,107476,377599,26.15,R
+2297,Texas,TX,Master's Degree,2019,27101,377599,32.85,R
+2298,Texas,TX,Some College Credit,2019,79441,377599,27.8,R
+2299,Texas,TX,Unknown,2019,977,377599,29.2,R
+2300,Texas,TX,9th > 12th Grade,2020,42089,368190,25.6,R
+2301,Texas,TX,> 8th Grade,2020,11387,368190,29.15,R
+2302,Texas,TX,Associate Degree,2020,24940,368190,29.55,R
+2303,Texas,TX,Bahcelor's Degree,2020,70476,368190,31.3,R
+2304,Texas,TX,Doctorate,2020,7541,368190,34.0,R
+2305,Texas,TX,High School Grad,2020,107422,368190,26.25,R
+2306,Texas,TX,Master's Degree,2020,26494,368190,32.95,R
+2307,Texas,TX,Some College Credit,2020,76555,368190,27.9,R
+2308,Texas,TX,Unknown,2020,1286,368190,29.15,R
+2309,Texas,TX,9th > 12th Grade,2021,38771,373594,25.6,R
+2310,Texas,TX,> 8th Grade,2021,11460,373594,29.0,R
+2311,Texas,TX,Associate Degree,2021,26431,373594,29.6,R
+2312,Texas,TX,Bahcelor's Degree,2021,74309,373594,31.3,R
+2313,Texas,TX,Doctorate,2021,8373,373594,34.0,R
+2314,Texas,TX,High School Grad,2021,108790,373594,26.35,R
+2315,Texas,TX,Master's Degree,2021,28873,373594,32.95,R
+2316,Texas,TX,Some College Credit,2021,74910,373594,28.15,R
+2317,Texas,TX,Unknown,2021,1677,373594,29.9,R
+2318,Utah,UT,9th > 12th Grade,2016,3614,50464,25.3,R
+2319,Utah,UT,> 8th Grade,2016,786,50464,30.95,R
+2320,Utah,UT,Associate Degree,2016,5751,50464,29.05,R
+2321,Utah,UT,Bahcelor's Degree,2016,13418,50464,30.0,R
+2322,Utah,UT,Doctorate,2016,653,50464,33.5,R
+2323,Utah,UT,High School Grad,2016,9718,50464,26.35,R
+2324,Utah,UT,Master's Degree,2016,2678,50464,32.5,R
+2325,Utah,UT,Some College Credit,2016,12560,50464,28.0,R
+2326,Utah,UT,Unknown,2016,1286,50464,29.5,R
+2327,Utah,UT,9th > 12th Grade,2017,3362,48585,25.25,R
+2328,Utah,UT,> 8th Grade,2017,790,48585,31.3,R
+2329,Utah,UT,Associate Degree,2017,5420,48585,29.0,R
+2330,Utah,UT,Bahcelor's Degree,2017,13104,48585,30.0,R
+2331,Utah,UT,Doctorate,2017,648,48585,33.4,R
+2332,Utah,UT,High School Grad,2017,9536,48585,26.45,R
+2333,Utah,UT,Master's Degree,2017,2680,48585,32.6,R
+2334,Utah,UT,Some College Credit,2017,12280,48585,27.95,R
+2335,Utah,UT,Unknown,2017,765,48585,29.05,R
+2336,Utah,UT,9th > 12th Grade,2018,3074,47209,25.4,R
+2337,Utah,UT,> 8th Grade,2018,632,47209,31.25,R
+2338,Utah,UT,Associate Degree,2018,5188,47209,29.05,R
+2339,Utah,UT,Bahcelor's Degree,2018,12978,47209,30.05,R
+2340,Utah,UT,Doctorate,2018,616,47209,33.6,R
+2341,Utah,UT,High School Grad,2018,9322,47209,26.4,R
+2342,Utah,UT,Master's Degree,2018,2656,47209,32.55,R
+2343,Utah,UT,Some College Credit,2018,11451,47209,28.0,R
+2344,Utah,UT,Unknown,2018,1292,47209,29.4,R
+2345,Utah,UT,9th > 12th Grade,2019,2840,46826,25.5,R
+2346,Utah,UT,> 8th Grade,2019,561,46826,30.9,R
+2347,Utah,UT,Associate Degree,2019,4926,46826,29.05,R
+2348,Utah,UT,Bahcelor's Degree,2019,13140,46826,30.05,R
+2349,Utah,UT,Doctorate,2019,630,46826,33.9,R
+2350,Utah,UT,High School Grad,2019,9225,46826,26.55,R
+2351,Utah,UT,Master's Degree,2019,2694,46826,32.55,R
+2352,Utah,UT,Some College Credit,2019,11243,46826,28.05,R
+2353,Utah,UT,Unknown,2019,1567,46826,29.6,R
+2354,Utah,UT,9th > 12th Grade,2020,2679,45702,25.35,R
+2355,Utah,UT,> 8th Grade,2020,514,45702,30.4,R
+2356,Utah,UT,Associate Degree,2020,4909,45702,29.0,R
+2357,Utah,UT,Bahcelor's Degree,2020,12896,45702,30.05,R
+2358,Utah,UT,Doctorate,2020,697,45702,33.7,R
+2359,Utah,UT,High School Grad,2020,8971,45702,26.65,R
+2360,Utah,UT,Master's Degree,2020,2813,45702,32.5,R
+2361,Utah,UT,Some College Credit,2020,10839,45702,28.1,R
+2362,Utah,UT,Unknown,2020,1384,45702,29.5,R
+2363,Utah,UT,9th > 12th Grade,2021,2517,46712,25.4,R
+2364,Utah,UT,> 8th Grade,2021,486,46712,30.05,R
+2365,Utah,UT,Associate Degree,2021,4775,46712,29.05,R
+2366,Utah,UT,Bahcelor's Degree,2021,13666,46712,30.15,R
+2367,Utah,UT,Doctorate,2021,737,46712,33.75,R
+2368,Utah,UT,High School Grad,2021,9393,46712,26.7,R
+2369,Utah,UT,Master's Degree,2021,3215,46712,32.1,R
+2370,Utah,UT,Some College Credit,2021,10740,46712,28.1,R
+2371,Utah,UT,Unknown,2021,1183,46712,30.05,R
+2372,Vermont,VT,9th > 12th Grade,2016,371,5756,24.75,D
+2373,Vermont,VT,> 8th Grade,2016,37,5756,28.85,D
+2374,Vermont,VT,Associate Degree,2016,441,5756,30.15,D
+2375,Vermont,VT,Bahcelor's Degree,2016,1422,5756,31.65,D
+2376,Vermont,VT,Doctorate,2016,207,5756,34.05,D
+2377,Vermont,VT,High School Grad,2016,1436,5756,26.4,D
+2378,Vermont,VT,Master's Degree,2016,752,5756,33.2,D
+2379,Vermont,VT,Some College Credit,2016,1046,5756,27.85,D
+2380,Vermont,VT,Unknown,2016,44,5756,30.25,D
+2381,Vermont,VT,9th > 12th Grade,2017,352,5655,24.3,R
+2382,Vermont,VT,> 8th Grade,2017,45,5655,29.75,R
+2383,Vermont,VT,Associate Degree,2017,413,5655,30.05,R
+2384,Vermont,VT,Bahcelor's Degree,2017,1435,5655,31.7,R
+2385,Vermont,VT,Doctorate,2017,211,5655,34.15,R
+2386,Vermont,VT,High School Grad,2017,1412,5655,26.5,R
+2387,Vermont,VT,Master's Degree,2017,747,5655,33.5,R
+2388,Vermont,VT,Some College Credit,2017,1006,5655,28.4,R
+2389,Vermont,VT,Unknown,2017,34,5655,29.3,R
+2390,Vermont,VT,9th > 12th Grade,2018,370,5432,24.45,R
+2391,Vermont,VT,> 8th Grade,2018,41,5432,33.3,R
+2392,Vermont,VT,Associate Degree,2018,448,5432,30.3,R
+2393,Vermont,VT,Bahcelor's Degree,2018,1341,5432,31.9,R
+2394,Vermont,VT,Doctorate,2018,214,5432,34.15,R
+2395,Vermont,VT,High School Grad,2018,1302,5432,26.9,R
+2396,Vermont,VT,Master's Degree,2018,692,5432,33.65,R
+2397,Vermont,VT,Some College Credit,2018,982,5432,28.2,R
+2398,Vermont,VT,Unknown,2018,42,5432,29.45,R
+2399,Vermont,VT,9th > 12th Grade,2019,317,5361,24.7,R
+2400,Vermont,VT,> 8th Grade,2019,48,5361,29.8,R
+2401,Vermont,VT,Associate Degree,2019,370,5361,30.2,R
+2402,Vermont,VT,Bahcelor's Degree,2019,1349,5361,31.95,R
+2403,Vermont,VT,Doctorate,2019,207,5361,34.65,R
+2404,Vermont,VT,High School Grad,2019,1254,5361,26.85,R
+2405,Vermont,VT,Master's Degree,2019,797,5361,33.7,R
+2406,Vermont,VT,Some College Credit,2019,987,5361,28.55,R
+2407,Vermont,VT,Unknown,2019,32,5361,29.5,R
+2408,Vermont,VT,9th > 12th Grade,2020,333,5133,24.8,R
+2409,Vermont,VT,> 8th Grade,2020,48,5133,30.25,R
+2410,Vermont,VT,Associate Degree,2020,360,5133,30.6,R
+2411,Vermont,VT,Bahcelor's Degree,2020,1269,5133,32.3,R
+2412,Vermont,VT,Doctorate,2020,229,5133,34.8,R
+2413,Vermont,VT,High School Grad,2020,1201,5133,27.05,R
+2414,Vermont,VT,Master's Degree,2020,750,5133,33.85,R
+2415,Vermont,VT,Some College Credit,2020,914,5133,28.9,R
+2416,Vermont,VT,Unknown,2020,29,5133,30.75,R
+2417,Vermont,VT,9th > 12th Grade,2021,311,5384,24.65,R
+2418,Vermont,VT,> 8th Grade,2021,43,5384,30.7,R
+2419,Vermont,VT,Associate Degree,2021,400,5384,30.55,R
+2420,Vermont,VT,Bahcelor's Degree,2021,1497,5384,32.45,R
+2421,Vermont,VT,Doctorate,2021,215,5384,34.5,R
+2422,Vermont,VT,High School Grad,2021,1115,5384,27.4,R
+2423,Vermont,VT,Master's Degree,2021,840,5384,33.8,R
+2424,Vermont,VT,Some College Credit,2021,938,5384,28.95,R
+2425,Vermont,VT,Unknown,2021,25,5384,31.4,R
+2426,Virginia,VA,9th > 12th Grade,2016,6646,102460,25.45,D
+2427,Virginia,VA,> 8th Grade,2016,3045,102460,29.9,D
+2428,Virginia,VA,Associate Degree,2016,6929,102460,29.75,D
+2429,Virginia,VA,Bahcelor's Degree,2016,23104,102460,31.55,D
+2430,Virginia,VA,Doctorate,2016,3488,102460,34.0,D
+2431,Virginia,VA,High School Grad,2016,26743,102460,26.6,D
+2432,Virginia,VA,Master's Degree,2016,12732,102460,33.0,D
+2433,Virginia,VA,Some College Credit,2016,18795,102460,28.1,D
+2434,Virginia,VA,Unknown,2016,978,102460,29.85,D
+2435,Virginia,VA,9th > 12th Grade,2017,6426,100391,25.45,D
+2436,Virginia,VA,> 8th Grade,2017,2840,100391,29.85,D
+2437,Virginia,VA,Associate Degree,2017,7079,100391,29.85,D
+2438,Virginia,VA,Bahcelor's Degree,2017,22427,100391,31.55,D
+2439,Virginia,VA,Doctorate,2017,3469,100391,34.25,D
+2440,Virginia,VA,High School Grad,2017,26355,100391,26.6,D
+2441,Virginia,VA,Master's Degree,2017,12733,100391,33.05,D
+2442,Virginia,VA,Some College Credit,2017,18057,100391,28.2,D
+2443,Virginia,VA,Unknown,2017,1005,100391,29.95,D
+2444,Virginia,VA,9th > 12th Grade,2018,5937,99843,25.45,D
+2445,Virginia,VA,> 8th Grade,2018,2830,99843,30.05,D
+2446,Virginia,VA,Associate Degree,2018,7084,99843,30.15,D
+2447,Virginia,VA,Bahcelor's Degree,2018,22572,99843,31.6,D
+2448,Virginia,VA,Doctorate,2018,3460,99843,34.3,D
+2449,Virginia,VA,High School Grad,2018,26646,99843,26.85,D
+2450,Virginia,VA,Master's Degree,2018,12795,99843,33.2,D
+2451,Virginia,VA,Some College Credit,2018,17297,99843,28.4,D
+2452,Virginia,VA,Unknown,2018,1222,99843,30.0,D
+2453,Virginia,VA,9th > 12th Grade,2019,5451,97429,25.5,D
+2454,Virginia,VA,> 8th Grade,2019,2743,97429,29.6,D
+2455,Virginia,VA,Associate Degree,2019,7064,97429,29.95,D
+2456,Virginia,VA,Bahcelor's Degree,2019,22222,97429,31.65,D
+2457,Virginia,VA,Doctorate,2019,3319,97429,34.5,D
+2458,Virginia,VA,High School Grad,2019,25988,97429,26.8,D
+2459,Virginia,VA,Master's Degree,2019,12611,97429,33.3,D
+2460,Virginia,VA,Some College Credit,2019,16558,97429,28.55,D
+2461,Virginia,VA,Unknown,2019,1473,97429,30.2,D
+2462,Virginia,VA,9th > 12th Grade,2020,5495,94749,25.7,D
+2463,Virginia,VA,> 8th Grade,2020,2912,94749,29.8,D
+2464,Virginia,VA,Associate Degree,2020,6916,94749,30.15,D
+2465,Virginia,VA,Bahcelor's Degree,2020,21844,94749,31.75,D
+2466,Virginia,VA,Doctorate,2020,3344,94749,34.35,D
+2467,Virginia,VA,High School Grad,2020,25144,94749,26.85,D
+2468,Virginia,VA,Master's Degree,2020,12430,94749,33.4,D
+2469,Virginia,VA,Some College Credit,2020,15786,94749,28.7,D
+2470,Virginia,VA,Unknown,2020,878,94749,30.65,D
+2471,Virginia,VA,9th > 12th Grade,2021,5453,95825,25.95,D
+2472,Virginia,VA,> 8th Grade,2021,2868,95825,29.9,D
+2473,Virginia,VA,Associate Degree,2021,6959,95825,30.2,D
+2474,Virginia,VA,Bahcelor's Degree,2021,23324,95825,31.85,D
+2475,Virginia,VA,Doctorate,2021,3563,95825,34.5,D
+2476,Virginia,VA,High School Grad,2021,24119,95825,26.9,D
+2477,Virginia,VA,Master's Degree,2021,13312,95825,33.4,D
+2478,Virginia,VA,Some College Credit,2021,15192,95825,28.85,D
+2479,Virginia,VA,Unknown,2021,1035,95825,31.4,D
+2480,Washington,WA,9th > 12th Grade,2016,8166,90505,25.3,D
+2481,Washington,WA,> 8th Grade,2016,2369,90505,30.75,D
+2482,Washington,WA,Associate Degree,2016,9100,90505,29.95,D
+2483,Washington,WA,Bahcelor's Degree,2016,19374,90505,31.6,D
+2484,Washington,WA,Doctorate,2016,2467,90505,34.2,D
+2485,Washington,WA,High School Grad,2016,19303,90505,26.95,D
+2486,Washington,WA,Master's Degree,2016,8204,90505,33.05,D
+2487,Washington,WA,Some College Credit,2016,20437,90505,28.35,D
+2488,Washington,WA,Unknown,2016,1085,90505,29.8,D
+2489,Washington,WA,9th > 12th Grade,2017,7532,87562,25.65,D
+2490,Washington,WA,> 8th Grade,2017,2142,87562,30.95,D
+2491,Washington,WA,Associate Degree,2017,8512,87562,30.1,D
+2492,Washington,WA,Bahcelor's Degree,2017,18820,87562,31.8,D
+2493,Washington,WA,Doctorate,2017,2627,87562,34.35,D
+2494,Washington,WA,High School Grad,2017,18739,87562,27.0,D
+2495,Washington,WA,Master's Degree,2017,8392,87562,33.1,D
+2496,Washington,WA,Some College Credit,2017,19479,87562,28.5,D
+2497,Washington,WA,Unknown,2017,1319,87562,30.4,D
+2498,Washington,WA,9th > 12th Grade,2018,7075,86085,25.75,D
+2499,Washington,WA,> 8th Grade,2018,2010,86085,31.2,D
+2500,Washington,WA,Associate Degree,2018,8481,86085,30.2,D
+2501,Washington,WA,Bahcelor's Degree,2018,18824,86085,31.9,D
+2502,Washington,WA,Doctorate,2018,2540,86085,34.55,D
+2503,Washington,WA,High School Grad,2018,18640,86085,27.15,D
+2504,Washington,WA,Master's Degree,2018,8434,86085,33.2,D
+2505,Washington,WA,Some College Credit,2018,18566,86085,28.7,D
+2506,Washington,WA,Unknown,2018,1515,86085,30.5,D
+2507,Washington,WA,9th > 12th Grade,2019,6641,84895,25.9,D
+2508,Washington,WA,> 8th Grade,2019,1810,84895,30.8,D
+2509,Washington,WA,Associate Degree,2019,8234,84895,30.25,D
+2510,Washington,WA,Bahcelor's Degree,2019,18544,84895,31.95,D
+2511,Washington,WA,Doctorate,2019,2516,84895,34.55,D
+2512,Washington,WA,High School Grad,2019,18217,84895,27.15,D
+2513,Washington,WA,Master's Degree,2019,8745,84895,33.35,D
+2514,Washington,WA,Some College Credit,2019,18294,84895,28.75,D
+2515,Washington,WA,Unknown,2019,1894,84895,30.25,D
+2516,Washington,WA,9th > 12th Grade,2020,6308,83086,26.0,D
+2517,Washington,WA,> 8th Grade,2020,1671,83086,30.9,D
+2518,Washington,WA,Associate Degree,2020,7938,83086,30.25,D
+2519,Washington,WA,Bahcelor's Degree,2020,18233,83086,31.95,D
+2520,Washington,WA,Doctorate,2020,2591,83086,34.6,D
+2521,Washington,WA,High School Grad,2020,17930,83086,27.45,D
+2522,Washington,WA,Master's Degree,2020,9090,83086,33.35,D
+2523,Washington,WA,Some College Credit,2020,17369,83086,29.0,D
+2524,Washington,WA,Unknown,2020,1956,83086,30.25,D
+2525,Washington,WA,9th > 12th Grade,2021,5705,83911,25.95,D
+2526,Washington,WA,> 8th Grade,2021,1588,83911,31.15,D
+2527,Washington,WA,Associate Degree,2021,8012,83911,30.35,D
+2528,Washington,WA,Bahcelor's Degree,2021,19063,83911,32.1,D
+2529,Washington,WA,Doctorate,2021,2721,83911,34.85,D
+2530,Washington,WA,High School Grad,2021,17267,83911,27.4,D
+2531,Washington,WA,Master's Degree,2021,9692,83911,33.4,D
+2532,Washington,WA,Some College Credit,2021,16960,83911,29.1,D
+2533,Washington,WA,Unknown,2021,2903,83911,30.35,D
+2534,West Virginia,WV,9th > 12th Grade,2016,2459,19079,23.25,D
+2535,West Virginia,WV,> 8th Grade,2016,212,19079,25.5,D
+2536,West Virginia,WV,Associate Degree,2016,1868,19079,28.8,D
+2537,West Virginia,WV,Bahcelor's Degree,2016,2713,19079,30.1,D
+2538,West Virginia,WV,Doctorate,2016,388,19079,32.55,D
+2539,West Virginia,WV,High School Grad,2016,5985,19079,25.1,D
+2540,West Virginia,WV,Master's Degree,2016,1156,19079,31.6,D
+2541,West Virginia,WV,Some College Credit,2016,4200,19079,26.8,D
+2542,West Virginia,WV,Unknown,2016,98,19079,29.7,D
+2543,West Virginia,WV,9th > 12th Grade,2017,2216,18675,23.65,D
+2544,West Virginia,WV,> 8th Grade,2017,212,18675,26.0,D
+2545,West Virginia,WV,Associate Degree,2017,1818,18675,28.7,D
+2546,West Virginia,WV,Bahcelor's Degree,2017,2592,18675,30.1,D
+2547,West Virginia,WV,Doctorate,2017,407,18675,32.95,D
+2548,West Virginia,WV,High School Grad,2017,5989,18675,25.15,D
+2549,West Virginia,WV,Master's Degree,2017,1246,18675,31.8,D
+2550,West Virginia,WV,Some College Credit,2017,4111,18675,26.8,D
+2551,West Virginia,WV,Unknown,2017,84,18675,29.05,D
+2552,West Virginia,WV,9th > 12th Grade,2018,2143,18248,23.65,D
+2553,West Virginia,WV,> 8th Grade,2018,190,18248,26.35,D
+2554,West Virginia,WV,Associate Degree,2018,1856,18248,28.8,D
+2555,West Virginia,WV,Bahcelor's Degree,2018,2525,18248,30.3,D
+2556,West Virginia,WV,Doctorate,2018,386,18248,33.1,D
+2557,West Virginia,WV,High School Grad,2018,5905,18248,25.2,D
+2558,West Virginia,WV,Master's Degree,2018,1167,18248,31.95,D
+2559,West Virginia,WV,Some College Credit,2018,3978,18248,27.05,D
+2560,West Virginia,WV,Unknown,2018,98,18248,30.95,D
+2561,West Virginia,WV,9th > 12th Grade,2019,2076,18136,23.75,D
+2562,West Virginia,WV,> 8th Grade,2019,169,18136,25.9,D
+2563,West Virginia,WV,Associate Degree,2019,1816,18136,28.8,D
+2564,West Virginia,WV,Bahcelor's Degree,2019,2619,18136,30.15,D
+2565,West Virginia,WV,Doctorate,2019,374,18136,33.1,D
+2566,West Virginia,WV,High School Grad,2019,6161,18136,25.4,D
+2567,West Virginia,WV,Master's Degree,2019,1117,18136,31.9,D
+2568,West Virginia,WV,Some College Credit,2019,3768,18136,27.35,D
+2569,West Virginia,WV,Unknown,2019,36,18136,32.45,D
+2570,West Virginia,WV,9th > 12th Grade,2020,1891,17323,23.95,D
+2571,West Virginia,WV,> 8th Grade,2020,183,17323,25.6,D
+2572,West Virginia,WV,Associate Degree,2020,1755,17323,28.85,D
+2573,West Virginia,WV,Bahcelor's Degree,2020,2501,17323,30.05,D
+2574,West Virginia,WV,Doctorate,2020,401,17323,33.15,D
+2575,West Virginia,WV,High School Grad,2020,5752,17323,25.5,D
+2576,West Virginia,WV,Master's Degree,2020,1165,17323,31.9,D
+2577,West Virginia,WV,Some College Credit,2020,3561,17323,27.35,D
+2578,West Virginia,WV,Unknown,2020,114,17323,31.1,D
+2579,West Virginia,WV,9th > 12th Grade,2021,1765,17198,24.1,D
+2580,West Virginia,WV,> 8th Grade,2021,170,17198,26.35,D
+2581,West Virginia,WV,Associate Degree,2021,1776,17198,28.8,D
+2582,West Virginia,WV,Bahcelor's Degree,2021,2588,17198,30.15,D
+2583,West Virginia,WV,Doctorate,2021,402,17198,32.9,D
+2584,West Virginia,WV,High School Grad,2021,5701,17198,25.4,D
+2585,West Virginia,WV,Master's Degree,2021,1238,17198,31.9,D
+2586,West Virginia,WV,Some College Credit,2021,3479,17198,27.35,D
+2587,West Virginia,WV,Unknown,2021,79,17198,32.1,D
+2588,Wisconsin,WI,9th > 12th Grade,2016,4652,66615,24.6,R
+2589,Wisconsin,WI,> 8th Grade,2016,2353,66615,29.65,R
+2590,Wisconsin,WI,Associate Degree,2016,7380,66615,30.05,R
+2591,Wisconsin,WI,Bahcelor's Degree,2016,15927,66615,30.95,R
+2592,Wisconsin,WI,Doctorate,2016,1750,66615,33.1,R
+2593,Wisconsin,WI,High School Grad,2016,16058,66615,26.25,R
+2594,Wisconsin,WI,Master's Degree,2016,5506,66615,32.55,R
+2595,Wisconsin,WI,Some College Credit,2016,12661,66615,28.0,R
+2596,Wisconsin,WI,Unknown,2016,328,66615,28.35,R
+2597,Wisconsin,WI,9th > 12th Grade,2017,4477,64975,24.65,R
+2598,Wisconsin,WI,> 8th Grade,2017,2282,64975,29.6,R
+2599,Wisconsin,WI,Associate Degree,2017,7227,64975,30.1,R
+2600,Wisconsin,WI,Bahcelor's Degree,2017,15763,64975,31.0,R
+2601,Wisconsin,WI,Doctorate,2017,1673,64975,33.25,R
+2602,Wisconsin,WI,High School Grad,2017,15976,64975,26.4,R
+2603,Wisconsin,WI,Master's Degree,2017,5338,64975,32.65,R
+2604,Wisconsin,WI,Some College Credit,2017,11901,64975,28.2,R
+2605,Wisconsin,WI,Unknown,2017,338,64975,28.5,R
+2606,Wisconsin,WI,9th > 12th Grade,2018,4275,64098,24.8,R
+2607,Wisconsin,WI,> 8th Grade,2018,2271,64098,29.6,R
+2608,Wisconsin,WI,Associate Degree,2018,7083,64098,30.35,R
+2609,Wisconsin,WI,Bahcelor's Degree,2018,15717,64098,31.2,R
+2610,Wisconsin,WI,Doctorate,2018,1704,64098,33.35,R
+2611,Wisconsin,WI,High School Grad,2018,16035,64098,26.55,R
+2612,Wisconsin,WI,Master's Degree,2018,5345,64098,32.8,R
+2613,Wisconsin,WI,Some College Credit,2018,11284,64098,28.4,R
+2614,Wisconsin,WI,Unknown,2018,384,64098,28.9,R
+2615,Wisconsin,WI,9th > 12th Grade,2019,4039,63270,24.95,D
+2616,Wisconsin,WI,> 8th Grade,2019,2277,63270,29.35,D
+2617,Wisconsin,WI,Associate Degree,2019,6854,63270,30.4,D
+2618,Wisconsin,WI,Bahcelor's Degree,2019,15756,63270,31.2,D
+2619,Wisconsin,WI,Doctorate,2019,1730,63270,33.6,D
+2620,Wisconsin,WI,High School Grad,2019,15792,63270,26.6,D
+2621,Wisconsin,WI,Master's Degree,2019,5407,63270,32.75,D
+2622,Wisconsin,WI,Some College Credit,2019,10985,63270,28.55,D
+2623,Wisconsin,WI,Unknown,2019,430,63270,28.75,D
+2624,Wisconsin,WI,9th > 12th Grade,2020,3761,60594,25.05,D
+2625,Wisconsin,WI,> 8th Grade,2020,2229,60594,29.6,D
+2626,Wisconsin,WI,Associate Degree,2020,6539,60594,30.45,D
+2627,Wisconsin,WI,Bahcelor's Degree,2020,15369,60594,31.25,D
+2628,Wisconsin,WI,Doctorate,2020,1733,60594,33.4,D
+2629,Wisconsin,WI,High School Grad,2020,15101,60594,26.7,D
+2630,Wisconsin,WI,Master's Degree,2020,5184,60594,32.65,D
+2631,Wisconsin,WI,Some College Credit,2020,10229,60594,28.8,D
+2632,Wisconsin,WI,Unknown,2020,449,60594,28.7,D
+2633,Wisconsin,WI,9th > 12th Grade,2021,3449,61781,25.1,D
+2634,Wisconsin,WI,> 8th Grade,2021,2315,61781,29.3,D
+2635,Wisconsin,WI,Associate Degree,2021,6739,61781,30.5,D
+2636,Wisconsin,WI,Bahcelor's Degree,2021,16182,61781,31.3,D
+2637,Wisconsin,WI,Doctorate,2021,1891,61781,33.4,D
+2638,Wisconsin,WI,High School Grad,2021,15075,61781,26.95,D
+2639,Wisconsin,WI,Master's Degree,2021,5667,61781,32.65,D
+2640,Wisconsin,WI,Some College Credit,2021,10031,61781,28.9,D
+2641,Wisconsin,WI,Unknown,2021,432,61781,28.65,D
+2642,Wyoming,WY,9th > 12th Grade,2016,698,7386,23.6,R
+2643,Wyoming,WY,> 8th Grade,2016,90,7386,28.4,R
+2644,Wyoming,WY,Associate Degree,2016,831,7386,28.85,R
+2645,Wyoming,WY,Bahcelor's Degree,2016,1380,7386,30.55,R
+2646,Wyoming,WY,Doctorate,2016,139,7386,33.1,R
+2647,Wyoming,WY,High School Grad,2016,1767,7386,25.55,R
+2648,Wyoming,WY,Master's Degree,2016,499,7386,32.4,R
+2649,Wyoming,WY,Some College Credit,2016,1902,7386,27.1,R
+2650,Wyoming,WY,Unknown,2016,80,7386,29.85,R
+2651,Wyoming,WY,9th > 12th Grade,2017,606,6903,24.0,R
+2652,Wyoming,WY,> 8th Grade,2017,80,6903,28.4,R
+2653,Wyoming,WY,Associate Degree,2017,848,6903,29.0,R
+2654,Wyoming,WY,Bahcelor's Degree,2017,1296,6903,30.55,R
+2655,Wyoming,WY,Doctorate,2017,111,6903,33.1,R
+2656,Wyoming,WY,High School Grad,2017,1673,6903,25.5,R
+2657,Wyoming,WY,Master's Degree,2017,490,6903,32.3,R
+2658,Wyoming,WY,Some College Credit,2017,1749,6903,27.35,R
+2659,Wyoming,WY,Unknown,2017,50,6903,28.0,R
+2660,Wyoming,WY,9th > 12th Grade,2018,555,6562,24.2,R
+2661,Wyoming,WY,> 8th Grade,2018,80,6562,29.85,R
+2662,Wyoming,WY,Associate Degree,2018,766,6562,29.05,R
+2663,Wyoming,WY,Bahcelor's Degree,2018,1175,6562,30.7,R
+2664,Wyoming,WY,Doctorate,2018,133,6562,33.65,R
+2665,Wyoming,WY,High School Grad,2018,1592,6562,25.65,R
+2666,Wyoming,WY,Master's Degree,2018,467,6562,32.75,R
+2667,Wyoming,WY,Some College Credit,2018,1706,6562,27.4,R
+2668,Wyoming,WY,Unknown,2018,88,6562,29.55,R
+2669,Wyoming,WY,9th > 12th Grade,2019,556,6565,24.2,R
+2670,Wyoming,WY,> 8th Grade,2019,59,6565,29.75,R
+2671,Wyoming,WY,Associate Degree,2019,814,6565,29.35,R
+2672,Wyoming,WY,Bahcelor's Degree,2019,1211,6565,30.9,R
+2673,Wyoming,WY,Doctorate,2019,146,6565,33.2,R
+2674,Wyoming,WY,High School Grad,2019,1637,6565,25.55,R
+2675,Wyoming,WY,Master's Degree,2019,503,6565,32.9,R
+2676,Wyoming,WY,Some College Credit,2019,1580,6565,27.25,R
+2677,Wyoming,WY,Unknown,2019,59,6565,30.35,R
+2678,Wyoming,WY,9th > 12th Grade,2020,498,6128,23.8,R
+2679,Wyoming,WY,> 8th Grade,2020,63,6128,28.05,R
+2680,Wyoming,WY,Associate Degree,2020,710,6128,29.35,R
+2681,Wyoming,WY,Bahcelor's Degree,2020,1189,6128,30.75,R
+2682,Wyoming,WY,Doctorate,2020,109,6128,33.4,R
+2683,Wyoming,WY,High School Grad,2020,1542,6128,25.75,R
+2684,Wyoming,WY,Master's Degree,2020,445,6128,32.55,R
+2685,Wyoming,WY,Some College Credit,2020,1514,6128,27.5,R
+2686,Wyoming,WY,Unknown,2020,58,6128,29.45,R
+2687,Wyoming,WY,9th > 12th Grade,2021,487,6237,23.65,R
+2688,Wyoming,WY,> 8th Grade,2021,69,6237,28.5,R
+2689,Wyoming,WY,Associate Degree,2021,760,6237,29.15,R
+2690,Wyoming,WY,Bahcelor's Degree,2021,1258,6237,31.05,R
+2691,Wyoming,WY,Doctorate,2021,137,6237,33.45,R
+2692,Wyoming,WY,High School Grad,2021,1483,6237,25.95,R
+2693,Wyoming,WY,Master's Degree,2021,471,6237,32.75,R
+2694,Wyoming,WY,Some College Credit,2021,1491,6237,27.45,R
+2695,Wyoming,WY,Unknown,2021,81,6237,29.6,R

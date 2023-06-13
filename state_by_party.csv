@@ -1,0 +1,301 @@
+State,Year,Political Party Governing
+Alabama,2016,R
+Alabama,2018,R
+Alabama,2019,R
+Alabama,2020,R
+Alabama,2021,R
+Alabama,2017,R
+Alaska,2018,I
+Alaska,2016,I
+Alaska,2021,R
+Alaska,2019,R
+Alaska,2017,I
+Alaska,2020,R
+Arizona,2016,R
+Arizona,2021,R
+Arizona,2017,R
+Arizona,2019,R
+Arizona,2018,R
+Arizona,2020,R
+Arkansas,2018,R
+Arkansas,2016,R
+Arkansas,2019,R
+Arkansas,2017,R
+Arkansas,2021,R
+Arkansas,2020,R
+California,2020,D
+California,2019,D
+California,2016,D
+California,2021,D
+California,2018,D
+California,2017,D
+Colorado,2020,D
+Colorado,2019,D
+Colorado,2016,D
+Colorado,2017,D
+Colorado,2018,D
+Colorado,2021,D
+Connecticut,2017,D
+Connecticut,2016,D
+Connecticut,2021,D
+Connecticut,2020,D
+Connecticut,2018,D
+Connecticut,2019,D
+Delaware,2017,D
+Delaware,2018,D
+Delaware,2019,D
+Delaware,2020,D
+Delaware,2021,D
+Delaware,2016,D
+Florida,2018,R
+Florida,2020,R
+Florida,2017,R
+Florida,2021,R
+Florida,2019,R
+Florida,2016,R
+Georgia,2021,R
+Georgia,2019,R
+Georgia,2016,R
+Georgia,2017,R
+Georgia,2020,R
+Georgia,2018,R
+Hawaii,2016,D
+Hawaii,2021,D
+Hawaii,2017,D
+Hawaii,2018,D
+Hawaii,2019,D
+Hawaii,2020,D
+Idaho,2020,R
+Idaho,2018,R
+Idaho,2019,R
+Idaho,2017,R
+Idaho,2021,R
+Idaho,2016,R
+Illinois,2020,D
+Illinois,2021,D
+Illinois,2016,R
+Illinois,2019,D
+Illinois,2017,R
+Illinois,2018,R
+Indiana,2019,R
+Indiana,2017,R
+Indiana,2016,R
+Indiana,2018,R
+Indiana,2020,R
+Indiana,2021,R
+Iowa,2021,R
+Iowa,2020,R
+Iowa,2016,R
+Iowa,2018,R
+Iowa,2017,R
+Iowa,2019,R
+Kansas,2016,R
+Kansas,2017,R
+Kansas,2019,R
+Kansas,2020,R
+Kansas,2018,R
+Kansas,2021,R
+Kentucky,2016,R
+Kentucky,2018,R
+Kentucky,2017,R
+Kentucky,2019,R
+Kentucky,2020,D
+Kentucky,2021,D
+Louisiana,2020,D
+Louisiana,2017,D
+Louisiana,2019,D
+Louisiana,2016,D
+Louisiana,2021,D
+Louisiana,2018,D
+Maine,2019,D
+Maine,2018,R
+Maine,2017,R
+Maine,2020,D
+Maine,2021,D
+Maine,2016,R
+Maryland,2016,R
+Maryland,2021,R
+Maryland,2018,R
+Maryland,2019,R
+Maryland,2017,R
+Maryland,2020,R
+Massachusetts,2020,R
+Massachusetts,2018,R
+Massachusetts,2019,R
+Massachusetts,2017,R
+Massachusetts,2016,R
+Massachusetts,2021,R
+Michigan,2020,D
+Michigan,2018,R
+Michigan,2016,R
+Michigan,2019,D
+Michigan,2021,D
+Michigan,2017,R
+Minnesota,2021,D
+Minnesota,2019,D
+Minnesota,2016,D
+Minnesota,2018,D
+Minnesota,2017,D
+Minnesota,2020,D
+Mississippi,2017,R
+Mississippi,2016,R
+Mississippi,2019,R
+Mississippi,2020,R
+Mississippi,2021,R
+Mississippi,2018,R
+Missouri,2020,R
+Missouri,2017,R
+Missouri,2016,D
+Missouri,2019,R
+Missouri,2021,R
+Missouri,2018,R
+Montana,2016,D
+Montana,2020,D
+Montana,2019,D
+Montana,2017,D
+Montana,2018,D
+Montana,2021,R
+Nebraska,2017,R
+Nebraska,2016,R
+Nebraska,2021,R
+Nebraska,2019,R
+Nebraska,2020,R
+Nebraska,2018,R
+Nevada,2017,R
+Nevada,2019,D
+Nevada,2020,D
+Nevada,2018,R
+Nevada,2016,R
+Nevada,2021,D
+New Hampshire,2020,R
+New Hampshire,2019,R
+New Hampshire,2018,R
+New Hampshire,2016,D
+New Hampshire,2017,R
+New Hampshire,2021,R
+New Jersey,2018,D
+New Jersey,2021,D
+New Jersey,2019,D
+New Jersey,2020,D
+New Jersey,2016,R
+New Jersey,2017,R
+New Mexico,2019,D
+New Mexico,2016,R
+New Mexico,2021,D
+New Mexico,2018,R
+New Mexico,2017,R
+New Mexico,2020,D
+New York,2020,D
+New York,2017,D
+New York,2018,D
+New York,2021,D
+New York,2016,D
+New York,2019,D
+North Carolina,2017,D
+North Carolina,2020,D
+North Carolina,2016,R
+North Carolina,2018,D
+North Carolina,2021,D
+North Carolina,2019,D
+North Dakota,2019,R
+North Dakota,2020,R
+North Dakota,2018,R
+North Dakota,2017,R
+North Dakota,2016,R
+North Dakota,2021,R
+Ohio,2020,R
+Ohio,2017,R
+Ohio,2021,R
+Ohio,2019,R
+Ohio,2018,R
+Ohio,2016,R
+Oklahoma,2019,R
+Oklahoma,2016,R
+Oklahoma,2021,R
+Oklahoma,2020,R
+Oklahoma,2018,R
+Oklahoma,2017,R
+Oregon,2018,D
+Oregon,2021,D
+Oregon,2019,D
+Oregon,2020,D
+Oregon,2016,D
+Oregon,2017,D
+Pennsylvania,2020,D
+Pennsylvania,2018,D
+Pennsylvania,2016,D
+Pennsylvania,2021,D
+Pennsylvania,2019,D
+Pennsylvania,2017,D
+Rhode Island,2021,D
+Rhode Island,2017,D
+Rhode Island,2018,D
+Rhode Island,2016,D
+Rhode Island,2020,D
+Rhode Island,2019,D
+South Carolina,2021,R
+South Carolina,2016,R
+South Carolina,2020,R
+South Carolina,2019,R
+South Carolina,2018,R
+South Carolina,2017,R
+South Dakota,2017,R
+South Dakota,2020,R
+South Dakota,2019,R
+South Dakota,2021,R
+South Dakota,2018,R
+South Dakota,2016,R
+Tennessee,2019,R
+Tennessee,2021,R
+Tennessee,2016,R
+Tennessee,2017,R
+Tennessee,2018,R
+Tennessee,2020,R
+Texas,2016,R
+Texas,2021,R
+Texas,2018,R
+Texas,2019,R
+Texas,2020,R
+Texas,2017,R
+Utah,2021,R
+Utah,2017,R
+Utah,2019,R
+Utah,2020,R
+Utah,2018,R
+Utah,2016,R
+Vermont,2020,R
+Vermont,2016,D
+Vermont,2021,R
+Vermont,2019,R
+Vermont,2017,R
+Vermont,2018,R
+Virginia,2021,D
+Virginia,2016,D
+Virginia,2019,D
+Virginia,2017,D
+Virginia,2018,D
+Virginia,2020,D
+Washington,2016,D
+Washington,2017,D
+Washington,2018,D
+Washington,2019,D
+Washington,2020,D
+Washington,2021,D
+West Virginia,2017,D
+West Virginia,2018,D
+West Virginia,2021,D
+West Virginia,2016,D
+West Virginia,2019,D
+West Virginia,2020,D
+Wisconsin,2017,R
+Wisconsin,2018,R
+Wisconsin,2021,D
+Wisconsin,2016,R
+Wisconsin,2019,D
+Wisconsin,2020,D
+Wyoming,2018,R
+Wyoming,2019,R
+Wyoming,2017,R
+Wyoming,2016,R
+Wyoming,2020,R
+Wyoming,2021,R
