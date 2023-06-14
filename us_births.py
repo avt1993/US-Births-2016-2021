@@ -2,6 +2,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from dash import Dash, dcc, html, Input, Output
+import dash_bootstrap_components as dbc
 import dash_leaflet as dl
 import json
 from dash_extensions.javascript import arrow_function
@@ -21,22 +22,33 @@ ed_level_list = df['Education Level of Mother'].unique().tolist()
 state_list = df['State'].unique().tolist()
 
 #--------------------------------------------------------------------------------------------------
-
+##003f5c
 app.layout = html.Div(
-    style = {'background-color': 'lightblue'},
+    className = 'Main Container',
+    style = {'background-color': 'firebrick'},
     children = [
 
-        html.H1("US Births From 2016 - 2021", style = {'text-align': 'center'}),
+        html.Br(),
+        html.H1("US Births Data From 2016 - 2021", style = {'text-align': 'center', 'color': 'white'}),
 
         html.Div(
-            style = {'display': 'flex', 'flex-direction': 'row', 'background-color': 'darkblue', 'height': '1200px'},
+            className = 'Dropdowns and Map Container',
+            style = {'display': 'flex', 'height': '700px'},
+
             children = [
 
                 html.Div(
-                    style = {'padding': 10, 'flex': '20%', 'background-color': 'red', 'height': '1000px'},
-                    children = [
+                    className = 'Dropdowns Container',
+                    style = {'flex': '15%', 'background-color': 'lightcoral'},
 
-                        html.Label("Select Year Range"),
+                    children = [
+                        html.H3("Map Options"),
+                        dcc.Dropdown(options = ['Percentage of Education Level', 'Average Age by Education Level'], id = 'map-mode', value = 'Percentage of Education Level', searchable = False, style = {'whiteSpace': 'normal', 'wordWrap': 'break-word'}),
+                        html.Br(),
+                        html.H3("Mother's Education Level"),
+                        dcc.Dropdown(options = ed_level_list, id = 'ed-level-selected', value = ed_level_list[0], searchable = False, style = {'whiteSpace': 'normal', 'wordWrap': 'break-word'}),
+                        html.Br(),
+                        html.H3("Year", style = {'padding-left': '20px'}), 
                         dcc.RangeSlider(
                             id = 'year-selected',
                             min = 2016, 
@@ -51,146 +63,119 @@ app.layout = html.Div(
                                 2021: '2021'
                             },
                             value = [2016, 2016],
-                            tooltip = {'placement': 'bottom', 'always_visible': True}),
-
-                        html.Br(),
-                        html.Br(),
-                        html.Label("Select Education Level"),
-                        dcc.Dropdown(options = ed_level_list, id = 'ed-level-selected', value = ed_level_list[0], searchable = False, style = {'whiteSpace': 'normal', 'wordWrap': 'break-word'}),
-
-                        html.Br(),
-                        html.Br(),
-                        #html.Label("Select State"),
-                        #dcc.Dropdown(options = state_list, id = 'state-selected', value = state_list[0], searchable = False, style = {'whiteSpace': 'normal', 'wordWrap': 'break-word'})
-
-                ]), # html.Div ---- Sliders/DropsBoxes/Headings
+                            tooltip = {'placement': 'bottom', 'always_visible': True})
+                ]),
 
                 html.Div(
+                    className = 'Map Container',
+                    style = {'flex': '85%'},
 
-                    style = {'padding': 10, 'flex': '80%', 'background-color': 'green', 'height': '860px'},
                     children = [
+                        dcc.Graph(id = 'map')
+                ]),
+        ]),
 
-                        dcc.Graph(id = 'map'),
-                        dcc.Graph(id = 'bar-graph1'),
-                        dcc.Graph(id = 'bar-graph2'),
-                        html.Div(id = 'state'),
+        html.Br(),
 
+        html.Div(
+            className = 'Bar Charts Container',
+            style = { },  
 
-
-
-                        html.Br(),
-
-
-                            
-
-                    
-
-                        
-
-                ]) # html.Div ---- Sliders/DropsBoxes/Headings
+            children = [
+                dcc.Graph(id = 'bar-graph'),
+                html.Br(),
 
 
-        ])
+        ])                       
+
+]) # app.layout = html.Div([
+
+         
+
+
+
+
 
         
 
 
     
 
-]) # app.layout = html.Div([
-
-
-
-
-# Define the callback to capture click events
-#@app.callback(
-    #Output('state', 'children'),
-    ###Input('map', 'clickData')
-#)
-#def select_state_on_click(click_data):
-    #if click_data is not None:
-        #state_name = click_data['points'][0]['location']
-        #return f"You clicked on state: {state_name}"
-    #else:
-        #return ""
-    
-
 
 
 @app.callback(
-    [Output('bar-graph1', 'figure'),
-     Output('bar-graph2', 'figure')],
+    Output('bar-graph', 'figure'),
     [Input('map', 'clickData'),
-     Input('year-selected', 'value')]
+     Input('year-selected', 'value'),
+     Input('map-mode', 'value')]
 )
 
-def render_bar_graph(state_clicked, year_selected):
+def render_bar_graph(state_clicked, year_selected, map_mode):
 
     if state_clicked is not None:
         state_selected = state_clicked['points'][0]['location']
-        #return f"You clicked on state: {state_name}"
     else:
         state_selected = 'CA'
 
     if year_selected[0] == year_selected[1]:
     
         filtered_df_for_fig = df[(df['Year'] == year_selected[0]) & (df['State Abbreviation'] == state_selected)] 
-        
         filtered_df_for_fig2 = df[(df['Year'] == year_selected[0]) & (df['State Abbreviation'] == state_selected)].groupby('Education Level of Mother')['Number of Births', 'Average Age of Mother (years)'].sum().reset_index()
-
         year_title = str(year_selected[0])
+
     else:
         filtered_df_for_fig = df[(df['Year'].between(year_selected[0], year_selected[1])) & (df['State Abbreviation'] == state_selected)].groupby('Education Level of Mother')['Number of Births', 'Total Births in State'].sum().reset_index()
-        
         filtered_df_for_fig2 = df[(df['Year'].between(year_selected[0], year_selected[1])) & (df['State Abbreviation'] == state_selected)].groupby('Education Level of Mother')['Number of Births', 'Average Age of Mother (years)'].sum().reset_index()
         filtered_df_for_fig2['Average Age of Mother (years)'] = (filtered_df_for_fig2['Average Age of Mother (years)'] / ((year_selected[1] - year_selected[0]) + 1)).round(1)
-
         year_title = (str(year_selected[0]) + ' - ' + str(year_selected[1]))
+
 
     filtered_df_for_fig['Percentage of Births by Ed Level'] = ((filtered_df_for_fig['Number of Births'] / filtered_df_for_fig['Total Births in State'])*100).round(1)
     
     filtered_df_for_fig = filtered_df_for_fig.sort_values('Percentage of Births by Ed Level', ascending = False)
-
     filtered_df_for_fig2 = filtered_df_for_fig2.sort_values('Average Age of Mother (years)', ascending = False)
 
+    if (map_mode == 'Percentage of Education Level'):
 
+        fig = px.bar(filtered_df_for_fig, x = 'Education Level of Mother', y = 'Percentage of Births by Ed Level', text = 'Percentage of Births by Ed Level',
+                    color_discrete_sequence = ['firebrick'] )
+        fig.update_layout(
+            title = ('Births by Education Level of Mother<br>' + 'State: ' + state_selected + '  /  ' + 'Year: ' + year_title),
+            xaxis_title = "",
+            yaxis_title = False,
+            yaxis_visible = False,
+            xaxis_visible = True,
+            plot_bgcolor = 'rgba(0,0,0,0)'  # Set the plot background color to transparent
+        )
+        fig.update_traces(textposition = "outside", cliponaxis = False, texttemplate = '%{text}%')
+        return fig
 
-    
+    else:
 
-
-    fig = px.bar(filtered_df_for_fig, x = 'Education Level of Mother', y = 'Percentage of Births by Ed Level', text = 'Percentage of Births by Ed Level')
-    fig.update_layout(
-        title = ('Births by Education Level of Mother<br>' + 'State: ' + state_selected + '  /  ' + 'Year: ' + year_title),
-        xaxis_title = "",
-        yaxis_title = False,
-        yaxis_visible = False,
-        xaxis_visible = True,
-        plot_bgcolor = 'rgba(0,0,0,0)'  # Set the plot background color to transparent
-    )
-    fig.update_traces(textposition = "outside", cliponaxis = False, texttemplate = '%{text}%')
-
-    fig2 = px.bar(filtered_df_for_fig2, x = 'Education Level of Mother', y = 'Average Age of Mother (years)', text = 'Average Age of Mother (years)')
-    fig2.update_layout(
-        title = ('Average Age of Mother by Education Level<br>' + 'State: ' + state_selected + '  /  ' + 'Year: ' + year_title),
-        xaxis_title = "",
-        yaxis_title = False,
-        yaxis_visible = False,
-        xaxis_visible = True,
-        plot_bgcolor = 'rgba(0,0,0,0)'  # Set the plot background color to transparent
-    )
-    fig2.update_traces(textposition = "outside", cliponaxis = False)
-
-    return fig, fig2
+        fig2 = px.bar(filtered_df_for_fig2, x = 'Education Level of Mother', y = 'Average Age of Mother (years)', text = 'Average Age of Mother (years)',
+                    color_discrete_sequence = ['steelblue'])
+        fig2.update_layout(
+            title = ('Average Age of Mother by Education Level<br>' + 'State: ' + state_selected + '  /  ' + 'Year: ' + year_title),
+            
+            xaxis_title = "",
+            yaxis_title = False,
+            yaxis_visible = False,
+            xaxis_visible = True,
+            plot_bgcolor = 'rgba(0,0,0,0)'  # Set the plot background color to transparent
+        )
+        fig2.update_traces(textposition = "outside", cliponaxis = False)
+        return fig2
     
 
     
 @app.callback(
     Output('map', 'figure'),
     [Input('year-selected', 'value'),
-     Input('ed-level-selected', 'value')]
+     Input('ed-level-selected', 'value'),
+     Input('map-mode', 'value')]
 )
 
-def update_map(year_selected, ed_level_selected):
+def update_map(year_selected, ed_level_selected, map_mode):
 
     if year_selected[0] == year_selected[1]:
 
@@ -205,38 +190,91 @@ def update_map(year_selected, ed_level_selected):
     else:
         year_title = (str(year_selected[0]) + ' - ' + str(year_selected[1]))
 
+
+    if (map_mode == 'Percentage of Education Level'):
+
         total_births_by_state_and_year = df[(df['Year'].between(year_selected[0],year_selected[1]))].groupby(['State', 'State Abbreviation', 'Year'])['Number of Births'].sum().reset_index(name = 'Total Births in State')
         df_by_ed_level_usa = df[(df['Year'].between(year_selected[0],year_selected[1])) & (df['Education Level of Mother'] == ed_level_selected)].groupby(['State', 'State Abbreviation', 'Year', 'Education Level of Mother'])['Number of Births'].sum().reset_index()
         merged_df = df_by_ed_level_usa.merge(total_births_by_state_and_year, on = ['State', 'State Abbreviation', 'Year'], suffixes = ('_by ed level', '_by state'))
         merged_df = merged_df.groupby(['State', 'State Abbreviation'])['Number of Births', 'Total Births in State'].sum().reset_index()
         merged_df['Percentage of Births by State'] = ((merged_df['Number of Births'] / merged_df['Total Births in State'])* 100).round(2)
+        
+        map_fig = go.Figure(
+            data = go.Choropleth(
+                        locations = merged_df['State Abbreviation'], # Spatial coordinates
+                        z = merged_df['Percentage of Births by State'].astype(float), # Data to be color-coded
+                        locationmode = 'USA-states', # set of locations match entries in `locations`
+                        colorscale = 'Reds',
+                        colorbar_title = "Percentage",
+                        marker_line_width = 2,
+                        text = merged_df['Percentage of Births by State'],
+                        hovertemplate = 'State: %{location}<br>Percentage: %{text:.1f}%<extra></extra>'
+            ),
+            layout = go.Layout(
+                        margin = dict(l=0, r=0, t=0, b=0),
+                        autosize = True
+            )
+        )   
 
+        map_fig.update_layout(
+            title = dict(
+                    text = 'Percentage of Births by State<br>' + 'Education Level of Mother: ' + ed_level_selected + '<br>' + 'Year: ' + year_title,
+                    x = 0.92,  # Set the horizontal position of the title to the center (0.0 - left, 0.5 - center, 1.0 - right)
+                    y = 0.25  # Set the vertical position of the title (0.0 - bottom, 0.5 - middle, 1.0 - top)
+            ),
+            #paper_bgcolor = 'white',
+            height = 700,
+            geo = dict(
+                bgcolor = 'rgba(0, 0, 0, 0)',
+                scope = 'usa',
+                showlakes = True,
+                lakecolor = 'rgb(255, 255, 255)',
+                projection_scale = 1,  # Adjust the scale to fit the map on the screen
+                lonaxis = dict(range = [-180, 0]),  # Adjust the longitude range to be from -180 to 0
+                lataxis = dict(range = [-90, 90]),  # Adjust the latitude range
+            ),  
+        ) 
+        
 
-    map_fig = go.Figure(
-        data = go.Choropleth(
-        locations = merged_df['State Abbreviation'], # Spatial coordinates
-        z = merged_df['Percentage of Births by State'].astype(float), # Data to be color-coded
-        locationmode = 'USA-states', # set of locations match entries in `locations`
-        colorscale = 'Reds',
-        colorbar_title = "Percentage",
-        marker_line_width = 2,
-        text = merged_df['Percentage of Births by State'],
-        hovertemplate = 'State: %{location}<br>Percentage: %{text:.1f}%<extra></extra>'
-        ),
-        layout = dict(
-                    width = 1320,     
-                    height = 600
-                )
-    )   
+    else:
+        merged_df = df[df['Year'].between(year_selected[0],year_selected[1]) & (df['Education Level of Mother'] == ed_level_selected)].groupby(['State', 'State Abbreviation'])['Average Age of Mother (years)'].mean().reset_index()
 
-    map_fig.update_layout(
-        title_text = ('Percentage of Births by State<br>' + 'Education Level of Mother: ' + ed_level_selected + '<br>' + 'Year: ' + year_title),
-        geo = dict(
-            scope = 'usa',
-            showlakes = True,
-            lakecolor = 'rgb(255, 255, 255)',
+        map_fig = go.Figure(
+            data = go.Choropleth(
+                        locations = merged_df['State Abbreviation'], # Spatial coordinates
+                        z = merged_df['Average Age of Mother (years)'].astype(float), # Data to be color-coded
+                        locationmode = 'USA-states', # set of locations match entries in `locations`
+                        colorscale = 'Blues',
+                        colorbar_title = "Avgerage Age",
+                        marker_line_width = 2,
+                        text = merged_df['Average Age of Mother (years)'],
+                        hovertemplate = 'State: %{location}<br>Average Age: %{text:.1f}<extra></extra>'
+            ),
+            layout = go.Layout(
+                        margin = dict(l=0, r=0, t=0, b=0),
+                        autosize = True
+            )
+      
+        )   
+
+        map_fig.update_layout(
+            title = dict(
+                    text = 'Average Age of Mother by State<br>' + 'Education Level of Mother: ' + ed_level_selected + '<br>' + 'Year: ' + year_title,
+                    x = 0.92,  # Set the horizontal position of the title to the center (0.0 - left, 0.5 - center, 1.0 - right)
+                    y = 0.25  # Set the vertical position of the title (0.0 - bottom, 0.5 - middle, 1.0 - top)
+            ),
+            #paper_bgcolor = 'white',
+            height = 700,
+            geo = dict(
+                bgcolor = 'rgba(0, 0, 0, 0)',
+                scope = 'usa',
+                showlakes = True,
+                lakecolor = 'rgb(255, 255, 255)',
+                projection_scale = 1,  # Adjust the scale to fit the map on the screen
+                lonaxis = dict(range = [-180, 0]),  # Adjust the longitude range to be from -180 to 0
+                lataxis = dict(range = [-90, 90]),  # Adjust the latitude range
+            ),  
         )
-    )
 
     return map_fig
 
