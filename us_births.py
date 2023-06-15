@@ -42,13 +42,13 @@ app.layout = html.Div(
                     style = {'flex': '15%', 'padding': '5px', 'text-align': 'center', 'background-color': 'lightcoral', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333', 'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)'},
 
                     children = [
-                        html.H3("Map Data Display Options"),
+                        html.H3("Map Data Display Options", style = {'color': 'white'}),
                         dcc.Dropdown(options = ['Percentage of Education Level', 'Avg. Age of Mother by Ed Level'], id = 'map-mode', value = 'Percentage of Education Level', searchable = False, style = {'whiteSpace': 'normal', 'wordWrap': 'break-word'}),
                         html.Br(),
-                        html.H3("Mother's Education Level"),
+                        html.H3("Mother's Education Level", style = {'color': 'white'}),
                         dcc.Dropdown(options = ed_level_list, id = 'ed-level-selected', value = ed_level_list[0], searchable = False, style = {'whiteSpace': 'normal', 'wordWrap': 'break-word'}),
                         html.Br(),
-                        html.H3("Year"), 
+                        html.H3("Year", style = {'color': 'white'}), 
                         dcc.RangeSlider(
                             id = 'year-selected',
                             min = 2016, 
@@ -101,10 +101,11 @@ app.layout = html.Div(
     Output('drop-down-container', 'style')],
     [Input('map', 'clickData'),
      Input('year-selected', 'value'),
-     Input('map-mode', 'value')]
+     Input('map-mode', 'value'),
+     Input('ed-level-selected', 'value')]
 )
 
-def render_bar_graph(state_clicked, year_selected, map_mode):
+def render_bar_graph(state_clicked, year_selected, map_mode, ed_level_sel):
 
     if state_clicked is not None:
         state_selected = state_clicked['points'][0]['location']
@@ -126,13 +127,23 @@ def render_bar_graph(state_clicked, year_selected, map_mode):
 
     filtered_df_for_fig['Percentage of Births by Ed Level'] = ((filtered_df_for_fig['Number of Births'] / filtered_df_for_fig['Total Births in State'])*100).round(1)
     
-    filtered_df_for_fig = filtered_df_for_fig.sort_values('Percentage of Births by Ed Level', ascending = False)
-    filtered_df_for_fig2 = filtered_df_for_fig2.sort_values('Average Age of Mother (years)', ascending = False)
+    filtered_df_for_fig = filtered_df_for_fig.sort_values('Percentage of Births by Ed Level', ascending = False).reset_index()
+    filtered_df_for_fig2 = filtered_df_for_fig2.sort_values('Average Age of Mother (years)', ascending = False).reset_index()
 
     if (map_mode == 'Avg. Age of Mother by Ed Level'):
 
-        fig = px.bar(filtered_df_for_fig, x = 'Education Level of Mother', y = 'Percentage of Births by Ed Level', text = 'Percentage of Births by Ed Level',
-                    color_discrete_sequence = ['firebrick'])
+        position = filtered_df_for_fig[filtered_df_for_fig['Education Level of Mother'] == ed_level_sel].index[0]
+        colors = ['lightgrey',] * 9
+        colors[position] = 'firebrick'
+
+        fig = go.Figure(data = [
+                    go.Bar(
+                    x = filtered_df_for_fig['Education Level of Mother'],
+                    y = filtered_df_for_fig['Percentage of Births by Ed Level'],
+                    text = filtered_df_for_fig['Percentage of Births by Ed Level'],
+                    marker_color = colors # marker color can be a single color value or an iterable
+                    )
+        ])
         fig.update_layout(
             title = ('Births by Education Level of Mother<br>' + 'State: ' + state_selected + '  /  ' + 'Year: ' + year_title),
             xaxis_title = "",
@@ -142,15 +153,25 @@ def render_bar_graph(state_clicked, year_selected, map_mode):
             plot_bgcolor = 'rgba(0,0,0,0)'  # Set the plot background color to transparent
         )
         fig.update_traces(textposition = "outside", cliponaxis = False, texttemplate = '%{text}%')
+
         return fig, {'flex': '15%', 'padding': '5px', 'text-align': 'center', 'background-color': 'lightcoral', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333', 'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)'}
 
     else:
 
-        fig2 = px.bar(filtered_df_for_fig2, x = 'Education Level of Mother', y = 'Average Age of Mother (years)', text = 'Average Age of Mother (years)',
-                    color_discrete_sequence = ['steelblue'])
+        position = filtered_df_for_fig[filtered_df_for_fig['Education Level of Mother'] == ed_level_sel].index[0]
+        colors = ['lightgrey',] * 9
+        colors[position] = 'steelblue'
+
+        fig2 = go.Figure(data = [
+                    go.Bar(
+                    x = filtered_df_for_fig['Education Level of Mother'],
+                    y = filtered_df_for_fig['Average Age of Mother (years)'],
+                    text = filtered_df_for_fig['Average Age of Mother (years)'],
+                    marker_color = colors # marker color can be a single color value or an iterable
+                    )
+        ])
         fig2.update_layout(
             title = ('Average Age of Mother by Education Level<br>' + 'State: ' + state_selected + '  /  ' + 'Year: ' + year_title),
-            
             xaxis_title = "",
             yaxis_title = False,
             yaxis_visible = False,
@@ -158,6 +179,7 @@ def render_bar_graph(state_clicked, year_selected, map_mode):
             plot_bgcolor = 'rgba(0,0,0,0)'  # Set the plot background color to transparent
         )
         fig2.update_traces(textposition = "outside", cliponaxis = False)
+
         return fig2, {'flex': '15%', 'padding': '5px', 'text-align': 'center', 'background-color': 'steelblue', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333', 'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)'}
     
 
@@ -165,8 +187,8 @@ def render_bar_graph(state_clicked, year_selected, map_mode):
 @app.callback(
     Output('map', 'figure'),
     [Input('year-selected', 'value'),
-     Input('ed-level-selected', 'value'),
-     Input('map-mode', 'value')]
+    Input('ed-level-selected', 'value'),
+    Input('map-mode', 'value')]
 )
 
 def update_map(year_selected, ed_level_selected, map_mode):
