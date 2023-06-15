@@ -25,30 +25,30 @@ state_list = df['State'].unique().tolist()
 ##003f5c
 app.layout = html.Div(
     className = 'Main Container',
-    style = {'background-color': 'firebrick'},
+    style = {'background-color': 'grey', 'padding': '10px'},
     children = [
 
-        html.Br(),
-        html.H1("US Births Data From 2016 - 2021", style = {'text-align': 'center', 'color': 'white'}),
+        #html.Br(),
+        html.H1("US Births Data From 2016 - 2021", style = {'text-align': 'center', 'color': 'white', 'fontSize': '45px'}),
 
         html.Div(
             className = 'Dropdowns and Map Container',
             style = {'display': 'flex', 'height': '700px'},
 
             children = [
-
                 html.Div(
+                    id = 'drop-down-container',
                     className = 'Dropdowns Container',
-                    style = {'flex': '15%', 'background-color': 'lightcoral'},
+                    style = {'flex': '15%', 'padding': '5px', 'text-align': 'center', 'background-color': 'lightcoral', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333', 'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)'},
 
                     children = [
-                        html.H3("Map Options"),
-                        dcc.Dropdown(options = ['Percentage of Education Level', 'Average Age by Education Level'], id = 'map-mode', value = 'Percentage of Education Level', searchable = False, style = {'whiteSpace': 'normal', 'wordWrap': 'break-word'}),
+                        html.H3("Map Data Display Options"),
+                        dcc.Dropdown(options = ['Percentage of Education Level', 'Avg. Age of Mother by Ed Level'], id = 'map-mode', value = 'Percentage of Education Level', searchable = False, style = {'whiteSpace': 'normal', 'wordWrap': 'break-word'}),
                         html.Br(),
                         html.H3("Mother's Education Level"),
                         dcc.Dropdown(options = ed_level_list, id = 'ed-level-selected', value = ed_level_list[0], searchable = False, style = {'whiteSpace': 'normal', 'wordWrap': 'break-word'}),
                         html.Br(),
-                        html.H3("Year", style = {'padding-left': '20px'}), 
+                        html.H3("Year"), 
                         dcc.RangeSlider(
                             id = 'year-selected',
                             min = 2016, 
@@ -63,15 +63,21 @@ app.layout = html.Div(
                                 2021: '2021'
                             },
                             value = [2016, 2016],
-                            tooltip = {'placement': 'bottom', 'always_visible': True})
+                            tooltip = {'placement': 'bottom', 'always_visible': True},
+                        )
                 ]),
 
                 html.Div(
+                    style = {'flex': '0.5%'}
+                ),
+
+
+                html.Div(
                     className = 'Map Container',
-                    style = {'flex': '85%'},
+                    style = {'flex': '85%', 'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333'},
 
                     children = [
-                        dcc.Graph(id = 'map')
+                        dcc.Graph(id = 'map', style = {'width': '100%', 'height': '100%'})
                 ]),
         ]),
 
@@ -79,13 +85,10 @@ app.layout = html.Div(
 
         html.Div(
             className = 'Bar Charts Container',
-            style = { },  
+            style = {'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333'},  
 
             children = [
-                dcc.Graph(id = 'bar-graph'),
-                html.Br(),
-
-
+                dcc.Graph(id = 'bar-graph', style = {'width': '100%', 'height': '100%'}),
         ])                       
 
 ]) # app.layout = html.Div([
@@ -93,18 +96,9 @@ app.layout = html.Div(
          
 
 
-
-
-
-        
-
-
-    
-
-
-
 @app.callback(
-    Output('bar-graph', 'figure'),
+    [Output('bar-graph', 'figure'),
+    Output('drop-down-container', 'style')],
     [Input('map', 'clickData'),
      Input('year-selected', 'value'),
      Input('map-mode', 'value')]
@@ -135,10 +129,10 @@ def render_bar_graph(state_clicked, year_selected, map_mode):
     filtered_df_for_fig = filtered_df_for_fig.sort_values('Percentage of Births by Ed Level', ascending = False)
     filtered_df_for_fig2 = filtered_df_for_fig2.sort_values('Average Age of Mother (years)', ascending = False)
 
-    if (map_mode == 'Percentage of Education Level'):
+    if (map_mode == 'Avg. Age of Mother by Ed Level'):
 
         fig = px.bar(filtered_df_for_fig, x = 'Education Level of Mother', y = 'Percentage of Births by Ed Level', text = 'Percentage of Births by Ed Level',
-                    color_discrete_sequence = ['firebrick'] )
+                    color_discrete_sequence = ['firebrick'])
         fig.update_layout(
             title = ('Births by Education Level of Mother<br>' + 'State: ' + state_selected + '  /  ' + 'Year: ' + year_title),
             xaxis_title = "",
@@ -148,7 +142,7 @@ def render_bar_graph(state_clicked, year_selected, map_mode):
             plot_bgcolor = 'rgba(0,0,0,0)'  # Set the plot background color to transparent
         )
         fig.update_traces(textposition = "outside", cliponaxis = False, texttemplate = '%{text}%')
-        return fig
+        return fig, {'flex': '15%', 'padding': '5px', 'text-align': 'center', 'background-color': 'lightcoral', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333', 'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)'}
 
     else:
 
@@ -164,7 +158,7 @@ def render_bar_graph(state_clicked, year_selected, map_mode):
             plot_bgcolor = 'rgba(0,0,0,0)'  # Set the plot background color to transparent
         )
         fig2.update_traces(textposition = "outside", cliponaxis = False)
-        return fig2
+        return fig2, {'flex': '15%', 'padding': '5px', 'text-align': 'center', 'background-color': 'steelblue', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333', 'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)'}
     
 
     
@@ -191,7 +185,7 @@ def update_map(year_selected, ed_level_selected, map_mode):
         year_title = (str(year_selected[0]) + ' - ' + str(year_selected[1]))
 
 
-    if (map_mode == 'Percentage of Education Level'):
+    if (map_mode == 'Avg. Age of Mother by Ed Level'):
 
         total_births_by_state_and_year = df[(df['Year'].between(year_selected[0],year_selected[1]))].groupby(['State', 'State Abbreviation', 'Year'])['Number of Births'].sum().reset_index(name = 'Total Births in State')
         df_by_ed_level_usa = df[(df['Year'].between(year_selected[0],year_selected[1])) & (df['Education Level of Mother'] == ed_level_selected)].groupby(['State', 'State Abbreviation', 'Year', 'Education Level of Mother'])['Number of Births'].sum().reset_index()
@@ -222,16 +216,12 @@ def update_map(year_selected, ed_level_selected, map_mode):
                     x = 0.92,  # Set the horizontal position of the title to the center (0.0 - left, 0.5 - center, 1.0 - right)
                     y = 0.25  # Set the vertical position of the title (0.0 - bottom, 0.5 - middle, 1.0 - top)
             ),
-            #paper_bgcolor = 'white',
-            height = 700,
             geo = dict(
                 bgcolor = 'rgba(0, 0, 0, 0)',
                 scope = 'usa',
                 showlakes = True,
                 lakecolor = 'rgb(255, 255, 255)',
                 projection_scale = 1,  # Adjust the scale to fit the map on the screen
-                lonaxis = dict(range = [-180, 0]),  # Adjust the longitude range to be from -180 to 0
-                lataxis = dict(range = [-90, 90]),  # Adjust the latitude range
             ),  
         ) 
         
@@ -263,16 +253,13 @@ def update_map(year_selected, ed_level_selected, map_mode):
                     x = 0.92,  # Set the horizontal position of the title to the center (0.0 - left, 0.5 - center, 1.0 - right)
                     y = 0.25  # Set the vertical position of the title (0.0 - bottom, 0.5 - middle, 1.0 - top)
             ),
-            #paper_bgcolor = 'white',
-            height = 700,
             geo = dict(
                 bgcolor = 'rgba(0, 0, 0, 0)',
                 scope = 'usa',
                 showlakes = True,
                 lakecolor = 'rgb(255, 255, 255)',
                 projection_scale = 1,  # Adjust the scale to fit the map on the screen
-                lonaxis = dict(range = [-180, 0]),  # Adjust the longitude range to be from -180 to 0
-                lataxis = dict(range = [-90, 90]),  # Adjust the latitude range
+
             ),  
         )
 
