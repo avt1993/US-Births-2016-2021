@@ -1,11 +1,6 @@
 import pandas as pd
-import plotly.express as px
 import plotly.graph_objects as go
 from dash import Dash, dcc, html, Input, Output
-import dash_bootstrap_components as dbc
-import dash_leaflet as dl
-import json
-from dash_extensions.javascript import arrow_function
 
 app = Dash(__name__, suppress_callback_exceptions = True)
 
@@ -14,9 +9,6 @@ app = Dash(__name__, suppress_callback_exceptions = True)
 
 df = pd.read_csv("us_births_2016_2021_updated.csv")
 #map_df = pd.read_csv("us_births_2016_2021_updated.csv")
-
-with open('us-states.json') as f:
-    us_states_GEOJSON = json.load(f)
 
 ed_level_list = df['Education Level of Mother'].unique().tolist()
 state_list = df['State'].unique().tolist()
