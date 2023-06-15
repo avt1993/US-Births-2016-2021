@@ -26,13 +26,13 @@ app.layout = html.Div(
 
         html.Div(
             className = 'Dropdowns and Map Container',
-            style = {'display': 'flex', 'height': '700px'},
+            style = {'display': 'flex', 'height': '635px'},
 
             children = [
                 html.Div(
                     id = 'drop-down-container',
                     className = 'Dropdowns Container',
-                    style = {'flex': '15%', 'padding': '5px', 'text-align': 'center', 'background-color': 'lightcoral', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333', 'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)'},
+                    style = {'flex': '15%', 'padding': '15px', 'text-align': 'center', 'background-color': 'lightcoral', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333', 'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)'},
 
                     children = [
                         html.H3("Map Data Display Options", style = {'color': 'white'}),
@@ -78,7 +78,7 @@ app.layout = html.Div(
 
         html.Div(
             className = 'Bar Charts Container',
-            style = {'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333'},  
+            style = {'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333', 'height': '350px'},  
 
             children = [
                 dcc.Graph(id = 'bar-graph', style = {'width': '100%', 'height': '100%'}),
@@ -123,7 +123,7 @@ def render_bar_graph(state_clicked, year_selected, map_mode, ed_level_sel):
     filtered_df_for_fig = filtered_df_for_fig.sort_values('Percentage of Births by Ed Level', ascending = False).reset_index()
     filtered_df_for_fig2 = filtered_df_for_fig2.sort_values('Average Age of Mother (years)', ascending = False).reset_index()
 
-    if (map_mode == 'Avg. Age of Mother by Ed Level'):
+    if (map_mode == 'Percentage of Education Level'):
 
         position = filtered_df_for_fig[filtered_df_for_fig['Education Level of Mother'] == ed_level_sel].index[0]
         colors = ['lightgrey',] * 9
@@ -147,19 +147,19 @@ def render_bar_graph(state_clicked, year_selected, map_mode, ed_level_sel):
         )
         fig.update_traces(textposition = "outside", cliponaxis = False, texttemplate = '%{text}%')
 
-        return fig, {'flex': '15%', 'padding': '5px', 'text-align': 'center', 'background-color': 'lightcoral', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333', 'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)'}
+        return fig, {'flex': '15%', 'padding': '15px', 'text-align': 'center', 'background-color': 'lightcoral', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333', 'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)'}
 
     else:
 
-        position = filtered_df_for_fig[filtered_df_for_fig['Education Level of Mother'] == ed_level_sel].index[0]
+        position = filtered_df_for_fig2[filtered_df_for_fig2['Education Level of Mother'] == ed_level_sel].index[0]
         colors = ['lightgrey',] * 9
         colors[position] = 'steelblue'
 
         fig2 = go.Figure(data = [
                     go.Bar(
-                    x = filtered_df_for_fig['Education Level of Mother'],
-                    y = filtered_df_for_fig['Average Age of Mother (years)'],
-                    text = filtered_df_for_fig['Average Age of Mother (years)'],
+                    x = filtered_df_for_fig2['Education Level of Mother'],
+                    y = filtered_df_for_fig2['Average Age of Mother (years)'],
+                    text = filtered_df_for_fig2['Average Age of Mother (years)'],
                     marker_color = colors # marker color can be a single color value or an iterable
                     )
         ])
@@ -173,7 +173,7 @@ def render_bar_graph(state_clicked, year_selected, map_mode, ed_level_sel):
         )
         fig2.update_traces(textposition = "outside", cliponaxis = False)
 
-        return fig2, {'flex': '15%', 'padding': '5px', 'text-align': 'center', 'background-color': 'steelblue', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333', 'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)'}
+        return fig2, {'flex': '15%', 'padding': '15px', 'text-align': 'center', 'background-color': 'steelblue', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333', 'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)'}
     
 
     
@@ -200,7 +200,7 @@ def update_map(year_selected, ed_level_selected, map_mode):
         year_title = (str(year_selected[0]) + ' - ' + str(year_selected[1]))
 
 
-    if (map_mode == 'Avg. Age of Mother by Ed Level'):
+    if (map_mode == 'Percentage of Education Level'):
 
         total_births_by_state_and_year = df[(df['Year'].between(year_selected[0],year_selected[1]))].groupby(['State', 'State Abbreviation', 'Year'])['Number of Births'].sum().reset_index(name = 'Total Births in State')
         df_by_ed_level_usa = df[(df['Year'].between(year_selected[0],year_selected[1])) & (df['Education Level of Mother'] == ed_level_selected)].groupby(['State', 'State Abbreviation', 'Year', 'Education Level of Mother'])['Number of Births'].sum().reset_index()
