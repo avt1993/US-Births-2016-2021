@@ -221,7 +221,15 @@ def update_map(year_selected, ed_level_selected, map_mode):
             ),
             layout = go.Layout(
                         margin = dict(l=0, r=0, t=0, b=0),
-                        autosize = True
+                        autosize = True,
+                        geo = dict(
+                            bgcolor = 'rgba(0, 0, 0, 0)',
+                            scope = 'usa',
+                            showlakes = True,
+                            lakecolor = 'rgb(255, 255, 255)',
+                            projection_scale = 1, 
+                            domain = dict(x = [0, 0.9])
+                        ),
             )
         )   
 
@@ -231,13 +239,6 @@ def update_map(year_selected, ed_level_selected, map_mode):
                     x = 0.92,  # Set the horizontal position of the title to the center (0.0 - left, 0.5 - center, 1.0 - right)
                     y = 0.25  # Set the vertical position of the title (0.0 - bottom, 0.5 - middle, 1.0 - top)
             ),
-            geo = dict(
-                bgcolor = 'rgba(0, 0, 0, 0)',
-                scope = 'usa',
-                showlakes = True,
-                lakecolor = 'rgb(255, 255, 255)',
-                projection_scale = 1,  # Adjust the scale to fit the map on the screen
-            ),  
         ) 
         
 
@@ -257,7 +258,15 @@ def update_map(year_selected, ed_level_selected, map_mode):
             ),
             layout = go.Layout(
                         margin = dict(l=0, r=0, t=0, b=0),
-                        autosize = True
+                        autosize = True,
+                        geo = dict(
+                            bgcolor = 'rgba(0, 0, 0, 0)',
+                            scope = 'usa',
+                            showlakes = True,
+                            lakecolor = 'rgb(255, 255, 255)',
+                            projection_scale = 1,  # Adjust the scale to fit the map on the screen
+                            domain = dict(x = [0, 0.9])
+                        ), 
             )
       
         )   
@@ -267,15 +276,7 @@ def update_map(year_selected, ed_level_selected, map_mode):
                     text = 'Average Age of Mother by State<br>' + 'Education Level of Mother: ' + ed_level_selected + '<br>' + 'Year: ' + year_title,
                     x = 0.92,  # Set the horizontal position of the title to the center (0.0 - left, 0.5 - center, 1.0 - right)
                     y = 0.25  # Set the vertical position of the title (0.0 - bottom, 0.5 - middle, 1.0 - top)
-            ),
-            geo = dict(
-                bgcolor = 'rgba(0, 0, 0, 0)',
-                scope = 'usa',
-                showlakes = True,
-                lakecolor = 'rgb(255, 255, 255)',
-                projection_scale = 1,  # Adjust the scale to fit the map on the screen
-
-            ),  
+            ) 
         )
 
     return map_fig
