@@ -137,7 +137,7 @@ def render_bar_graph(state_clicked, year_selected, map_mode, ed_level_sel):
                     )
         ])
         fig.update_layout(
-            title = ('Births by Education Level of Mother<br>' + 'State: ' + state_selected + '  /  ' + 'Year: ' + year_title),
+            title = ('Percentage of Births by Education Level of Mother<br>' + 'State: ' + state_selected + '  /  ' + 'Year: ' + year_title),
             xaxis_title = "",
             yaxis_title = False,
             yaxis_visible = False,
@@ -234,7 +234,7 @@ def update_map(year_selected, ed_level_selected, map_mode):
 
         map_fig.update_layout(
             title = dict(
-                    text = 'Percentage of Births by State<br>' + 'Education Level of Mother: ' + ed_level_selected + '<br>' + 'Year: ' + year_title,
+                    #text = 'Percentage of Births by State<br>' + 'Education Level of Mother: ' + ed_level_selected + '<br>' + 'Year: ' + year_title,
                     x = 0.92,  # Set the horizontal position of the title to the center (0.0 - left, 0.5 - center, 1.0 - right)
                     y = 0.25  # Set the vertical position of the title (0.0 - bottom, 0.5 - middle, 1.0 - top)
             ),
@@ -272,7 +272,7 @@ def update_map(year_selected, ed_level_selected, map_mode):
 
         map_fig.update_layout(
             title = dict(
-                    text = 'Average Age of Mother by State<br>' + 'Education Level of Mother: ' + ed_level_selected + '<br>' + 'Year: ' + year_title,
+                    #text = 'Average Age of Mother by State<br>' + 'Education Level of Mother: ' + ed_level_selected + '<br>' + 'Year: ' + year_title,
                     x = 0.92,  # Set the horizontal position of the title to the center (0.0 - left, 0.5 - center, 1.0 - right)
                     y = 0.25  # Set the vertical position of the title (0.0 - bottom, 0.5 - middle, 1.0 - top)
             ) 
