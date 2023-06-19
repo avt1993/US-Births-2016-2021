@@ -8,7 +8,7 @@ server = app.server
 #--------------------------------------------------------------------------------------------------
 # Import and clean data (import csv into pandas)
 
-df = pd.read_csv("us_births_2016_2021_updated.csv")
+df = pd.read_csv("us_births_data.csv")
 #map_df = pd.read_csv("us_births_2016_2021_updated.csv")
 
 ed_level_list = df['Education Level of Mother'].unique().tolist()
@@ -61,13 +61,12 @@ app.layout = html.Div(
                 ]),
 
                 html.Div(
-                    style = {'flex': '0.5%'}
+                    style = {'flex': '0.5%', 'min-width': '0.5%'}
                 ),
-
 
                 html.Div(
                     className = 'Map Container',
-                    style = {'flex': '85%', 'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333'},
+                    style = {'flex': '85%', 'min-width': '85%', 'box-shadow': '4px 4px 6px rgba(0, 0, 0, 0.5)', 'border-width': '7px', 'border-style': 'solid', 'border-color': '#333333'},
 
                     children = [
                         dcc.Graph(id = 'map', style = {'width': '100%', 'height': '100%'})
